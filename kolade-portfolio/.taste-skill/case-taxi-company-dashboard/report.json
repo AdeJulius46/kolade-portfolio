@@ -1,0 +1,2256 @@
+{
+ "url": "http://localhost:3123/projects/taxi-company-dashboard",
+ "at": "2026-10-28T08:23:37.279Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.45,
+    0.47,
+    0.31,
+    0.35,
+    0.57,
+    0.59
+   ],
+   "motion": {
+    "elements": 16,
+    "css": 3,
+    "transitions": 13,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4708,
+     "screens": 5.2,
+     "words": 428,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "image?url=%2Fwork%2Floan-app.png&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Where did 410K in fares go?",
+     "words": 6,
+     "chars": 27,
+     "lines": 2,
+     "size": 108.2,
+     "vw": 7.5,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.69,
+     "top": 140,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Where did 410K in fares go?",
+     "words": 6,
+     "lines": 2,
+     "size": 108.2,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "Where did 410K in fares go?",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 108.2,
+      "vw": 7.5,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 140,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "112K",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 1551,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "2.04M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 1551,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "1.63M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 1551,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "8.03 min",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 1551,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The brief",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 1819,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Cleaning the data",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 1998,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Modelling with DAX",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2324,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The report",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2548,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the data said",
+      "words": 4,
+      "chars": 18,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2846,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Next: Loan default prediction",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 3408,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4541,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 5,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      15,
+      20,
+      26,
+      44,
+      71,
+      108,
+      158
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 19.6,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#eeb778",
+       "top": 3408,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.9
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.06
+      },
+      {
+       "color": "#eeb778",
+       "share": 0.02
+      },
+      {
+       "color": "#18203a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Code & files"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.18
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4708,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section.case-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 599,
+      "words": 61,
+      "media": 0,
+      "middle": 183,
+      "heading": {
+       "text": "Where did 410K in fares go?",
+       "size": 108,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 51,
+      "textLeft": 32,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 599,
+      "height": 735,
+      "words": 3,
+      "media": 4,
+      "middle": 16,
+      "heading": null,
+      "left": 32,
+      "right": 32,
+      "textLeft": 1188,
+      "textRight": 183,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1334,
+      "height": 326,
+      "words": 18,
+      "media": 0,
+      "middle": 169,
+      "heading": {
+       "text": "112K",
+       "size": 71,
+       "tag": "dd"
+      },
+      "left": 32,
+      "right": 85,
+      "textLeft": 32,
+      "textRight": 85,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1998,
+      "height": 238,
+      "words": 54,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 637,
+      "right": 86,
+      "textLeft": 637,
+      "textRight": 86,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2324,
+      "height": 135,
+      "words": 41,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 637,
+      "right": 83,
+      "textLeft": 637,
+      "textRight": 83,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2548,
+      "height": 210,
+      "words": 59,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 637,
+      "right": 78,
+      "textLeft": 637,
+      "textRight": 78,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2846,
+      "height": 404,
+      "words": 107,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 637,
+      "right": 63,
+      "textLeft": 637,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.next-project.accent",
+      "tag": "a",
+      "top": 3408,
+      "height": 674,
+      "words": 4,
+      "media": 1,
+      "middle": 130,
+      "heading": {
+       "text": "Next:",
+       "size": 71,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 826,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4083,
+      "height": 625,
+      "words": 43,
+      "media": 0,
+      "middle": 12,
+      "heading": {
+       "text": "Kolade Ogunleye",
+       "size": 158,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 3248,
+      "height": 288
+     },
+     {
+      "top": 3956,
+      "height": 284
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Where did 410K in fares go?",
+      "size": 108,
+      "top": 140,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 8
+     },
+     {
+      "x": 615,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 20,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.11,
+    "voidBox": {
+     "x": 840,
+     "y": 120,
+     "w": 600,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.39,
+    0.49,
+    0.33,
+    0.44,
+    0.53
+   ],
+   "motion": {
+    "elements": 16,
+    "css": 3,
+    "transitions": 13,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4530,
+     "screens": 4.4,
+     "words": 428,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "image?url=%2Fwork%2Floan-app.png&w=384&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Where did 410K in fares go?",
+     "words": 6,
+     "chars": 27,
+     "lines": 2,
+     "size": 65.2,
+     "vw": 8.5,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.78,
+     "top": 140,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Where did 410K in fares go?",
+     "words": 6,
+     "lines": 2,
+     "size": 65.2,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "Where did 410K in fares go?",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 65.2,
+      "vw": 8.5,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.78,
+      "top": 140,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "112K",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 1533,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "2.04M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.3,
+      "top": 1533,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "1.63M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.3,
+      "top": 1533,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "8.03 min",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 1648,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The brief",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1826,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Cleaning the data",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2046,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Modelling with DAX",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2404,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The report",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2665,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the data said",
+      "words": 4,
+      "chars": 18,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2996,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Next: Loan default prediction",
+      "words": 4,
+      "chars": 29,
+      "lines": 3,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 3515,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4430,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 5,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      15,
+      18,
+      22,
+      31,
+      47,
+      65,
+      85
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 17.9,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 58,
+     "max": {
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#eeb778",
+       "top": 3515,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.9
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.06
+      },
+      {
+       "color": "#eeb778",
+       "share": 0.02
+      },
+      {
+       "color": "#18203a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Code & files"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.21
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4530,
+    "margins": {
+     "left": 17,
+     "right": 17
+    },
+    "sections": [
+     {
+      "sel": "section.case-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 702,
+      "words": 61,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Where did 410K in fares go?",
+       "size": 65,
+       "tag": "h1"
+      },
+      "left": 17,
+      "right": 112,
+      "textLeft": 17,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 702,
+      "height": 680,
+      "words": 3,
+      "media": 4,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 198,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1382,
+      "height": 348,
+      "words": 18,
+      "media": 0,
+      "middle": 124,
+      "heading": {
+       "text": "112K",
+       "size": 47,
+       "tag": "dd"
+      },
+      "left": 17,
+      "right": 126,
+      "textLeft": 17,
+      "textRight": 126,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1826,
+      "height": 131,
+      "words": 31,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 17,
+      "right": 61,
+      "textLeft": 17,
+      "textRight": 61,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2046,
+      "height": 271,
+      "words": 54,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 37,
+      "right": 75,
+      "textLeft": 37,
+      "textRight": 75,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2404,
+      "height": 173,
+      "words": 41,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 37,
+      "right": 73,
+      "textLeft": 37,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2665,
+      "height": 243,
+      "words": 59,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 37,
+      "right": 68,
+      "textLeft": 37,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2996,
+      "height": 423,
+      "words": 107,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 37,
+      "right": 55,
+      "textLeft": 37,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.next-project.accent",
+      "tag": "a",
+      "top": 3515,
+      "height": 353,
+      "words": 4,
+      "media": 1,
+      "middle": 166,
+      "heading": {
+       "text": "Next:",
+       "size": 47,
+       "tag": "span"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 526,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3868,
+      "height": 663,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Case studies",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Where did 410K in fares go?",
+      "size": 65,
+      "top": 140,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 9
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.48,
+    0.38,
+    0.51,
+    0.5,
+    0.75,
+    0.37,
+    0.2
+   ],
+   "motion": {
+    "elements": 16,
+    "css": 3,
+    "transitions": 13,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5079,
+     "screens": 6,
+     "words": 426,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "image?url=%2Fwork%2Floan-app.png&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Where did 410K in fares go?",
+     "words": 6,
+     "chars": 27,
+     "lines": 2,
+     "size": 37.4,
+     "vw": 9.6,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.89,
+     "top": 112,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Where did 410K in fares go?",
+     "words": 6,
+     "lines": 2,
+     "size": 37.4,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "Where did 410K in fares go?",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 37.4,
+      "vw": 9.6,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 112,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "112K",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1205,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "2.04M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1307,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "1.63M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1409,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "8.03 min",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1512,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The brief",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1662,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Cleaning the data",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1926,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Modelling with DAX",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2378,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The report",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2709,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the data said",
+      "words": 4,
+      "chars": 18,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3133,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Next: Loan default prediction",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 3802,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 12,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5013,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 5,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      15,
+      17,
+      20,
+      28,
+      36,
+      37,
+      47
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 17,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 36,
+     "max": {
+      "size": 46.8,
+      "vw": 12,
+      "font": "Sentient",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#eeb778",
+       "top": 3802,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.9
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.06
+      },
+      {
+       "color": "#eeb778",
+       "share": 0.02
+      },
+      {
+       "color": "#18203a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Code & files"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5079,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.case-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 673,
+      "words": 61,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Where did 410K in fares go?",
+       "size": 37,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 27,
+      "textLeft": 16,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 673,
+      "height": 400,
+      "words": 3,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 71,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1072,
+      "height": 510,
+      "words": 18,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "112K",
+       "size": 36,
+       "tag": "dd"
+      },
+      "left": 16,
+      "right": 204,
+      "textLeft": 16,
+      "textRight": 204,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1662,
+      "height": 176,
+      "words": 31,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1926,
+      "height": 364,
+      "words": 54,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 35,
+      "right": 22,
+      "textLeft": 35,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2378,
+      "height": 243,
+      "words": 41,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 35,
+      "right": 31,
+      "textLeft": 35,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2709,
+      "height": 336,
+      "words": 59,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 35,
+      "right": 18,
+      "textLeft": 35,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 3133,
+      "height": 589,
+      "words": 107,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 35,
+      "right": 18,
+      "textLeft": 35,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.next-project.accent",
+      "tag": "a",
+      "top": 3802,
+      "height": 449,
+      "words": 4,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Next:",
+       "size": 36,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 79,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4251,
+      "height": 827,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Case studies",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 33,
+      "textLeft": 16,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Where did 410K in fares go?",
+      "size": 37,
+      "top": 112,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 9
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 2 picture(s) on the page (1 photographs, footage or raster images, 1 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "1 headline(s) wrap past two lines at 768px: \"Next: Loan default prediction\" → 3 lines (4 words, 46.8px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-taxi-company-dashboard\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-taxi-company-dashboard\\desktop-page-01.jpg",
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-taxi-company-dashboard\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-taxi-company-dashboard\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-taxi-company-dashboard\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-taxi-company-dashboard\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-taxi-company-dashboard\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

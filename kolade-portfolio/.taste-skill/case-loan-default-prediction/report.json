@@ -1,0 +1,2346 @@
+{
+ "url": "http://localhost:3123/projects/loan-default-prediction",
+ "at": "2026-10-28T08:24:03.337Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.4,
+    0.69,
+    0.4,
+    0.31,
+    0.8,
+    0.59
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 2,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5050,
+     "screens": 5.6,
+     "words": 378,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 2,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 2,
+     "pictureSamples": [
+      "image?url=%2Fwork%2Floan-app.png&w=1200&q=75",
+      "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Will this borrower default?",
+     "words": 4,
+     "chars": 27,
+     "lines": 2,
+     "size": 108.2,
+     "vw": 7.5,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.69,
+     "top": 140,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Will this borrower default?",
+     "words": 4,
+     "lines": 2,
+     "size": 108.2,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "Will this borrower default?",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 108.2,
+      "vw": 7.5,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 140,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.36,
+      "top": 749,
+      "tag": "b",
+      "kind": "statement"
+     },
+     {
+      "text": "The real thing",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1306,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 2323,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "5",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 2323,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "17",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 2323,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Live",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 2323,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The brief",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2591,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The data",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2770,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Approach",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2980,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Results, honestly",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 3322,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Deployment",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 3532,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Next: Pectoria database design",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 3751,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4884,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 6,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      15,
+      20,
+      26,
+      44,
+      71,
+      108,
+      158
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 19.6,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#eeb778",
+       "top": 3751,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.84
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.12
+      },
+      {
+       "color": "#eeb778",
+       "share": 0.02
+      },
+      {
+       "color": "#18203a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Live demo",
+      "Repaid"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5050,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section.case-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 629,
+      "words": 51,
+      "media": 0,
+      "middle": 84,
+      "heading": {
+       "text": "Will this borrower default?",
+       "size": 108,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 35,
+      "textLeft": 32,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 629,
+      "height": 518,
+      "words": 32,
+      "media": 0,
+      "middle": 333,
+      "heading": {
+       "text": "88.7%",
+       "size": 71,
+       "tag": "b"
+      },
+      "left": 72,
+      "right": 104,
+      "textLeft": 72,
+      "textRight": 104,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1148,
+      "height": 959,
+      "words": 18,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The real thing",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 763,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2107,
+      "height": 326,
+      "words": 13,
+      "media": 0,
+      "middle": 182,
+      "heading": {
+       "text": "88.7%",
+       "size": 71,
+       "tag": "dd"
+      },
+      "left": 32,
+      "right": 225,
+      "textLeft": 32,
+      "textRight": 225,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.case-body",
+      "tag": "div",
+      "top": 2433,
+      "height": 1160,
+      "words": 226,
+      "media": 0,
+      "middle": 244,
+      "heading": {
+       "text": "The brief",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 68,
+      "textLeft": 32,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.next-project.accent",
+      "tag": "a",
+      "top": 3751,
+      "height": 674,
+      "words": 4,
+      "media": 1,
+      "middle": 205,
+      "heading": {
+       "text": "Next:",
+       "size": 71,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 901,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4425,
+      "height": 625,
+      "words": 43,
+      "media": 0,
+      "middle": 12,
+      "heading": {
+       "text": "Kolade Ogunleye",
+       "size": 158,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 3592,
+      "height": 288
+     },
+     {
+      "top": 4296,
+      "height": 288
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Will this borrower default?",
+      "size": 108,
+      "top": 140,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 9
+     },
+     {
+      "x": 615,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 13,
+    "bodySize": 20,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.15,
+    "voidBox": {
+     "x": 300,
+     "y": 540,
+     "w": 540,
+     "h": 360
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.53,
+    0.79,
+    0.32,
+    0.71,
+    0.53
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 2,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4728,
+     "screens": 4.6,
+     "words": 378,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 2,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 2,
+     "pictureSamples": [
+      "image?url=%2Fwork%2Floan-app.png&w=828&q=75",
+      "image?url=%2Fwork%2Fpectoria-drive.png&w=384&q=7"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Will this borrower default?",
+     "words": 4,
+     "chars": 27,
+     "lines": 2,
+     "size": 65.2,
+     "vw": 8.5,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.78,
+     "top": 140,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Will this borrower default?",
+     "words": 4,
+     "lines": 2,
+     "size": 65.2,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "Will this borrower default?",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 65.2,
+      "vw": 8.5,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.78,
+      "top": 140,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1179,
+      "tag": "b",
+      "kind": "statement"
+     },
+     {
+      "text": "The real thing",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1517,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 2134,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "5",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.3,
+      "top": 2134,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "17",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.3,
+      "top": 2134,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Live",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 2249,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The brief",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2427,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The data",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2647,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Approach",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2894,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Results, honestly",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3266,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Deployment",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3513,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Next: Pectoria database design",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 3713,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4628,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 6,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      15,
+      18,
+      22,
+      31,
+      47,
+      65,
+      85
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 17.9,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#232c4a",
+       "top": 767,
+       "hsl": {
+        "h": 226,
+        "s": 0.36,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#eeb778",
+       "top": 3713,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.84
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.12
+      },
+      {
+       "color": "#eeb778",
+       "share": 0.02
+      },
+      {
+       "color": "#18203a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Live demo",
+      "Repaid"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4728,
+    "margins": {
+     "left": 17,
+     "right": 17
+    },
+    "sections": [
+     {
+      "sel": "section.case-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 671,
+      "words": 51,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Will this borrower default?",
+       "size": 65,
+       "tag": "h1"
+      },
+      "left": 17,
+      "right": 114,
+      "textLeft": 17,
+      "textRight": 114,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 671,
+      "height": 750,
+      "words": 32,
+      "media": 0,
+      "middle": 100,
+      "heading": {
+       "text": "88.7%",
+       "size": 47,
+       "tag": "b"
+      },
+      "left": 40,
+      "right": 115,
+      "textLeft": 40,
+      "textRight": 115,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1421,
+      "height": 562,
+      "words": 18,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The real thing",
+       "size": 31,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 106,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1983,
+      "height": 348,
+      "words": 13,
+      "media": 0,
+      "middle": 127,
+      "heading": {
+       "text": "88.7%",
+       "size": 47,
+       "tag": "dd"
+      },
+      "left": 17,
+      "right": 91,
+      "textLeft": 17,
+      "textRight": 91,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.case-body",
+      "tag": "div",
+      "top": 2331,
+      "height": 1285,
+      "words": 226,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The brief",
+       "size": 31,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 60,
+      "textLeft": 17,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.next-project.accent",
+      "tag": "a",
+      "top": 3713,
+      "height": 353,
+      "words": 4,
+      "media": 1,
+      "middle": 56,
+      "heading": {
+       "text": "Next:",
+       "size": 47,
+       "tag": "span"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 416,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4065,
+      "height": 663,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Case studies",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Will this borrower default?",
+      "size": 65,
+      "top": 140,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 13
+     }
+    ],
+    "leftBlocks": 13,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.45,
+    0.76,
+    0.34,
+    0.49,
+    0.48,
+    0.61,
+    0.2
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 2,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5438,
+     "screens": 6.4,
+     "words": 376,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 2,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 2,
+     "pictureSamples": [
+      "image?url=%2Fwork%2Floan-app.png&w=640&q=75",
+      "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Will this borrower default?",
+     "words": 4,
+     "chars": 27,
+     "lines": 2,
+     "size": 37.4,
+     "vw": 9.6,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.89,
+     "top": 112,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Will this borrower default?",
+     "words": 4,
+     "lines": 2,
+     "size": 37.4,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "Will this borrower default?",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 37.4,
+      "vw": 9.6,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 112,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1317,
+      "tag": "b",
+      "kind": "statement"
+     },
+     {
+      "text": "The real thing",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1628,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2058,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "5",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2161,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "17",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2263,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Live",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2366,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The brief",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2516,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The data",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2806,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Approach",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3123,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Results, honestly",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3588,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Deployment",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3931,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Next: Pectoria database design",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 4161,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 12,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5371,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 6,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      15,
+      17,
+      20,
+      28,
+      36,
+      37,
+      47
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 17,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 46.8,
+      "vw": 12,
+      "font": "Sentient",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#232c4a",
+       "top": 767,
+       "hsl": {
+        "h": 226,
+        "s": 0.36,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#eeb778",
+       "top": 4161,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.84
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.12
+      },
+      {
+       "color": "#eeb778",
+       "share": 0.02
+      },
+      {
+       "color": "#18203a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Live demo",
+      "Repaid"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5438,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.case-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 671,
+      "words": 51,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Will this borrower default?",
+       "size": 37,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 17,
+      "textLeft": 16,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 671,
+      "height": 877,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 36,
+      "right": 51,
+      "textLeft": 36,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1548,
+      "height": 378,
+      "words": 18,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The real thing",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1926,
+      "height": 510,
+      "words": 13,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "88.7%",
+       "size": 36,
+       "tag": "dd"
+      },
+      "left": 16,
+      "right": 227,
+      "textLeft": 16,
+      "textRight": 227,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2516,
+      "height": 203,
+      "words": 39,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 20,
+      "textLeft": 16,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2806,
+      "height": 229,
+      "words": 46,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 21,
+      "textLeft": 16,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 3123,
+      "height": 376,
+      "words": 59,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 35,
+      "right": 22,
+      "textLeft": 35,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 3588,
+      "height": 255,
+      "words": 49,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 3931,
+      "height": 150,
+      "words": 25,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 20,
+      "textLeft": 16,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.next-project.accent",
+      "tag": "a",
+      "top": 4161,
+      "height": 449,
+      "words": 4,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Next:",
+       "size": 36,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 117,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4610,
+      "height": 827,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Case studies",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 33,
+      "textLeft": 16,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 836,
+      "height": 368
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Will this borrower default?",
+      "size": 37,
+      "top": 112,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 13
+     }
+    ],
+    "leftBlocks": 13,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "blank-gap",
+   "width": 390,
+   "message": "A 368px stretch at 836px holds nothing.",
+   "fix": "Check that it is a deliberate rest (once per page at most); otherwise close it to the normal section gap."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-loan-default-prediction\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-loan-default-prediction\\desktop-page-01.jpg",
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-loan-default-prediction\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-loan-default-prediction\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-loan-default-prediction\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-loan-default-prediction\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-loan-default-prediction\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

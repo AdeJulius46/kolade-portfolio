@@ -1,0 +1,2979 @@
+{
+ "url": "http://localhost:3123/",
+ "at": "2026-10-28T08:22:49.587Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.56,
+    0.78,
+    0.53,
+    0.41,
+    0.47,
+    1,
+    0.83,
+    0.63,
+    0.7,
+    0.59
+   ],
+   "motion": {
+    "elements": 39,
+    "css": 7,
+    "transitions": 32,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 8647,
+     "screens": 9.6,
+     "words": 722,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 3,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 3,
+     "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=640&q=75",
+      "image?url=%2Ftaxi-1.webp&w=1080&q=75",
+      "image?url=%2Ftaxi-3.webp&w=640&q=75",
+      "image?url=%2Fplace%2Fpitakwa.jpg&w=1080&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "chars": 15,
+     "lines": 2,
+     "size": 158.4,
+     "vw": 11,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.035,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.55,
+     "top": 319,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "lines": 2,
+     "size": 158.4,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.035,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 319,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Where did 410K in fares go?",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1058,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "2.04M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 1311,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "1.63M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.47,
+      "top": 1311,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Selected work",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 1738,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Taxi company analysis dashboard",
+      "words": 4,
+      "chars": 31,
+      "lines": 2,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.31,
+      "top": 2211,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.27,
+      "top": 2779,
+      "tag": "b",
+      "kind": "statement"
+     },
+     {
+      "text": "Loan default prediction",
+      "words": 3,
+      "chars": 23,
+      "lines": 2,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.31,
+      "top": 3073,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "8",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 3614,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 3730,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 3821,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Pectoria database design",
+      "words": 3,
+      "chars": 24,
+      "lines": 2,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.23,
+      "top": 3949,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "What I do",
+      "words": 3,
+      "chars": 9,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 4685,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Data cleaning & SQL",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 4815,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Dashboards & BI",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 4951,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Machine learning",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 5087,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Deployment & automation",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 5223,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Experience & education",
+      "words": 3,
+      "chars": 22,
+      "lines": 2,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 6192,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 8481,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 19,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 7,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      20,
+      26,
+      44,
+      71,
+      158
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 19.6,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "text": "Kolade"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#eeb778",
+       "top": 112,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      },
+      {
+       "color": "#eceef0",
+       "top": 900,
+       "hsl": {
+        "h": 210,
+        "s": 0.12,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 3736,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.39
+      },
+      {
+       "color": "#18203a",
+       "share": 0.36
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.08
+      },
+      {
+       "color": "#202124",
+       "share": 0.07
+      },
+      {
+       "color": "#eeb778",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Email me"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.35
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 8647,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 900,
+      "words": 40,
+      "media": 1,
+      "middle": 143,
+      "heading": {
+       "text": "Kolade",
+       "size": 158,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 20,
+      "textLeft": 32,
+      "textRight": 745,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.showcase.alt",
+      "tag": "section",
+      "top": 900,
+      "height": 679,
+      "words": 52,
+      "media": 0,
+      "middle": 192,
+      "heading": {
+       "text": "2.04M",
+       "size": 158,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 53,
+      "textLeft": 32,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.proj.proj-taxi",
+      "tag": "article",
+      "top": 1906,
+      "height": 688,
+      "words": 52,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Taxi company analysis dashboard",
+       "size": 44,
+       "tag": "h3"
+      },
+      "left": 965,
+      "right": 32,
+      "textLeft": 965,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.proj.proj-loan",
+      "tag": "article",
+      "top": 2755,
+      "height": 671,
+      "words": 74,
+      "media": 0,
+      "middle": 433,
+      "heading": {
+       "text": "88.7%",
+       "size": 71,
+       "tag": "b"
+      },
+      "left": 72,
+      "right": 34,
+      "textLeft": 72,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.proj.proj-sheet",
+      "tag": "article",
+      "top": 3586,
+      "height": 779,
+      "words": 124,
+      "media": 0,
+      "middle": 251,
+      "heading": {
+       "text": "Pectoria database design",
+       "size": 44,
+       "tag": "h3"
+      },
+      "left": 48,
+      "right": 37,
+      "textLeft": 48,
+      "textRight": 37,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 4681,
+      "height": 674,
+      "words": 84,
+      "media": 0,
+      "middle": 84,
+      "heading": {
+       "text": "Data cleaning & SQL",
+       "size": 71,
+       "tag": "h3"
+      },
+      "left": 32,
+      "right": 41,
+      "textLeft": 32,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 5452,
+      "height": 424,
+      "words": 99,
+      "media": 0,
+      "middle": 95,
+      "heading": null,
+      "left": 382,
+      "right": 35,
+      "textLeft": 382,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.about",
+      "tag": "section",
+      "top": 6034,
+      "height": 1409,
+      "words": 123,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Experience & education",
+       "size": 71,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 47,
+      "textLeft": 32,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact.alt",
+      "tag": "section",
+      "top": 7443,
+      "height": 579,
+      "words": 40,
+      "media": 0,
+      "middle": 141,
+      "heading": {
+       "text": "Let’s find what your data is hiding.",
+       "size": 26,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 49,
+      "textLeft": 32,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 8022,
+      "height": 625,
+      "words": 43,
+      "media": 0,
+      "middle": 12,
+      "heading": {
+       "text": "Kolade Ogunleye",
+       "size": 158,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 4364,
+      "height": 308
+     },
+     {
+      "top": 5876,
+      "height": 304
+     },
+     {
+      "top": 7284,
+      "height": 316
+     },
+     {
+      "top": 7864,
+      "height": 316
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Kolade Ogunleye",
+      "size": 158,
+      "top": 319,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 16
+     },
+     {
+      "x": 965,
+      "n": 11
+     },
+     {
+      "x": 499,
+      "n": 2
+     },
+     {
+      "x": 849,
+      "n": 2
+     },
+     {
+      "x": 1082,
+      "n": 2
+     },
+     {
+      "x": 732,
+      "n": 1
+     },
+     {
+      "x": 1000,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 35,
+    "bodySize": 20,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.11,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 780,
+     "h": 180
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.73,
+    0.74,
+    0.64,
+    0.69,
+    0.72,
+    1,
+    0.68,
+    0.69,
+    0.53
+   ],
+   "motion": {
+    "elements": 39,
+    "css": 7,
+    "transitions": 32,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 9062,
+     "screens": 8.8,
+     "words": 722,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 3,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 3,
+     "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=384&q=75",
+      "image?url=%2Ftaxi-1.webp&w=828&q=75",
+      "image?url=%2Ftaxi-3.webp&w=640&q=75",
+      "image?url=%2Fplace%2Fpitakwa.jpg&w=828&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "chars": 15,
+     "lines": 2,
+     "size": 84.5,
+     "vw": 11,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.035,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.54,
+     "top": 152,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "lines": 2,
+     "size": 84.5,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.035,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 152,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Where did 410K in fares go?",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 789,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "2.04M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 1143,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "1.63M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 1143,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Selected work",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1408,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Taxi company analysis dashboard",
+      "words": 4,
+      "chars": 31,
+      "lines": 2,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 2178,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Loan default prediction",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 3099,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 3123,
+      "tag": "b",
+      "kind": "statement"
+     },
+     {
+      "text": "Pectoria database design",
+      "words": 3,
+      "chars": 24,
+      "lines": 2,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 4137,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "8",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.05,
+      "top": 4165,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.05,
+      "top": 4257,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.05,
+      "top": 4324,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "What I do",
+      "words": 3,
+      "chars": 9,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4670,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Data cleaning & SQL",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4841,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Dashboards & BI",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 5015,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Machine learning",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 5190,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Deployment & automation",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 5364,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Experience & education",
+      "words": 3,
+      "chars": 22,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 6321,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 8962,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 19,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 7,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      18,
+      20,
+      22,
+      31,
+      47,
+      85
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 17.9,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 58,
+     "max": {
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "text": "Kolade"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#eceef0",
+       "top": 693,
+       "hsl": {
+        "h": 210,
+        "s": 0.12,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#232c4a",
+       "top": 2703,
+       "hsl": {
+        "h": 226,
+        "s": 0.36,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 3588,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#eeb778",
+       "top": 4571,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.39
+      },
+      {
+       "color": "#18203a",
+       "share": 0.36
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.08
+      },
+      {
+       "color": "#202124",
+       "share": 0.07
+      },
+      {
+       "color": "#eeb778",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Email me"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.19
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 9062,
+    "margins": {
+     "left": 17,
+     "right": 17
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 693,
+      "words": 40,
+      "media": 1,
+      "middle": 38,
+      "heading": {
+       "text": "Kolade",
+       "size": 84,
+       "tag": "h1"
+      },
+      "left": 17,
+      "right": 12,
+      "textLeft": 17,
+      "textRight": 352,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.showcase.alt",
+      "tag": "section",
+      "top": 693,
+      "height": 618,
+      "words": 52,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "2.04M",
+       "size": 84,
+       "tag": "p"
+      },
+      "left": 17,
+      "right": 161,
+      "textLeft": 17,
+      "textRight": 161,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.proj.proj-taxi",
+      "tag": "article",
+      "top": 1603,
+      "height": 940,
+      "words": 52,
+      "media": 1,
+      "middle": 28,
+      "heading": null,
+      "left": 17,
+      "right": 18,
+      "textLeft": 398,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.proj.proj-loan",
+      "tag": "article",
+      "top": 2703,
+      "height": 725,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "88.7%",
+       "size": 47,
+       "tag": "b"
+      },
+      "left": 40,
+      "right": 34,
+      "textLeft": 40,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.proj.proj-sheet",
+      "tag": "article",
+      "top": 3588,
+      "height": 887,
+      "words": 124,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 33,
+      "right": 51,
+      "textLeft": 33,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 4667,
+      "height": 868,
+      "words": 84,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Data cleaning & SQL",
+       "size": 47,
+       "tag": "h3"
+      },
+      "left": 17,
+      "right": 191,
+      "textLeft": 17,
+      "textRight": 191,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 5631,
+      "height": 498,
+      "words": 99,
+      "media": 0,
+      "middle": 28,
+      "heading": null,
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.about",
+      "tag": "section",
+      "top": 6225,
+      "height": 1499,
+      "words": 123,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Experience & education",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 23,
+      "textLeft": 17,
+      "textRight": 23,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact.alt",
+      "tag": "section",
+      "top": 7724,
+      "height": 676,
+      "words": 40,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s find what your data is hiding.",
+       "size": 22,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 245,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 8400,
+      "height": 663,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Case studies",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Kolade Ogunleye",
+      "size": 84,
+      "top": 152,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 24
+     },
+     {
+      "x": 398,
+      "n": 6
+     },
+     {
+      "x": 270,
+      "n": 2
+     },
+     {
+      "x": 522,
+      "n": 2
+     },
+     {
+      "x": 41,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 35,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.67,
+    0.92,
+    0.52,
+    0.71,
+    0.64,
+    0.86,
+    0.76,
+    1,
+    0.86,
+    0.63,
+    0.57,
+    0.7
+   ],
+   "motion": {
+    "elements": 39,
+    "css": 7,
+    "transitions": 32,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 10693,
+     "screens": 12.7,
+     "words": 720,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 3,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 3,
+     "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=640&q=75",
+      "image?url=%2Ftaxi-1.webp&w=640&q=75",
+      "image?url=%2Ftaxi-3.webp&w=640&q=75",
+      "image?url=%2Fplace%2Fpitakwa.jpg&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "chars": 15,
+     "lines": 2,
+     "size": 70.2,
+     "vw": 18,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.035,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 132,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "lines": 2,
+     "size": 70.2,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 70.2,
+      "vw": 18,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.035,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 132,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Where did 410K in fares go?",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.68,
+      "top": 1170,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "2.04M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 70.2,
+      "vw": 18,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1490,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "1.63M",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 70.2,
+      "vw": 18,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1628,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Selected work",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1855,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Taxi company analysis dashboard",
+      "words": 4,
+      "chars": 31,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2541,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 3515,
+      "tag": "b",
+      "kind": "statement"
+     },
+     {
+      "text": "Loan default prediction",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3774,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "8",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 4970,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 5026,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 5082,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "Pectoria database design",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5174,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "What I do",
+      "words": 3,
+      "chars": 9,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5602,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Data cleaning & SQL",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5758,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Dashboards & BI",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5917,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Machine learning",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6075,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Deployment & automation",
+      "words": 3,
+      "chars": 23,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6234,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Experience & education",
+      "words": 3,
+      "chars": 22,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7447,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 12,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 10627,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 19,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 7,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      17,
+      20,
+      28,
+      36,
+      47,
+      70
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 17,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 70.2,
+      "vw": 18,
+      "font": "Sentient",
+      "text": "Kolade"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#eeb778",
+       "top": 571,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      },
+      {
+       "color": "#eceef0",
+       "top": 1090,
+       "hsl": {
+        "h": 210,
+        "s": 0.12,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#232c4a",
+       "top": 2957,
+       "hsl": {
+        "h": 226,
+        "s": 0.36,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 4184,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.39
+      },
+      {
+       "color": "#18203a",
+       "share": 0.36
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.08
+      },
+      {
+       "color": "#202124",
+       "share": 0.07
+      },
+      {
+       "color": "#eeb778",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Email me"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.33
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 10693,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 1090,
+      "words": 40,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Kolade",
+       "size": 70,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 20,
+      "textLeft": 16,
+      "textRight": 20,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.showcase.alt",
+      "tag": "section",
+      "top": 1090,
+      "height": 685,
+      "words": 52,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "2.04M",
+       "size": 70,
+       "tag": "p"
+      },
+      "left": 16,
+      "right": 24,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.proj.proj-taxi",
+      "tag": "article",
+      "top": 2064,
+      "height": 797,
+      "words": 52,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Taxi company analysis dashboard",
+       "size": 28,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.proj.proj-loan",
+      "tag": "article",
+      "top": 2957,
+      "height": 1131,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 30,
+      "textLeft": 16,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.proj.proj-sheet",
+      "tag": "article",
+      "top": 4184,
+      "height": 1255,
+      "words": 124,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 32,
+      "textLeft": 16,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 5599,
+      "height": 828,
+      "words": 87,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What I do",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 24,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 6523,
+      "height": 764,
+      "words": 99,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 17,
+      "textLeft": 16,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 7447,
+      "height": 259,
+      "words": 31,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.about-tiles",
+      "tag": "div",
+      "top": 7779,
+      "height": 463,
+      "words": 26,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 39,
+      "textLeft": 16,
+      "textRight": 39,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 8305,
+      "height": 632,
+      "words": 63,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Data Science Intern",
+       "size": 20,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 28,
+      "textLeft": 16,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact.alt",
+      "tag": "section",
+      "top": 9017,
+      "height": 849,
+      "words": 40,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s find what your data is hiding.",
+       "size": 20,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 9866,
+      "height": 827,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Case studies",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 33,
+      "textLeft": 16,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 3028,
+      "height": 364
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Kolade Ogunleye",
+      "size": 70,
+      "top": 132,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 34
+     },
+     {
+      "x": 40,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 35,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "lopsided",
+   "width": 1440,
+   "message": "A section keeps its content on one side and leaves 965px of the width empty: \"Taxi company analysis dashboard\".",
+   "fix": "Fill the other side with what the section has (its picture, a second column, the figure), or defend the void in one sentence."
+  },
+  {
+   "level": "WARN",
+   "id": "blank-gap",
+   "width": 390,
+   "message": "A 364px stretch at 3028px holds nothing.",
+   "fix": "Check that it is a deliberate rest (once per page at most); otherwise close it to the normal section gap."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\desktop-page-01.jpg",
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\desktop-page-02.jpg",
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\tablet-page-01.jpg",
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\mobile-page-01.jpg",
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\after\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

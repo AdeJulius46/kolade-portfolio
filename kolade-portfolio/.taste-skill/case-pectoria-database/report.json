@@ -1,0 +1,2055 @@
+{
+ "url": "http://localhost:3123/projects/pectoria-database",
+ "at": "2026-10-28T08:24:29.036Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.45,
+    0.75,
+    0.41,
+    0.29,
+    0.71,
+    0.59
+   ],
+   "motion": {
+    "elements": 13,
+    "css": 2,
+    "transitions": 11,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4852,
+     "screens": 5.4,
+     "words": 357,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "image?url=%2Fwork%2Fpectoria-drive.png&w=1200&q=",
+      "image?url=%2Ftaxi-1.webp&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A database without buying software",
+     "words": 5,
+     "chars": 34,
+     "lines": 2,
+     "size": 108.2,
+     "vw": 7.5,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.69,
+     "top": 140,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A database without buying software",
+     "words": 5,
+     "lines": 2,
+     "size": 108.2,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "A database without buying software",
+      "words": 5,
+      "chars": 34,
+      "lines": 2,
+      "size": 108.2,
+      "vw": 7.5,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 140,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The real thing",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1332,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "8",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2350,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.31,
+      "top": 2350,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.31,
+      "top": 2350,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The brief",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2618,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What I built",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 2797,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What is in it",
+      "words": 4,
+      "chars": 13,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 3064,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Next: Taxi company analysis dashboard",
+      "words": 5,
+      "chars": 37,
+      "lines": 2,
+      "size": 71,
+      "vw": 4.9,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 3552,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4685,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 0.78,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.22,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      20,
+      26,
+      44,
+      71,
+      108,
+      158
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 19.6,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 158.4,
+      "vw": 11,
+      "font": "Sentient",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 695,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#eeb778",
+       "top": 3552,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.64
+      },
+      {
+       "color": "#202124",
+       "share": 0.16
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.09
+      },
+      {
+       "color": "#188038",
+       "share": 0.06
+      },
+      {
+       "color": "#18203a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "View design files"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4852,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section.case-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 599,
+      "words": 50,
+      "media": 0,
+      "middle": 11,
+      "heading": {
+       "text": "A database without buying software",
+       "size": 108,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 51,
+      "textLeft": 32,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 599,
+      "height": 575,
+      "words": 74,
+      "media": 0,
+      "middle": 156,
+      "heading": null,
+      "left": 48,
+      "right": 485,
+      "textLeft": 48,
+      "textRight": 485,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1174,
+      "height": 959,
+      "words": 13,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The real thing",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 1008,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2133,
+      "height": 326,
+      "words": 11,
+      "media": 0,
+      "middle": 328,
+      "heading": {
+       "text": "In numbers",
+       "size": 26,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 365,
+      "textLeft": 32,
+      "textRight": 365,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.case-body",
+      "tag": "div",
+      "top": 2459,
+      "height": 935,
+      "words": 158,
+      "media": 0,
+      "middle": 343,
+      "heading": {
+       "text": "The brief",
+       "size": 44,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 65,
+      "textLeft": 32,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.next-project.accent",
+      "tag": "a",
+      "top": 3552,
+      "height": 674,
+      "words": 5,
+      "media": 1,
+      "middle": 83,
+      "heading": {
+       "text": "Next:",
+       "size": 71,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 779,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 4226,
+      "height": 625,
+      "words": 43,
+      "media": 0,
+      "middle": 12,
+      "heading": {
+       "text": "Kolade Ogunleye",
+       "size": 158,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 3392,
+      "height": 288
+     },
+     {
+      "top": 4100,
+      "height": 284
+     }
+    ],
+    "h1s": [
+     {
+      "text": "A database without buying software",
+      "size": 108,
+      "top": 140,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 7
+     },
+     {
+      "x": 615,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 8,
+    "bodySize": 20,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.12,
+    "voidBox": {
+     "x": 600,
+     "y": 600,
+     "w": 840,
+     "h": 180
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.53,
+    0.68,
+    0.36,
+    0.48,
+    0.53
+   ],
+   "motion": {
+    "elements": 13,
+    "css": 2,
+    "transitions": 11,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4171,
+     "screens": 4.1,
+     "words": 357,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "image?url=%2Fwork%2Fpectoria-drive.png&w=828&q=7",
+      "image?url=%2Ftaxi-1.webp&w=384&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A database without buying software",
+     "words": 5,
+     "chars": 34,
+     "lines": 2,
+     "size": 65.2,
+     "vw": 8.5,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.78,
+     "top": 140,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A database without buying software",
+     "words": 5,
+     "lines": 2,
+     "size": 65.2,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "A database without buying software",
+      "words": 5,
+      "chars": 34,
+      "lines": 2,
+      "size": 65.2,
+      "vw": 8.5,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.78,
+      "top": 140,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The real thing",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1389,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "8",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 2005,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.3,
+      "top": 2005,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.3,
+      "top": 2005,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The brief",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2184,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What I built",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2403,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What is in it",
+      "words": 4,
+      "chars": 13,
+      "lines": 1,
+      "size": 31.4,
+      "vw": 4.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2706,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Next: Taxi company analysis dashboard",
+      "words": 5,
+      "chars": 37,
+      "lines": 4,
+      "size": 46.8,
+      "vw": 6.1,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 3156,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4071,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 4,
+     "over2Lines": 1,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 0.78,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.22,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      18,
+      22,
+      31,
+      47,
+      65,
+      85
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 17.9,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 84.5,
+      "vw": 11,
+      "font": "Sentient",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 767,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#eeb778",
+       "top": 3156,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.64
+      },
+      {
+       "color": "#202124",
+       "share": 0.16
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.09
+      },
+      {
+       "color": "#188038",
+       "share": 0.06
+      },
+      {
+       "color": "#18203a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "View design files"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4171,
+    "margins": {
+     "left": 17,
+     "right": 17
+    },
+    "sections": [
+     {
+      "sel": "section.case-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 671,
+      "words": 50,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "A database without buying software",
+       "size": 65,
+       "tag": "h1"
+      },
+      "left": 17,
+      "right": 142,
+      "textLeft": 17,
+      "textRight": 142,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 671,
+      "height": 621,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 33,
+      "right": 70,
+      "textLeft": 33,
+      "textRight": 70,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1293,
+      "height": 562,
+      "words": 13,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The real thing",
+       "size": 31,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 351,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1855,
+      "height": 233,
+      "words": 11,
+      "media": 0,
+      "middle": 125,
+      "heading": {
+       "text": "In numbers",
+       "size": 22,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 146,
+      "textLeft": 17,
+      "textRight": 146,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.case-body",
+      "tag": "div",
+      "top": 2088,
+      "height": 972,
+      "words": 158,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The brief",
+       "size": 31,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 57,
+      "textLeft": 17,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.next-project.accent",
+      "tag": "a",
+      "top": 3156,
+      "height": 353,
+      "words": 5,
+      "media": 1,
+      "middle": 168,
+      "heading": {
+       "text": "Next:",
+       "size": 47,
+       "tag": "span"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 528,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3509,
+      "height": 663,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Case studies",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 17,
+      "right": 17,
+      "textLeft": 17,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A database without buying software",
+      "size": 65,
+      "top": 140,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 17,
+      "n": 8
+     }
+    ],
+    "leftBlocks": 8,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.5,
+    0.83,
+    0.24,
+    0.53,
+    0.61,
+    0.2
+   ],
+   "motion": {
+    "elements": 13,
+    "css": 2,
+    "transitions": 11,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 4774,
+     "screens": 5.7,
+     "words": 355,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7",
+      "image?url=%2Ftaxi-1.webp&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A database without buying software",
+     "words": 5,
+     "chars": 34,
+     "lines": 2,
+     "size": 37.4,
+     "vw": 9.6,
+     "font": "Sentient",
+     "weight": 300,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.89,
+     "top": 112,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A database without buying software",
+     "words": 5,
+     "lines": 2,
+     "size": 37.4,
+     "font": "Sentient"
+    },
+    "headings": [
+     {
+      "text": "A database without buying software",
+      "words": 5,
+      "chars": 34,
+      "lines": 2,
+      "size": 37.4,
+      "vw": 9.6,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 112,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "The real thing",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1527,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "8",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1958,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2060,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2162,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The brief",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2313,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What I built",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2577,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What is in it",
+      "words": 4,
+      "chars": 13,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.015,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2922,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Next: Taxi company analysis dashboard",
+      "words": 5,
+      "chars": 37,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.025,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 3498,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 46.8,
+      "vw": 12,
+      "font": "Sentient",
+      "weight": 300,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4708,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Sentient",
+       "share": 0.78,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.22,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      17,
+      20,
+      28,
+      36,
+      37,
+      47
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Sentient",
+      "size": 17,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.8
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 46.8,
+      "vw": 12,
+      "font": "Sentient",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#18203a",
+     "bodyBgHsl": {
+      "h": 226,
+      "s": 0.41,
+      "l": 0.16
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 713,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#eeb778",
+       "top": 3498,
+       "hsl": {
+        "h": 32,
+        "s": 0.78,
+        "l": 0.7
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#eceef0",
+       "share": 0.64
+      },
+      {
+       "color": "#202124",
+       "share": 0.16
+      },
+      {
+       "color": "#b1b7c8",
+       "share": 0.09
+      },
+      {
+       "color": "#188038",
+       "share": 0.06
+      },
+      {
+       "color": "#18203a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#eeb778",
+      "hsl": {
+       "h": 32,
+       "s": 0.78,
+       "l": 0.7
+      },
+      "fg": "#18203a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "View design files"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 79,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "sentient"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 4774,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.case-hero",
+      "tag": "section",
+      "top": 0,
+      "height": 617,
+      "words": 50,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "A database without buying software",
+       "size": 37,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 18,
+      "textLeft": 16,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 617,
+      "height": 831,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 32,
+      "right": 43,
+      "textLeft": 32,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1447,
+      "height": 378,
+      "words": 13,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "The real thing",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 1825,
+      "height": 407,
+      "words": 11,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "In numbers",
+       "size": 20,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 180,
+      "textLeft": 16,
+      "textRight": 180,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.case-body",
+      "tag": "div",
+      "top": 2233,
+      "height": 1185,
+      "words": 158,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The brief",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 19,
+      "textLeft": 16,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.next-project.accent",
+      "tag": "a",
+      "top": 3498,
+      "height": 449,
+      "words": 5,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Next:",
+       "size": 36,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3947,
+      "height": 827,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Case studies",
+       "size": 15,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 33,
+      "textLeft": 16,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A database without buying software",
+      "size": 37,
+      "top": 112,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 8
+     }
+    ],
+    "leftBlocks": 8,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 3 picture(s) on the page (2 photographs, footage or raster images, 1 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 13 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "1 headline(s) wrap past two lines at 768px: \"Next: Taxi company analysis dashboard\" → 4 lines (5 words, 46.8px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\desktop-page-01.jpg",
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

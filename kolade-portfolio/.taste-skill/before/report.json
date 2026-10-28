@@ -1,0 +1,2234 @@
+{
+ "url": "http://localhost:3123",
+ "at": "2026-10-28T07:57:50.093Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.44,
+    0.55,
+    0.83,
+    0.51,
+    0.61
+   ],
+   "motion": {
+    "elements": 52,
+    "css": 26,
+    "transitions": 25,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4163,
+     "screens": 4.6,
+     "words": 594,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 7,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Ftaxi-1.webp&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "✦"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "chars": 15,
+     "lines": 2,
+     "size": 56,
+     "vw": 3.9,
+     "font": "Sora",
+     "weight": 800,
+     "tracking": -0.02,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.28,
+     "top": 188,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "lines": 2,
+     "size": 56,
+     "font": "Sora"
+    },
+    "headings": [
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 188,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "What I do",
+      "words": 3,
+      "chars": 9,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 1028,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected work",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 1491,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 2.4,
+      "font": "Sora",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.65,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.08,
+      "top": 2209,
+      "tag": "b",
+      "kind": "heading"
+     },
+     {
+      "text": "Experience & education",
+      "words": 3,
+      "chars": 22,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 2823,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s find what your data is hiding.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 52.8,
+      "vw": 3.7,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.59,
+      "top": 3630,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Sora",
+       "share": 0.22,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      23,
+      26,
+      35,
+      48,
+      53,
+      56
+     ],
+     "sizeCount": 17,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16.5,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.5
+     },
+     "measureChars": 56,
+     "max": {
+      "size": 56,
+      "vw": 3.9,
+      "font": "Sora",
+      "text": "Kolade Ogunleye"
+     },
+     "monoShare": 0.01,
+     "monoProseShare": 0.01,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [
+      "function onEdit(e) { … }"
+     ],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.07,
+     "smallText": 17
+    },
+    "eyebrows": [
+     {
+      "text": "Open to data roles",
+      "above": "Kolade Ogunleye",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13.1,
+      "top": 160
+     },
+     {
+      "text": "loan-default.onrender.com",
+      "above": "88.7%",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2150
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#060a14",
+     "bodyBgHsl": {
+      "h": 223,
+      "s": 0.54,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#5b8cff",
+       "top": -160,
+       "hsl": {
+        "h": 222,
+        "s": 1,
+        "l": 0.68
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#94a0bb",
+       "share": 0.65
+      },
+      {
+       "color": "#e8ecf6",
+       "share": 0.21
+      },
+      {
+       "color": "#f4b678",
+       "share": 0.08
+      },
+      {
+       "color": "#5b8cff",
+       "share": 0.02
+      },
+      {
+       "color": "#0b1020",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#f4b678",
+      "hsl": {
+       "h": 30,
+       "s": 0.85,
+       "l": 0.71
+      },
+      "fg": "#0b1020"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 12,
+     "height": 55,
+     "withShadow": 3,
+     "withGradient": 3,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Light",
+      "View work →",
+      "Hire me"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 9,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "a.btn.btn-primary → color(srgb 0.956863 0.713726 0.470588 / 0.7) 0px 10px 30px -10px",
+      "div.insight.is-live → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px",
+      "div.float-chip.chip-a → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px",
+      "div.float-chip.chip-b → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px"
+     ],
+     "gradients": 4,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.bg-grid → linear-gradient(rgba(148, 163, 205, 0.06) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(148, 163, 20",
+      "div.insight.is-live → linear-gradient(160deg, rgb(16, 24, 48), rgb(12, 19, 37))",
+      "div.v-loan → radial-gradient(circle at 85% 0%, color(srgb 0.356863 0.54902 1 / 0.25), rgba(0, 0, 0, 0) 60%)",
+      "div.v-sheet → radial-gradient(circle at 10% 0%, color(srgb 0.203922 0.827451 0.6 / 0.2), rgba(0, 0, 0, 0) 60%)"
+     ],
+     "gradientText": 1,
+     "hairlines": 4,
+     "hairlineSamples": [
+      "div.marquee 1440px",
+      "div.frame-bar 567px",
+      "div.frame-bar 512px",
+      "div.frame-bar 512px"
+     ],
+     "outlinedBoxes": 22,
+     "dashed": 0,
+     "blurred": 3,
+     "roundedBoxes": 25,
+     "boxRadius": 14,
+     "squareMedia": 1,
+     "roundedMedia": 1,
+     "mediaRadius": 14,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2914
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 61,
+     "floatingPill": true,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "manrope",
+     "sora"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4163,
+    "margins": {
+     "left": 146,
+     "right": 146
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 75,
+      "height": 736,
+      "words": 97,
+      "media": 0,
+      "middle": 59,
+      "heading": {
+       "text": "Kolade Ogunleye",
+       "size": 56,
+       "tag": "h1"
+      },
+      "left": 146,
+      "right": 145,
+      "textLeft": 146,
+      "textRight": 145,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section",
+      "tag": "section",
+      "top": 918,
+      "height": 463,
+      "words": 87,
+      "media": 0,
+      "middle": 72,
+      "heading": {
+       "text": "What I do",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 146,
+      "right": 146,
+      "textLeft": 146,
+      "textRight": 146,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#work.section",
+      "tag": "section",
+      "top": 1381,
+      "height": 1332,
+      "words": 186,
+      "media": 1,
+      "middle": 12,
+      "heading": {
+       "text": "Selected work",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 146,
+      "right": 146,
+      "textLeft": 146,
+      "textRight": 146,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.section",
+      "tag": "section",
+      "top": 2713,
+      "height": 718,
+      "words": 70,
+      "media": 0,
+      "middle": 21,
+      "heading": {
+       "text": "Experience & education",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 146,
+      "right": 146,
+      "textLeft": 146,
+      "textRight": 146,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section",
+      "tag": "section",
+      "top": 3431,
+      "height": 612,
+      "words": 28,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s find what your data is hiding.",
+       "size": 53,
+       "tag": "h2"
+      },
+      "left": 372,
+      "right": 372,
+      "textLeft": 372,
+      "textRight": 372,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Kolade Ogunleye",
+      "size": 56,
+      "top": 188,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 199,
+      "n": 6
+     },
+     {
+      "x": 146,
+      "n": 4
+     },
+     {
+      "x": 171,
+      "n": 4
+     },
+     {
+      "x": 753,
+      "n": 4
+     },
+     {
+      "x": 183,
+      "n": 2
+     },
+     {
+      "x": 462,
+      "n": 2
+     },
+     {
+      "x": 1044,
+      "n": 2
+     },
+     {
+      "x": 284,
+      "n": 1
+     },
+     {
+      "x": 766,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 17,
+    "stage": true,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.61,
+    0.57,
+    0.85,
+    0.89,
+    0.68,
+    0.69
+   ],
+   "motion": {
+    "elements": 53,
+    "css": 27,
+    "transitions": 25,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5745,
+     "screens": 5.6,
+     "words": 593,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 7,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Ftaxi-1.webp&w=828&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "✦"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "chars": 15,
+     "lines": 1,
+     "size": 33.8,
+     "vw": 4.4,
+     "font": "Sora",
+     "weight": 800,
+     "tracking": -0.02,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.38,
+     "top": 164,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "lines": 1,
+     "size": 33.8,
+     "font": "Sora"
+    },
+    "headings": [
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 164,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "What I do",
+      "words": 3,
+      "chars": 9,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 1491,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected work",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 2123,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Sora",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.65,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.14,
+      "top": 3307,
+      "tag": "b",
+      "kind": "heading"
+     },
+     {
+      "text": "Experience & education",
+      "words": 3,
+      "chars": 22,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 4481,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s find what your data is hiding.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.7,
+      "top": 5290,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Sora",
+       "share": 0.22,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      23,
+      32,
+      34,
+      35
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16.5,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.5
+     },
+     "measureChars": 80,
+     "max": {
+      "size": 35.2,
+      "vw": 4.6,
+      "font": "Sora",
+      "text": "88.7%"
+     },
+     "monoShare": 0.01,
+     "monoProseShare": 0.01,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [
+      "function onEdit(e) { … }"
+     ],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.07,
+     "smallText": 17
+    },
+    "eyebrows": [
+     {
+      "text": "Open to data roles",
+      "above": "Kolade Ogunleye",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13.1,
+      "top": 137
+     },
+     {
+      "text": "loan-default.onrender.com",
+      "above": "88.7%",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3248
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#060a14",
+     "bodyBgHsl": {
+      "h": 223,
+      "s": 0.54,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#5b8cff",
+       "top": -159,
+       "hsl": {
+        "h": 222,
+        "s": 1,
+        "l": 0.68
+       }
+      },
+      {
+       "color": "#a78bfa",
+       "top": 360,
+       "hsl": {
+        "h": 255,
+        "s": 0.92,
+        "l": 0.76
+       }
+      },
+      {
+       "color": "#0c1325",
+       "top": 2734,
+       "hsl": {
+        "h": 223,
+        "s": 0.51,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#94a0bb",
+       "share": 0.66
+      },
+      {
+       "color": "#e8ecf6",
+       "share": 0.21
+      },
+      {
+       "color": "#f4b678",
+       "share": 0.08
+      },
+      {
+       "color": "#5b8cff",
+       "share": 0.02
+      },
+      {
+       "color": "#0b1020",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#f4b678",
+      "hsl": {
+       "h": 30,
+       "s": 0.85,
+       "l": 0.71
+      },
+      "fg": "#0b1020"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 12,
+     "height": 55,
+     "withShadow": 3,
+     "withGradient": 3,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Light",
+      "View work →",
+      "Hire me"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 9,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "a.btn.btn-primary → color(srgb 0.956863 0.713726 0.470588 / 0.7) 0px 10px 30px -10px",
+      "div.insight.is-live → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px",
+      "div.float-chip.chip-a → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px",
+      "div.float-chip.chip-b → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px"
+     ],
+     "gradients": 4,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.bg-grid → linear-gradient(rgba(148, 163, 205, 0.06) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(148, 163, 20",
+      "div.insight.is-live → linear-gradient(160deg, rgb(16, 24, 48), rgb(12, 19, 37))",
+      "div.v-loan → radial-gradient(circle at 85% 0%, color(srgb 0.356863 0.54902 1 / 0.25), rgba(0, 0, 0, 0) 60%)",
+      "div.v-sheet → radial-gradient(circle at 10% 0%, color(srgb 0.203922 0.827451 0.6 / 0.2), rgba(0, 0, 0, 0) 60%)"
+     ],
+     "gradientText": 1,
+     "hairlines": 4,
+     "hairlineSamples": [
+      "div.marquee 768px",
+      "div.frame-bar 660px",
+      "div.frame-bar 684px",
+      "div.frame-bar 684px"
+     ],
+     "outlinedBoxes": 22,
+     "dashed": 0,
+     "blurred": 3,
+     "roundedBoxes": 25,
+     "boxRadius": 14,
+     "squareMedia": 1,
+     "roundedMedia": 1,
+     "mediaRadius": 14,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 61,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "manrope",
+     "sora"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5745,
+    "margins": {
+     "left": 16,
+     "right": 29
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 75,
+      "height": 1198,
+      "words": 96,
+      "media": 0,
+      "middle": 12,
+      "heading": {
+       "text": "Kolade Ogunleye",
+       "size": 34,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 41,
+      "textLeft": 16,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section",
+      "tag": "section",
+      "top": 1381,
+      "height": 632,
+      "words": 87,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What I do",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 2247,
+      "height": 945,
+      "words": 67,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Taxi company analysis dashboard",
+       "size": 23,
+       "tag": "h3"
+      },
+      "left": 53,
+      "right": 54,
+      "textLeft": 53,
+      "textRight": 92,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.pair",
+      "tag": "div",
+      "top": 3212,
+      "height": 1159,
+      "words": 105,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "88.7%",
+       "size": 35,
+       "tag": "b"
+      },
+      "left": 41,
+      "right": 51,
+      "textLeft": 41,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.section",
+      "tag": "section",
+      "top": 4371,
+      "height": 754,
+      "words": 70,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Experience & education",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section",
+      "tag": "section",
+      "top": 5126,
+      "height": 500,
+      "words": 28,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s find what your data is hiding.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 157,
+      "right": 157,
+      "textLeft": 157,
+      "textRight": 157,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Kolade Ogunleye",
+      "size": 34,
+      "top": 164,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 41,
+      "n": 8
+     },
+     {
+      "x": 69,
+      "n": 6
+     },
+     {
+      "x": 16,
+      "n": 5
+     },
+     {
+      "x": 417,
+      "n": 4
+     },
+     {
+      "x": 53,
+      "n": 2
+     },
+     {
+      "x": 154,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 17,
+    "stage": true,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.61,
+    0.59,
+    0.79,
+    0.74,
+    0.92,
+    0.91,
+    0.73,
+    0.77,
+    0.66
+   ],
+   "motion": {
+    "elements": 54,
+    "css": 28,
+    "transitions": 25,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6824,
+     "screens": 8.1,
+     "words": 587,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 7,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Ftaxi-1.webp&w=640&q=75"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "✦"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "chars": 15,
+     "lines": 2,
+     "size": 33.6,
+     "vw": 8.6,
+     "font": "Sora",
+     "weight": 800,
+     "tracking": -0.02,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.64,
+     "top": 160,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Kolade Ogunleye",
+     "words": 2,
+     "lines": 2,
+     "size": 33.6,
+     "font": "Sora"
+    },
+    "headings": [
+     {
+      "text": "Kolade Ogunleye",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 33.6,
+      "vw": 8.6,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.64,
+      "top": 160,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "What I do",
+      "words": 3,
+      "chars": 9,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 1640,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected work",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.6,
+      "top": 2790,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Taxi company analysis dashboard",
+      "words": 4,
+      "chars": 31,
+      "lines": 2,
+      "size": 23.2,
+      "vw": 5.9,
+      "font": "Sora",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 2996,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "88.7%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 9,
+      "font": "Sora",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.65,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 3939,
+      "tag": "b",
+      "kind": "heading"
+     },
+     {
+      "text": "Loan default prediction",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 23.2,
+      "vw": 5.9,
+      "font": "Sora",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 4203,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Pectoria database design",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 23.2,
+      "vw": 5.9,
+      "font": "Sora",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 4910,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Experience & education",
+      "words": 3,
+      "chars": 22,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5260,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let’s find what your data is hiding.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Sora",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 6306,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.77,
+       "mono": false
+      },
+      {
+       "family": "Sora",
+       "share": 0.23,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      23,
+      30,
+      32,
+      34,
+      35
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16.5,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.5
+     },
+     "measureChars": 38,
+     "max": {
+      "size": 35.2,
+      "vw": 9,
+      "font": "Sora",
+      "text": "88.7%"
+     },
+     "monoShare": 0.01,
+     "monoProseShare": 0.01,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [
+      "function onEdit(e) { … }"
+     ],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.07,
+     "smallText": 17
+    },
+    "eyebrows": [
+     {
+      "text": "Open to data roles",
+      "above": "Kolade Ogunleye",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 13.1,
+      "top": 132
+     },
+     {
+      "text": "loan-default.onrender.com",
+      "above": "88.7%",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3880
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#060a14",
+     "bodyBgHsl": {
+      "h": 223,
+      "s": 0.54,
+      "l": 0.05
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#5b8cff",
+       "top": -147,
+       "hsl": {
+        "h": 222,
+        "s": 1,
+        "l": 0.68
+       }
+      },
+      {
+       "color": "#f4b678",
+       "top": 54,
+       "hsl": {
+        "h": 30,
+        "s": 0.85,
+        "l": 0.71
+       }
+      },
+      {
+       "color": "#a78bfa",
+       "top": 224,
+       "hsl": {
+        "h": 255,
+        "s": 0.92,
+        "l": 0.76
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#94a0bb",
+       "share": 0.65
+      },
+      {
+       "color": "#e8ecf6",
+       "share": 0.21
+      },
+      {
+       "color": "#f4b678",
+       "share": 0.08
+      },
+      {
+       "color": "#5b8cff",
+       "share": 0.02
+      },
+      {
+       "color": "#0b1020",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#f4b678",
+      "hsl": {
+       "h": 30,
+       "s": 0.85,
+       "l": 0.71
+      },
+      "fg": "#0b1020"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 12,
+     "height": 55,
+     "withShadow": 3,
+     "withGradient": 3,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Light",
+      "View work →",
+      "Hire me"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 9,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "a.btn.btn-primary → color(srgb 0.956863 0.713726 0.470588 / 0.7) 0px 10px 30px -10px",
+      "div.insight.is-live → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px",
+      "div.float-chip.chip-a → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px",
+      "div.float-chip.chip-b → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px"
+     ],
+     "gradients": 8,
+     "scrims": 0,
+     "gradientSamples": [
+      "div.bg-grid → linear-gradient(rgba(148, 163, 205, 0.06) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(148, 163, 20",
+      "span.avatar-ring → conic-gradient(rgb(244, 182, 120), rgb(91, 140, 255), rgb(167, 139, 250), rgb(244, 182, 120))",
+      "a.btn.btn-primary → linear-gradient(135deg, rgb(244, 182, 120), rgb(255, 210, 160))",
+      "div.insight.is-live → linear-gradient(160deg, rgb(16, 24, 48), rgb(12, 19, 37))"
+     ],
+     "gradientText": 1,
+     "hairlines": 4,
+     "hairlineSamples": [
+      "div.marquee 390px",
+      "div.frame-bar 310px",
+      "div.frame-bar 306px",
+      "div.frame-bar 306px"
+     ],
+     "outlinedBoxes": 19,
+     "dashed": 0,
+     "blurred": 3,
+     "roundedBoxes": 22,
+     "boxRadius": 20,
+     "squareMedia": 1,
+     "roundedMedia": 1,
+     "mediaRadius": 14,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 5421
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 61,
+     "floatingPill": true,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "manrope",
+     "sora"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6824,
+    "margins": {
+     "left": 16,
+     "right": 27
+    },
+    "sections": [
+     {
+      "sel": "div.hero-left",
+      "tag": "div",
+      "top": 127,
+      "height": 667,
+      "words": 66,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Kolade Ogunleye",
+       "size": 34,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 17,
+      "textLeft": 16,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.hero-right.load",
+      "tag": "div",
+      "top": 866,
+      "height": 447,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 44,
+      "right": 41,
+      "textLeft": 44,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.section",
+      "tag": "section",
+      "top": 1556,
+      "height": 1150,
+      "words": 87,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What I do",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 43,
+      "textLeft": 16,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.reveal.in",
+      "tag": "div",
+      "top": 2941,
+      "height": 883,
+      "words": 67,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Taxi company analysis dashboard",
+       "size": 23,
+       "tag": "h3"
+      },
+      "left": 39,
+      "right": 40,
+      "textLeft": 39,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.pair",
+      "tag": "div",
+      "top": 3844,
+      "height": 1332,
+      "words": 105,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "88.7%",
+       "size": 35,
+       "tag": "b"
+      },
+      "left": 41,
+      "right": 55,
+      "textLeft": 41,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.section",
+      "tag": "section",
+      "top": 5176,
+      "height": 997,
+      "words": 70,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Experience & education",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 62,
+      "textLeft": 16,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section",
+      "tag": "section",
+      "top": 6173,
+      "height": 531,
+      "words": 28,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s find what your data is hiding.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 46,
+      "right": 46,
+      "textLeft": 46,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Kolade Ogunleye",
+      "size": 34,
+      "top": 160,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 39,
+      "n": 14
+     },
+     {
+      "x": 69,
+      "n": 6
+     },
+     {
+      "x": 16,
+      "n": 5
+     },
+     {
+      "x": 124,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 17,
+    "stage": true,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "2 eyebrow/kicker label(s) above headings: \"Open to data roles\" above \"Kolade Ogunleye\"; \"loan-default.onrender.com\" above \"88.7%\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "mono",
+   "width": 1440,
+   "message": "Monospace type outside code: ui-monospace — e.g. \"function onEdit(e) { … }\"",
+   "fix": "Set it in the text face. Monospace is for literal code inside <pre>/<code> only.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "emoji",
+   "width": 1440,
+   "message": "Emoji in the page: ✦",
+   "fix": "Remove. Use words or real imagery.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "4 gradient fill(s): div.bg-grid → linear-gradient(rgba(148, 163, 205, 0.06) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(148, 163, 20 | div.insight.is-live → linear-gradient(160deg, rgb(16, 24, 48), rgb(12, 19, 37)) | div.v-loan → radial-gradient(circle at 85% 0%, color(srgb 0.356863 0.54902 1 / 0.25), rgba(0, 0, 0, 0) 60%)",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient-text",
+   "width": 1440,
+   "message": "1 gradient-filled text element(s).",
+   "fix": "Solid colour text.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "9 box-shadow(s) on elements at rest: a.btn.btn-primary → color(srgb 0.956863 0.713726 0.470588 / 0.7) 0px 10px 30px -10px | div.insight.is-live → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px | div.float-chip.chip-a → rgba(0, 0, 0, 0.75) 0px 30px 80px -30px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "button-fx",
+   "width": 1440,
+   "message": "Buttons with gradient fill and shadow/glow.",
+   "fix": "Flat fill, one colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "4 thin rule(s)/divider line(s): div.marquee 1440px | div.frame-bar 567px | div.frame-bar 512px | div.frame-bar 512px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "22 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "glass",
+   "width": 1440,
+   "message": "3 backdrop-blur surfaces.",
+   "fix": "One blurred sticky bar at most; glass cards are a tell.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "pill-nav",
+   "width": 1440,
+   "message": "Floating rounded pill navigation.",
+   "fix": "Use a plain bar: wordmark left, a few links, one action.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "palette-terracotta",
+   "width": 1440,
+   "message": "Terracotta / rust-orange accent (button #f4b678, text #f4b678).",
+   "fix": "Use the accent from the drawn palette.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "17 different font sizes (11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 26, 35, 48, 53, 56).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 1 picture(s) on the page (1 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "17 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 1440,
+   "message": "The h1 is a bare name (\"Kolade Ogunleye\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 9 different lines (199px, 146px, 171px, 753px, 183px, 462px, 1044px); the three most used hold only 54% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  },
+  {
+   "level": "FAIL",
+   "id": "palette-purple",
+   "width": 768,
+   "message": "Indigo / violet (section #a78bfa).",
+   "fix": "Use the accent from the drawn palette.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\before\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\before\\desktop-page-01.jpg",
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\before\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\before\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\before\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\before\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\before\\mobile-page-01.jpg",
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\before\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
