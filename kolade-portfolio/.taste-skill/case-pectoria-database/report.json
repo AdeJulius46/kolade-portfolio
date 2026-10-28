@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/pectoria-database",
- "at": "2026-10-28T08:29:47.652Z",
+ "at": "2026-10-28T08:38:05.455Z",
  "allow": [],
  "viewports": [
   {
@@ -32,7 +32,7 @@
     "page": {
      "height": 4932,
      "screens": 5.5,
-     "words": 357,
+     "words": 360,
      "img": 3,
      "video": 0,
      "canvas": 0,
@@ -389,11 +389,11 @@
      "textColors": [
       {
        "color": "#eceef0",
-       "share": 0.64
+       "share": 0.65
       },
       {
        "color": "#202124",
-       "share": 0.16
+       "share": 0.15
       },
       {
        "color": "#b1b7c8",
@@ -524,7 +524,7 @@
       "top": 1254,
       "height": 959,
       "words": 13,
-      "media": 1,
+      "media": 0,
       "middle": 0,
       "heading": {
        "text": "The real thing",
@@ -535,7 +535,7 @@
       "right": 1008,
       "textLeft": 32,
       "textRight": 1008,
-      "fullBleed": true,
+      "fullBleed": false,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -594,14 +594,14 @@
       "height": 674,
       "words": 5,
       "media": 1,
-      "middle": 56,
+      "middle": 83,
       "heading": {
        "text": "Next:",
        "size": 71,
        "tag": "span"
       },
       "left": 32,
-      "right": 5,
+      "right": 0,
       "textLeft": 32,
       "textRight": 779,
       "fullBleed": false,
@@ -615,7 +615,7 @@
       "tag": "footer",
       "top": 4306,
       "height": 625,
-      "words": 43,
+      "words": 46,
       "media": 0,
       "middle": 12,
       "heading": {
@@ -637,7 +637,7 @@
     "gaps": [
      {
       "top": 3472,
-      "height": 272
+      "height": 288
      }
     ],
     "h1s": [
@@ -682,7 +682,7 @@
    "screens": 5,
    "filled": [
     0.46,
-    0.72,
+    0.71,
     0.4,
     0.82,
     0.53
@@ -703,7 +703,7 @@
     "page": {
      "height": 4615,
      "screens": 4.5,
-     "words": 357,
+     "words": 360,
      "img": 3,
      "video": 0,
      "canvas": 0,
@@ -1060,11 +1060,11 @@
      "textColors": [
       {
        "color": "#eceef0",
-       "share": 0.64
+       "share": 0.65
       },
       {
        "color": "#202124",
-       "share": 0.16
+       "share": 0.15
       },
       {
        "color": "#b1b7c8",
@@ -1286,7 +1286,7 @@
       "tag": "footer",
       "top": 3953,
       "height": 663,
-      "words": 43,
+      "words": 46,
       "media": 0,
       "middle": 0,
       "heading": {
@@ -1343,7 +1343,7 @@
     0.36,
     0.46,
     0.63,
-    0.2
+    0.24
    ],
    "motion": {
     "elements": 15,
@@ -1359,9 +1359,9 @@
      "h": 844
     },
     "page": {
-     "height": 4842,
-     "screens": 5.7,
-     "words": 355,
+     "height": 4866,
+     "screens": 5.8,
+     "words": 358,
      "img": 3,
      "video": 0,
      "canvas": 0,
@@ -1620,7 +1620,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 4776,
+      "top": 4799,
       "tag": "p",
       "kind": "statement"
      }
@@ -1799,7 +1799,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 4842,
+    "pageH": 4866,
     "margins": {
      "left": 16,
      "right": 16
@@ -1943,8 +1943,8 @@
       "sel": "footer.footer",
       "tag": "footer",
       "top": 4015,
-      "height": 827,
-      "words": 43,
+      "height": 851,
+      "words": 46,
       "media": 0,
       "middle": 0,
       "heading": {
@@ -1998,6 +1998,13 @@
    "width": 1440,
    "message": "No video anywhere on the page.",
    "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "lopsided",
+   "width": 1440,
+   "message": "A section keeps its content on one side and leaves 1008px of the width empty: \"The real thing\".",
+   "fix": "Fill the other side with what the section has (its picture, a second column, the figure), or defend the void in one sentence."
   },
   {
    "level": "WARN",

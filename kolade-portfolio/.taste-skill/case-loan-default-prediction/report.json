@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/loan-default-prediction",
- "at": "2026-10-28T08:30:46.691Z",
+ "at": "2026-10-28T08:37:37.333Z",
  "allow": [],
  "viewports": [
   {
@@ -32,7 +32,7 @@
     "page": {
      "height": 5130,
      "screens": 5.7,
-     "words": 378,
+     "words": 381,
      "img": 3,
      "video": 0,
      "canvas": 0,
@@ -595,7 +595,7 @@
       "top": 1228,
       "height": 959,
       "words": 18,
-      "media": 1,
+      "media": 0,
       "middle": 0,
       "heading": {
        "text": "The real thing",
@@ -606,7 +606,7 @@
       "right": 763,
       "textLeft": 32,
       "textRight": 763,
-      "fullBleed": true,
+      "fullBleed": false,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -665,14 +665,14 @@
       "height": 674,
       "words": 4,
       "media": 1,
-      "middle": 178,
+      "middle": 205,
       "heading": {
        "text": "Next:",
        "size": 71,
        "tag": "span"
       },
       "left": 32,
-      "right": 5,
+      "right": 0,
       "textLeft": 32,
       "textRight": 901,
       "fullBleed": false,
@@ -686,7 +686,7 @@
       "tag": "footer",
       "top": 4505,
       "height": 625,
-      "words": 43,
+      "words": 46,
       "media": 0,
       "middle": 12,
       "heading": {
@@ -705,7 +705,12 @@
       "pinned": false
      }
     ],
-    "gaps": [],
+    "gaps": [
+     {
+      "top": 3672,
+      "height": 288
+     }
+    ],
     "h1s": [
      {
       "text": "Will this borrower default?",
@@ -748,7 +753,7 @@
    "screens": 6,
    "filled": [
     0.43,
-    0.85,
+    0.83,
     0.32,
     0.6,
     0.53,
@@ -770,7 +775,7 @@
     "page": {
      "height": 5124,
      "screens": 5,
-     "words": 378,
+     "words": 381,
      "img": 3,
      "video": 0,
      "canvas": 0,
@@ -1433,7 +1438,7 @@
       "tag": "footer",
       "top": 4461,
       "height": 663,
-      "words": 43,
+      "words": 46,
       "media": 0,
       "middle": 0,
       "heading": {
@@ -1491,7 +1496,7 @@
     0.48,
     0.43,
     0.64,
-    0.2
+    0.26
    ],
    "motion": {
     "elements": 19,
@@ -1507,9 +1512,9 @@
      "h": 844
     },
     "page": {
-     "height": 5506,
-     "screens": 6.5,
-     "words": 376,
+     "height": 5529,
+     "screens": 6.6,
+     "words": 379,
      "img": 3,
      "video": 0,
      "canvas": 0,
@@ -1852,7 +1857,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 5439,
+      "top": 5463,
       "tag": "p",
       "kind": "statement"
      }
@@ -2022,7 +2027,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 5506,
+    "pageH": 5529,
     "margins": {
      "left": 16,
      "right": 17
@@ -2238,8 +2243,8 @@
       "sel": "footer.footer",
       "tag": "footer",
       "top": 4678,
-      "height": 827,
-      "words": 43,
+      "height": 851,
+      "words": 46,
       "media": 0,
       "middle": 0,
       "heading": {
@@ -2298,6 +2303,13 @@
    "width": 1440,
    "message": "No video anywhere on the page.",
    "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "lopsided",
+   "width": 1440,
+   "message": "A section keeps its content on one side and leaves 763px of the width empty: \"The real thing\".",
+   "fix": "Fill the other side with what the section has (its picture, a second column, the figure), or defend the void in one sentence."
   },
   {
    "level": "WARN",
