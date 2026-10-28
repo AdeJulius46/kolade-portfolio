@@ -1,6 +1,6 @@
 {
- "url": "http://localhost:3123",
- "at": "2026-10-28T08:31:14.895Z",
+ "url": "http://localhost:3123/",
+ "at": "2026-10-28T08:36:20.607Z",
  "allow": [],
  "viewports": [
   {
@@ -36,7 +36,7 @@
     "page": {
      "height": 8647,
      "screens": 9.6,
-     "words": 722,
+     "words": 726,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -53,7 +53,7 @@
       "image?url=%2Fkolade.webp&w=640&q=75",
       "image?url=%2Ftaxi-1.webp&w=1080&q=75",
       "image?url=%2Ftaxi-3.webp&w=640&q=75",
-      "image?url=%2Fplace%2Fpitakwa.jpg&w=1080&q=75"
+      "image?url=%2Fplace%2Fbank-road.jpg&w=1080&q=75"
      ],
      "blendText": 0,
      "sideScrollers": 0,
@@ -845,7 +845,7 @@
       "tag": "section",
       "top": 6034,
       "height": 1409,
-      "words": 123,
+      "words": 124,
       "media": 1,
       "middle": 0,
       "heading": {
@@ -891,7 +891,7 @@
       "tag": "footer",
       "top": 8022,
       "height": 625,
-      "words": 43,
+      "words": 46,
       "media": 0,
       "middle": 12,
       "heading": {
@@ -1015,7 +1015,7 @@
     "page": {
      "height": 9062,
      "screens": 8.8,
-     "words": 722,
+     "words": 726,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -1032,7 +1032,7 @@
       "image?url=%2Fkolade.webp&w=384&q=75",
       "image?url=%2Ftaxi-1.webp&w=828&q=75",
       "image?url=%2Ftaxi-3.webp&w=640&q=75",
-      "image?url=%2Fplace%2Fpitakwa.jpg&w=828&q=75"
+      "image?url=%2Fplace%2Fbank-road.jpg&w=828&q=75"
      ],
      "blendText": 0,
      "sideScrollers": 0,
@@ -1826,7 +1826,7 @@
       "tag": "section",
       "top": 6225,
       "height": 1499,
-      "words": 123,
+      "words": 124,
       "media": 1,
       "middle": 0,
       "heading": {
@@ -1872,7 +1872,7 @@
       "tag": "footer",
       "top": 8400,
       "height": 663,
-      "words": 43,
+      "words": 46,
       "media": 0,
       "middle": 0,
       "heading": {
@@ -1967,9 +1967,9 @@
      "h": 844
     },
     "page": {
-     "height": 10693,
+     "height": 10716,
      "screens": 12.7,
-     "words": 720,
+     "words": 724,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -1986,7 +1986,7 @@
       "image?url=%2Fkolade.webp&w=640&q=75",
       "image?url=%2Ftaxi-1.webp&w=640&q=75",
       "image?url=%2Ftaxi-3.webp&w=640&q=75",
-      "image?url=%2Fplace%2Fpitakwa.jpg&w=640&q=75"
+      "image?url=%2Fplace%2Fbank-road.jpg&w=640&q=75"
      ],
      "blendText": 0,
      "sideScrollers": 0,
@@ -2418,7 +2418,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 10627,
+      "top": 10650,
       "tag": "p",
       "kind": "statement"
      }
@@ -2620,7 +2620,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 10693,
+    "pageH": 10716,
     "margins": {
      "left": 16,
      "right": 16
@@ -2799,14 +2799,14 @@
       "tag": "div",
       "top": 7779,
       "height": 463,
-      "words": 26,
+      "words": 27,
       "media": 0,
       "middle": 0,
       "heading": null,
       "left": 16,
-      "right": 39,
+      "right": 37,
       "textLeft": 16,
-      "textRight": 39,
+      "textRight": 37,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -2863,8 +2863,8 @@
       "sel": "footer.footer",
       "tag": "footer",
       "top": 9866,
-      "height": 827,
-      "words": 43,
+      "height": 851,
+      "words": 46,
       "media": 0,
       "middle": 0,
       "heading": {

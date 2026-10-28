@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/taxi-company-dashboard",
- "at": "2026-10-28T08:30:19.659Z",
+ "at": "2026-10-28T08:37:10.551Z",
  "allow": [],
  "viewports": [
   {
@@ -13,7 +13,7 @@
     0.61,
     0.26,
     0.33,
-    0.65,
+    0.66,
     0.59
    ],
    "motion": {
@@ -32,7 +32,7 @@
     "page": {
      "height": 4788,
      "screens": 5.3,
-     "words": 428,
+     "words": 431,
      "img": 6,
      "video": 0,
      "canvas": 0,
@@ -656,14 +656,14 @@
       "height": 674,
       "words": 4,
       "media": 1,
-      "middle": 103,
+      "middle": 130,
       "heading": {
        "text": "Next:",
        "size": 71,
        "tag": "span"
       },
       "left": 32,
-      "right": 5,
+      "right": 0,
       "textLeft": 32,
       "textRight": 826,
       "fullBleed": false,
@@ -677,7 +677,7 @@
       "tag": "footer",
       "top": 4163,
       "height": 625,
-      "words": 43,
+      "words": 46,
       "media": 0,
       "middle": 12,
       "heading": {
@@ -699,7 +699,7 @@
     "gaps": [
      {
       "top": 3328,
-      "height": 272
+      "height": 288
      }
     ],
     "h1s": [
@@ -763,9 +763,9 @@
      "h": 1024
     },
     "page": {
-     "height": 4927,
+     "height": 4926,
      "screens": 4.8,
-     "words": 428,
+     "words": 431,
      "img": 6,
      "video": 0,
      "canvas": 0,
@@ -781,7 +781,7 @@
      "pictureSamples": [
       "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Ftaxi-1.webp&w=828&q=75",
-      "image?url=%2Ftaxi-1.webp&w=828&q=75",
+      "image?url=%2Ftaxi-1.webp&w=256&q=75",
       "image?url=%2Ftaxi-2.webp&w=256&q=75",
       "image?url=%2Ftaxi-3.webp&w=256&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=384&q=75"
@@ -943,7 +943,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 1907,
+      "top": 1906,
       "tag": "h2",
       "kind": "heading"
      },
@@ -985,7 +985,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2485,
+      "top": 2484,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1006,7 +1006,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2746,
+      "top": 2745,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1048,7 +1048,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 3596,
+      "top": 3595,
       "tag": "a",
       "kind": "heading"
      },
@@ -1069,7 +1069,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 4827,
+      "top": 4826,
       "tag": "p",
       "kind": "statement"
      }
@@ -1142,7 +1142,7 @@
      "sectionBgs": [
       {
        "color": "#eeb778",
-       "top": 3596,
+       "top": 3595,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -1235,7 +1235,7 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 4927,
+    "pageH": 4926,
     "margins": {
      "left": 17,
      "right": 17
@@ -1268,7 +1268,7 @@
       "sel": "div.reveal.in",
       "tag": "div",
       "top": 782,
-      "height": 681,
+      "height": 680,
       "words": 3,
       "media": 4,
       "middle": 0,
@@ -1286,7 +1286,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1463,
+      "top": 1462,
       "height": 348,
       "words": 18,
       "media": 0,
@@ -1309,7 +1309,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1907,
+      "top": 1906,
       "height": 131,
       "words": 31,
       "media": 0,
@@ -1347,7 +1347,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2485,
+      "top": 2484,
       "height": 173,
       "words": 41,
       "media": 0,
@@ -1366,7 +1366,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2746,
+      "top": 2745,
       "height": 243,
       "words": 59,
       "media": 0,
@@ -1404,7 +1404,7 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 3596,
+      "top": 3595,
       "height": 669,
       "words": 4,
       "media": 1,
@@ -1429,7 +1429,7 @@
       "tag": "footer",
       "top": 4264,
       "height": 663,
-      "words": 43,
+      "words": 46,
       "media": 0,
       "middle": 0,
       "heading": {
@@ -1486,8 +1486,8 @@
     0.51,
     0.52,
     0.71,
-    0.35,
-    0.2
+    0.29,
+    0.26
    ],
    "motion": {
     "elements": 17,
@@ -1503,9 +1503,9 @@
      "h": 844
     },
     "page": {
-     "height": 5146,
+     "height": 5170,
      "screens": 6.1,
-     "words": 426,
+     "words": 429,
      "img": 6,
      "video": 0,
      "canvas": 0,
@@ -1806,7 +1806,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 5080,
+      "top": 5104,
       "tag": "p",
       "kind": "statement"
      }
@@ -1967,7 +1967,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 5146,
+    "pageH": 5170,
     "margins": {
      "left": 16,
      "right": 16
@@ -2160,8 +2160,8 @@
       "sel": "footer.footer",
       "tag": "footer",
       "top": 4319,
-      "height": 827,
-      "words": 43,
+      "height": 851,
+      "words": 46,
       "media": 0,
       "middle": 0,
       "heading": {

@@ -145,9 +145,9 @@ export default function Home() {
         <div className="about-tiles">
           <Reveal className="place-tile">
             <div className="place-frame">
-              <Image src="/place/pitakwa.jpg" alt="Port Harcourt seen from above: low roofs among green trees, a transmission tower on the horizon" width={1024} height={565} sizes="(max-width: 900px) 100vw, 66vw" />
+              <Image src="/place/bank-road.jpg" alt="Bank Road, Port Harcourt: the Rivers State Secretariat blocks in blue, red and ochre behind a palm, cars on the road under a bright sky" width={1920} height={985} sizes="(max-width: 900px) 100vw, 66vw" />
             </div>
-            <p>Port Harcourt, Rivers State, where I work from.</p>
+            <p>Bank Road, Port Harcourt, the city I work from.</p>
           </Reveal>
           <Reveal className="open-tile accent" delay={120}>
             <p className="open-text">Open to data analyst and data scientist roles, plus freelance dashboard and analysis work.</p>
