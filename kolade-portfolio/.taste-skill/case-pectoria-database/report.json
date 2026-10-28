@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/pectoria-database",
- "at": "2026-10-28T08:24:29.036Z",
+ "at": "2026-10-28T08:29:47.652Z",
  "allow": [],
  "viewports": [
   {
@@ -9,16 +9,16 @@
    "load": "load",
    "screens": 6,
    "filled": [
-    0.45,
-    0.75,
+    0.38,
+    0.69,
     0.41,
-    0.29,
-    0.71,
+    0.24,
+    0.83,
     0.59
    ],
    "motion": {
-    "elements": 13,
-    "css": 2,
+    "elements": 15,
+    "css": 4,
     "transitions": 11,
     "scripted": 0,
     "videos": 0,
@@ -30,8 +30,8 @@
      "h": 900
     },
     "page": {
-     "height": 4852,
-     "screens": 5.4,
+     "height": 4932,
+     "screens": 5.5,
      "words": 357,
      "img": 3,
      "video": 0,
@@ -42,10 +42,11 @@
      "overflowCulprits": [],
      "uiFragments": 1,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=1200&q=",
       "image?url=%2Ftaxi-1.webp&w=640&q=75"
      ],
@@ -122,7 +123,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 1332,
+      "top": 1412,
       "tag": "h2",
       "kind": "heading"
      },
@@ -143,7 +144,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 2350,
+      "top": 2430,
       "tag": "dd",
       "kind": "statement"
      },
@@ -164,7 +165,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.31,
-      "top": 2350,
+      "top": 2430,
       "tag": "dd",
       "kind": "statement"
      },
@@ -185,7 +186,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.31,
-      "top": 2350,
+      "top": 2430,
       "tag": "dd",
       "kind": "statement"
      },
@@ -206,7 +207,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 2618,
+      "top": 2698,
       "tag": "h2",
       "kind": "heading"
      },
@@ -227,7 +228,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 2797,
+      "top": 2877,
       "tag": "h2",
       "kind": "heading"
      },
@@ -248,7 +249,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 3064,
+      "top": 3144,
       "tag": "h2",
       "kind": "heading"
      },
@@ -269,7 +270,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 3552,
+      "top": 3632,
       "tag": "a",
       "kind": "heading"
      },
@@ -290,7 +291,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 4685,
+      "top": 4765,
       "tag": "p",
       "kind": "statement"
      }
@@ -368,7 +369,7 @@
      "sectionBgs": [
       {
        "color": "#ffffff",
-       "top": 695,
+       "top": 775,
        "hsl": {
         "h": 0,
         "s": 0,
@@ -377,7 +378,7 @@
       },
       {
        "color": "#eeb778",
-       "top": 3552,
+       "top": 3632,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -469,7 +470,7 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 4852,
+    "pageH": 4932,
     "margins": {
      "left": 32,
      "right": 32
@@ -479,9 +480,9 @@
       "sel": "section.case-hero",
       "tag": "section",
       "top": 0,
-      "height": 599,
+      "height": 679,
       "words": 50,
-      "media": 0,
+      "media": 1,
       "middle": 11,
       "heading": {
        "text": "A database without buying software",
@@ -489,9 +490,9 @@
        "tag": "h1"
       },
       "left": 32,
-      "right": 51,
+      "right": 35,
       "textLeft": 32,
-      "textRight": 51,
+      "textRight": 35,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -501,7 +502,7 @@
      {
       "sel": "div.reveal.in",
       "tag": "div",
-      "top": 599,
+      "top": 679,
       "height": 575,
       "words": 74,
       "media": 0,
@@ -520,7 +521,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1174,
+      "top": 1254,
       "height": 959,
       "words": 13,
       "media": 1,
@@ -531,10 +532,10 @@
        "tag": "h2"
       },
       "left": 32,
-      "right": 32,
+      "right": 1008,
       "textLeft": 32,
       "textRight": 1008,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -543,7 +544,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2133,
+      "top": 2213,
       "height": 326,
       "words": 11,
       "media": 0,
@@ -566,7 +567,7 @@
      {
       "sel": "div.case-body",
       "tag": "div",
-      "top": 2459,
+      "top": 2539,
       "height": 935,
       "words": 158,
       "media": 0,
@@ -589,18 +590,18 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 3552,
+      "top": 3632,
       "height": 674,
       "words": 5,
       "media": 1,
-      "middle": 83,
+      "middle": 56,
       "heading": {
        "text": "Next:",
        "size": 71,
        "tag": "span"
       },
       "left": 32,
-      "right": 32,
+      "right": 5,
       "textLeft": 32,
       "textRight": 779,
       "fullBleed": false,
@@ -612,7 +613,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4226,
+      "top": 4306,
       "height": 625,
       "words": 43,
       "media": 0,
@@ -635,12 +636,8 @@
     ],
     "gaps": [
      {
-      "top": 3392,
-      "height": 288
-     },
-     {
-      "top": 4100,
-      "height": 284
+      "top": 3472,
+      "height": 272
      }
     ],
     "h1s": [
@@ -667,12 +664,12 @@
     "stage": false,
     "explains": true,
     "slivers": [],
-    "voidShare": 0.12,
+    "voidShare": 0.18,
     "voidBox": {
-     "x": 600,
-     "y": 600,
-     "w": 840,
-     "h": 180
+     "x": 0,
+     "y": 540,
+     "w": 960,
+     "h": 240
     }
    },
    "app": null,
@@ -684,15 +681,15 @@
    "load": "load",
    "screens": 5,
    "filled": [
-    0.53,
-    0.68,
-    0.36,
-    0.48,
+    0.46,
+    0.72,
+    0.4,
+    0.82,
     0.53
    ],
    "motion": {
-    "elements": 13,
-    "css": 2,
+    "elements": 15,
+    "css": 4,
     "transitions": 11,
     "scripted": 0,
     "videos": 0,
@@ -704,8 +701,8 @@
      "h": 1024
     },
     "page": {
-     "height": 4171,
-     "screens": 4.1,
+     "height": 4615,
+     "screens": 4.5,
      "words": 357,
      "img": 3,
      "video": 0,
@@ -716,10 +713,11 @@
      "overflowCulprits": [],
      "uiFragments": 1,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=828&q=7",
       "image?url=%2Ftaxi-1.webp&w=384&q=75"
      ],
@@ -796,7 +794,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 1389,
+      "top": 1469,
       "tag": "h2",
       "kind": "heading"
      },
@@ -817,7 +815,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.3,
-      "top": 2005,
+      "top": 2085,
       "tag": "dd",
       "kind": "statement"
      },
@@ -838,7 +836,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.3,
-      "top": 2005,
+      "top": 2085,
       "tag": "dd",
       "kind": "statement"
      },
@@ -859,7 +857,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.3,
-      "top": 2005,
+      "top": 2085,
       "tag": "dd",
       "kind": "statement"
      },
@@ -880,7 +878,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2184,
+      "top": 2264,
       "tag": "h2",
       "kind": "heading"
      },
@@ -901,7 +899,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2403,
+      "top": 2483,
       "tag": "h2",
       "kind": "heading"
      },
@@ -922,7 +920,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2706,
+      "top": 2786,
       "tag": "h2",
       "kind": "heading"
      },
@@ -930,7 +928,7 @@
       "text": "Next: Taxi company analysis dashboard",
       "words": 5,
       "chars": 37,
-      "lines": 4,
+      "lines": 2,
       "size": 46.8,
       "vw": 6.1,
       "font": "Sentient",
@@ -943,7 +941,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 3156,
+      "top": 3236,
       "tag": "a",
       "kind": "heading"
      },
@@ -964,15 +962,15 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 4071,
+      "top": 4515,
       "tag": "p",
       "kind": "statement"
      }
     ],
     "headingSummary": {
      "count": 10,
-     "maxLines": 4,
-     "over2Lines": 1,
+     "maxLines": 2,
+     "over2Lines": 0,
      "statements": 4,
      "centered": 0,
      "medianWords": 2,
@@ -1042,7 +1040,7 @@
      "sectionBgs": [
       {
        "color": "#ffffff",
-       "top": 767,
+       "top": 847,
        "hsl": {
         "h": 0,
         "s": 0,
@@ -1051,7 +1049,7 @@
       },
       {
        "color": "#eeb778",
-       "top": 3156,
+       "top": 3236,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -1143,7 +1141,7 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 4171,
+    "pageH": 4615,
     "margins": {
      "left": 17,
      "right": 17
@@ -1153,9 +1151,9 @@
       "sel": "section.case-hero",
       "tag": "section",
       "top": 0,
-      "height": 671,
+      "height": 751,
       "words": 50,
-      "media": 0,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "A database without buying software",
@@ -1175,7 +1173,7 @@
      {
       "sel": "div.reveal.in",
       "tag": "div",
-      "top": 671,
+      "top": 751,
       "height": 621,
       "words": 74,
       "media": 0,
@@ -1194,7 +1192,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1293,
+      "top": 1373,
       "height": 562,
       "words": 13,
       "media": 1,
@@ -1205,10 +1203,10 @@
        "tag": "h2"
       },
       "left": 17,
-      "right": 17,
+      "right": 351,
       "textLeft": 17,
       "textRight": 351,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -1217,7 +1215,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1855,
+      "top": 1935,
       "height": 233,
       "words": 11,
       "media": 0,
@@ -1240,7 +1238,7 @@
      {
       "sel": "div.case-body",
       "tag": "div",
-      "top": 2088,
+      "top": 2168,
       "height": 972,
       "words": 158,
       "media": 0,
@@ -1263,21 +1261,21 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 3156,
-      "height": 353,
+      "top": 3236,
+      "height": 717,
       "words": 5,
       "media": 1,
-      "middle": 168,
+      "middle": 0,
       "heading": {
        "text": "Next:",
        "size": 47,
        "tag": "span"
       },
       "left": 17,
-      "right": 17,
+      "right": 159,
       "textLeft": 17,
-      "textRight": 528,
-      "fullBleed": false,
+      "textRight": 159,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -1286,7 +1284,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3509,
+      "top": 3953,
       "height": 663,
       "words": 43,
       "media": 0,
@@ -1340,16 +1338,16 @@
    "load": "load",
    "screens": 6,
    "filled": [
-    0.5,
+    0.51,
     0.83,
-    0.24,
-    0.53,
-    0.61,
+    0.36,
+    0.46,
+    0.63,
     0.2
    ],
    "motion": {
-    "elements": 13,
-    "css": 2,
+    "elements": 15,
+    "css": 4,
     "transitions": 11,
     "scripted": 0,
     "videos": 0,
@@ -1361,7 +1359,7 @@
      "h": 844
     },
     "page": {
-     "height": 4774,
+     "height": 4842,
      "screens": 5.7,
      "words": 355,
      "img": 3,
@@ -1373,10 +1371,11 @@
      "overflowCulprits": [],
      "uiFragments": 1,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7",
       "image?url=%2Ftaxi-1.webp&w=640&q=75"
      ],
@@ -1453,7 +1452,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1527,
+      "top": 1595,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1474,7 +1473,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1958,
+      "top": 2026,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1495,7 +1494,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2060,
+      "top": 2128,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1516,7 +1515,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2162,
+      "top": 2230,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1537,7 +1536,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2313,
+      "top": 2381,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1558,7 +1557,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2577,
+      "top": 2645,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1579,7 +1578,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2922,
+      "top": 2990,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1600,7 +1599,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 3498,
+      "top": 3566,
       "tag": "a",
       "kind": "heading"
      },
@@ -1621,7 +1620,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 4708,
+      "top": 4776,
       "tag": "p",
       "kind": "statement"
      }
@@ -1699,7 +1698,7 @@
      "sectionBgs": [
       {
        "color": "#ffffff",
-       "top": 713,
+       "top": 781,
        "hsl": {
         "h": 0,
         "s": 0,
@@ -1708,7 +1707,7 @@
       },
       {
        "color": "#eeb778",
-       "top": 3498,
+       "top": 3566,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -1800,7 +1799,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 4774,
+    "pageH": 4842,
     "margins": {
      "left": 16,
      "right": 16
@@ -1810,9 +1809,9 @@
       "sel": "section.case-hero",
       "tag": "section",
       "top": 0,
-      "height": 617,
+      "height": 685,
       "words": 50,
-      "media": 0,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "A database without buying software",
@@ -1832,7 +1831,7 @@
      {
       "sel": "div.reveal.in",
       "tag": "div",
-      "top": 617,
+      "top": 685,
       "height": 831,
       "words": 74,
       "media": 0,
@@ -1851,7 +1850,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1447,
+      "top": 1515,
       "height": 378,
       "words": 13,
       "media": 1,
@@ -1862,10 +1861,10 @@
        "tag": "h2"
       },
       "left": 16,
-      "right": 16,
+      "right": 23,
       "textLeft": 16,
       "textRight": 23,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -1874,7 +1873,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1825,
+      "top": 1893,
       "height": 407,
       "words": 11,
       "media": 0,
@@ -1897,7 +1896,7 @@
      {
       "sel": "div.case-body",
       "tag": "div",
-      "top": 2233,
+      "top": 2301,
       "height": 1185,
       "words": 158,
       "media": 0,
@@ -1920,7 +1919,7 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 3498,
+      "top": 3566,
       "height": 449,
       "words": 5,
       "media": 1,
@@ -1931,10 +1930,10 @@
        "tag": "span"
       },
       "left": 16,
-      "right": 16,
+      "right": 55,
       "textLeft": 16,
       "textRight": 55,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -1943,7 +1942,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3947,
+      "top": 4015,
       "height": 827,
       "words": 43,
       "media": 0,
@@ -1994,13 +1993,6 @@
  ],
  "findings": [
   {
-   "level": "FAIL",
-   "id": "few-pictures",
-   "width": 1440,
-   "message": "Only 3 picture(s) on the page (2 photographs, footage or raster images, 1 interface fragments). Drawings in SVG do not count.",
-   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
-  },
-  {
    "level": "WARN",
    "id": "no-footage",
    "width": 1440,
@@ -2011,15 +2003,8 @@
    "level": "WARN",
    "id": "still-page",
    "width": 1440,
-   "message": "Little motion: 13 element(s) moved while the page loaded and scrolled.",
+   "message": "Little motion: 15 element(s) moved while the page loaded and scrolled.",
    "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
-  },
-  {
-   "level": "FAIL",
-   "id": "headline-lines",
-   "width": 768,
-   "message": "1 headline(s) wrap past two lines at 768px: \"Next: Taxi company analysis dashboard\" → 4 lines (5 words, 46.8px)",
-   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
   }
  ],
  "images": [

@@ -33,7 +33,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           <div className="case-meta">
             <dl>
               <div className="byline">
-                <Image src="/kolade.webp" alt="" width={900} height={955} sizes="176px" />
+                <Image src="/kolade.webp" alt="Kolade Ogunleye" width={900} height={955} sizes="240px" />
                 <div><dt>Role</dt><dd>Kolade Ogunleye, analyst, end to end</dd></div>
               </div>
               <div><dt>Tools</dt><dd>{p.stack.join(", ")}</dd></div>

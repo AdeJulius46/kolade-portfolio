@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/loan-default-prediction",
- "at": "2026-10-28T08:24:03.337Z",
+ "at": "2026-10-28T08:30:46.691Z",
  "allow": [],
  "viewports": [
   {
@@ -9,16 +9,16 @@
    "load": "load",
    "screens": 6,
    "filled": [
-    0.4,
+    0.35,
     0.69,
-    0.4,
-    0.31,
-    0.8,
+    0.48,
+    0.3,
+    0.78,
     0.59
    ],
    "motion": {
-    "elements": 17,
-    "css": 2,
+    "elements": 19,
+    "css": 4,
     "transitions": 15,
     "scripted": 0,
     "videos": 0,
@@ -30,8 +30,8 @@
      "h": 900
     },
     "page": {
-     "height": 5050,
-     "screens": 5.6,
+     "height": 5130,
+     "screens": 5.7,
      "words": 378,
      "img": 3,
      "video": 0,
@@ -42,10 +42,11 @@
      "overflowCulprits": [],
      "uiFragments": 2,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=1200&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7"
      ],
@@ -122,7 +123,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.36,
-      "top": 749,
+      "top": 829,
       "tag": "b",
       "kind": "statement"
      },
@@ -143,7 +144,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 1306,
+      "top": 1386,
       "tag": "h2",
       "kind": "heading"
      },
@@ -164,7 +165,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.23,
-      "top": 2323,
+      "top": 2403,
       "tag": "dd",
       "kind": "statement"
      },
@@ -185,7 +186,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.23,
-      "top": 2323,
+      "top": 2403,
       "tag": "dd",
       "kind": "statement"
      },
@@ -206,7 +207,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.23,
-      "top": 2323,
+      "top": 2403,
       "tag": "dd",
       "kind": "statement"
      },
@@ -227,7 +228,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.23,
-      "top": 2323,
+      "top": 2403,
       "tag": "dd",
       "kind": "statement"
      },
@@ -248,7 +249,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 2591,
+      "top": 2671,
       "tag": "h2",
       "kind": "heading"
      },
@@ -269,7 +270,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 2770,
+      "top": 2850,
       "tag": "h2",
       "kind": "heading"
      },
@@ -290,7 +291,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 2980,
+      "top": 3060,
       "tag": "h2",
       "kind": "heading"
      },
@@ -311,7 +312,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 3322,
+      "top": 3402,
       "tag": "h2",
       "kind": "heading"
      },
@@ -332,7 +333,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 3532,
+      "top": 3612,
       "tag": "h2",
       "kind": "heading"
      },
@@ -353,7 +354,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 3751,
+      "top": 3831,
       "tag": "a",
       "kind": "heading"
      },
@@ -374,7 +375,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 4884,
+      "top": 4964,
       "tag": "p",
       "kind": "statement"
      }
@@ -447,7 +448,7 @@
      "sectionBgs": [
       {
        "color": "#eeb778",
-       "top": 3751,
+       "top": 3831,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -536,7 +537,7 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 5050,
+    "pageH": 5130,
     "margins": {
      "left": 32,
      "right": 32
@@ -546,9 +547,9 @@
       "sel": "section.case-hero",
       "tag": "section",
       "top": 0,
-      "height": 629,
+      "height": 709,
       "words": 51,
-      "media": 0,
+      "media": 1,
       "middle": 84,
       "heading": {
        "text": "Will this borrower default?",
@@ -568,7 +569,7 @@
      {
       "sel": "div.reveal.in",
       "tag": "div",
-      "top": 629,
+      "top": 709,
       "height": 518,
       "words": 32,
       "media": 0,
@@ -591,7 +592,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1148,
+      "top": 1228,
       "height": 959,
       "words": 18,
       "media": 1,
@@ -602,10 +603,10 @@
        "tag": "h2"
       },
       "left": 32,
-      "right": 32,
+      "right": 763,
       "textLeft": 32,
       "textRight": 763,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -614,7 +615,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2107,
+      "top": 2187,
       "height": 326,
       "words": 13,
       "media": 0,
@@ -637,7 +638,7 @@
      {
       "sel": "div.case-body",
       "tag": "div",
-      "top": 2433,
+      "top": 2513,
       "height": 1160,
       "words": 226,
       "media": 0,
@@ -660,18 +661,18 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 3751,
+      "top": 3831,
       "height": 674,
       "words": 4,
       "media": 1,
-      "middle": 205,
+      "middle": 178,
       "heading": {
        "text": "Next:",
        "size": 71,
        "tag": "span"
       },
       "left": 32,
-      "right": 32,
+      "right": 5,
       "textLeft": 32,
       "textRight": 901,
       "fullBleed": false,
@@ -683,7 +684,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4425,
+      "top": 4505,
       "height": 625,
       "words": 43,
       "media": 0,
@@ -704,16 +705,7 @@
       "pinned": false
      }
     ],
-    "gaps": [
-     {
-      "top": 3592,
-      "height": 288
-     },
-     {
-      "top": 4296,
-      "height": 288
-     }
-    ],
+    "gaps": [],
     "h1s": [
      {
       "text": "Will this borrower default?",
@@ -738,12 +730,12 @@
     "stage": false,
     "explains": true,
     "slivers": [],
-    "voidShare": 0.15,
+    "voidShare": 0.19,
     "voidBox": {
-     "x": 300,
+     "x": 0,
      "y": 540,
-     "w": 540,
-     "h": 360
+     "w": 840,
+     "h": 300
     }
    },
    "app": null,
@@ -753,17 +745,18 @@
    "width": 768,
    "height": 1024,
    "load": "load",
-   "screens": 5,
+   "screens": 6,
    "filled": [
-    0.53,
-    0.79,
+    0.43,
+    0.85,
     0.32,
-    0.71,
+    0.6,
+    0.53,
     0.53
    ],
    "motion": {
-    "elements": 17,
-    "css": 2,
+    "elements": 19,
+    "css": 4,
     "transitions": 15,
     "scripted": 0,
     "videos": 0,
@@ -775,8 +768,8 @@
      "h": 1024
     },
     "page": {
-     "height": 4728,
-     "screens": 4.6,
+     "height": 5124,
+     "screens": 5,
      "words": 378,
      "img": 3,
      "video": 0,
@@ -787,10 +780,11 @@
      "overflowCulprits": [],
      "uiFragments": 2,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=828&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=384&q=7"
      ],
@@ -867,7 +861,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.89,
-      "top": 1179,
+      "top": 1259,
       "tag": "b",
       "kind": "statement"
      },
@@ -888,7 +882,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 1517,
+      "top": 1597,
       "tag": "h2",
       "kind": "heading"
      },
@@ -909,7 +903,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.3,
-      "top": 2134,
+      "top": 2214,
       "tag": "dd",
       "kind": "statement"
      },
@@ -930,7 +924,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.3,
-      "top": 2134,
+      "top": 2214,
       "tag": "dd",
       "kind": "statement"
      },
@@ -951,7 +945,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.3,
-      "top": 2134,
+      "top": 2214,
       "tag": "dd",
       "kind": "statement"
      },
@@ -972,7 +966,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.3,
-      "top": 2249,
+      "top": 2329,
       "tag": "dd",
       "kind": "statement"
      },
@@ -993,7 +987,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2427,
+      "top": 2507,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1014,7 +1008,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2647,
+      "top": 2727,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1035,7 +1029,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2894,
+      "top": 2974,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1056,7 +1050,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 3266,
+      "top": 3346,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1077,7 +1071,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 3513,
+      "top": 3593,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1085,7 +1079,7 @@
       "text": "Next: Pectoria database design",
       "words": 4,
       "chars": 30,
-      "lines": 2,
+      "lines": 1,
       "size": 46.8,
       "vw": 6.1,
       "font": "Sentient",
@@ -1098,7 +1092,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 3713,
+      "top": 3793,
       "tag": "a",
       "kind": "heading"
      },
@@ -1119,7 +1113,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 4628,
+      "top": 5024,
       "tag": "p",
       "kind": "statement"
      }
@@ -1192,7 +1186,7 @@
      "sectionBgs": [
       {
        "color": "#232c4a",
-       "top": 767,
+       "top": 847,
        "hsl": {
         "h": 226,
         "s": 0.36,
@@ -1201,7 +1195,7 @@
       },
       {
        "color": "#eeb778",
-       "top": 3713,
+       "top": 3793,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -1290,7 +1284,7 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 4728,
+    "pageH": 5124,
     "margins": {
      "left": 17,
      "right": 17
@@ -1300,9 +1294,9 @@
       "sel": "section.case-hero",
       "tag": "section",
       "top": 0,
-      "height": 671,
+      "height": 751,
       "words": 51,
-      "media": 0,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Will this borrower default?",
@@ -1322,7 +1316,7 @@
      {
       "sel": "div.reveal.in",
       "tag": "div",
-      "top": 671,
+      "top": 751,
       "height": 750,
       "words": 32,
       "media": 0,
@@ -1345,7 +1339,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1421,
+      "top": 1501,
       "height": 562,
       "words": 18,
       "media": 1,
@@ -1356,10 +1350,10 @@
        "tag": "h2"
       },
       "left": 17,
-      "right": 17,
+      "right": 106,
       "textLeft": 17,
       "textRight": 106,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -1368,7 +1362,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1983,
+      "top": 2063,
       "height": 348,
       "words": 13,
       "media": 0,
@@ -1391,7 +1385,7 @@
      {
       "sel": "div.case-body",
       "tag": "div",
-      "top": 2331,
+      "top": 2411,
       "height": 1285,
       "words": 226,
       "media": 0,
@@ -1414,21 +1408,21 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 3713,
-      "height": 353,
+      "top": 3793,
+      "height": 669,
       "words": 4,
       "media": 1,
-      "middle": 56,
+      "middle": 0,
       "heading": {
        "text": "Next:",
        "size": 47,
        "tag": "span"
       },
       "left": 17,
-      "right": 17,
+      "right": 115,
       "textLeft": 17,
-      "textRight": 416,
-      "fullBleed": false,
+      "textRight": 115,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -1437,7 +1431,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4065,
+      "top": 4461,
       "height": 663,
       "words": 43,
       "media": 0,
@@ -1491,17 +1485,17 @@
    "load": "load",
    "screens": 7,
    "filled": [
-    0.45,
-    0.76,
-    0.34,
-    0.49,
+    0.43,
+    0.85,
+    0.3,
     0.48,
-    0.61,
+    0.43,
+    0.64,
     0.2
    ],
    "motion": {
-    "elements": 17,
-    "css": 2,
+    "elements": 19,
+    "css": 4,
     "transitions": 15,
     "scripted": 0,
     "videos": 0,
@@ -1513,8 +1507,8 @@
      "h": 844
     },
     "page": {
-     "height": 5438,
-     "screens": 6.4,
+     "height": 5506,
+     "screens": 6.5,
      "words": 376,
      "img": 3,
      "video": 0,
@@ -1525,10 +1519,11 @@
      "overflowCulprits": [],
      "uiFragments": 2,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=640&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7"
      ],
@@ -1605,7 +1600,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.79,
-      "top": 1317,
+      "top": 1385,
       "tag": "b",
       "kind": "statement"
      },
@@ -1626,7 +1621,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1628,
+      "top": 1696,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1647,7 +1642,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2058,
+      "top": 2127,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1668,7 +1663,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2161,
+      "top": 2229,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1689,7 +1684,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2263,
+      "top": 2331,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1710,7 +1705,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2366,
+      "top": 2434,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1731,7 +1726,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2516,
+      "top": 2584,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1752,7 +1747,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2806,
+      "top": 2875,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1773,7 +1768,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 3123,
+      "top": 3191,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1794,7 +1789,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 3588,
+      "top": 3656,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1815,7 +1810,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 3931,
+      "top": 3999,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1836,7 +1831,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 4161,
+      "top": 4229,
       "tag": "a",
       "kind": "heading"
      },
@@ -1857,7 +1852,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 5371,
+      "top": 5439,
       "tag": "p",
       "kind": "statement"
      }
@@ -1930,7 +1925,7 @@
      "sectionBgs": [
       {
        "color": "#232c4a",
-       "top": 767,
+       "top": 835,
        "hsl": {
         "h": 226,
         "s": 0.36,
@@ -1939,7 +1934,7 @@
       },
       {
        "color": "#eeb778",
-       "top": 4161,
+       "top": 4229,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -1978,7 +1973,7 @@
     },
     "buttons": {
      "count": 2,
-     "inHero": 2,
+     "inHero": 1,
      "radius": 0,
      "height": 52,
      "withShadow": 0,
@@ -1986,8 +1981,7 @@
      "mono": 0,
      "upper": 0,
      "heroLabels": [
-      "Live demo",
-      "Repaid"
+      "Live demo"
      ]
     },
     "surfaces": {
@@ -2028,19 +2022,19 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 5438,
+    "pageH": 5506,
     "margins": {
      "left": 16,
-     "right": 16
+     "right": 17
     },
     "sections": [
      {
       "sel": "section.case-hero",
       "tag": "section",
       "top": 0,
-      "height": 671,
+      "height": 739,
       "words": 51,
-      "media": 0,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Will this borrower default?",
@@ -2060,7 +2054,7 @@
      {
       "sel": "div.reveal.in",
       "tag": "div",
-      "top": 671,
+      "top": 739,
       "height": 877,
       "words": 32,
       "media": 0,
@@ -2079,7 +2073,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1548,
+      "top": 1616,
       "height": 378,
       "words": 18,
       "media": 1,
@@ -2090,10 +2084,10 @@
        "tag": "h2"
       },
       "left": 16,
-      "right": 16,
+      "right": 32,
       "textLeft": 16,
       "textRight": 32,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -2102,7 +2096,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1926,
+      "top": 1994,
       "height": 510,
       "words": 13,
       "media": 0,
@@ -2125,7 +2119,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2516,
+      "top": 2584,
       "height": 203,
       "words": 39,
       "media": 0,
@@ -2144,7 +2138,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2806,
+      "top": 2875,
       "height": 229,
       "words": 46,
       "media": 0,
@@ -2163,7 +2157,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 3123,
+      "top": 3191,
       "height": 376,
       "words": 59,
       "media": 0,
@@ -2182,7 +2176,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 3588,
+      "top": 3656,
       "height": 255,
       "words": 49,
       "media": 0,
@@ -2201,7 +2195,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 3931,
+      "top": 3999,
       "height": 150,
       "words": 25,
       "media": 0,
@@ -2220,7 +2214,7 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 4161,
+      "top": 4229,
       "height": 449,
       "words": 4,
       "media": 1,
@@ -2231,10 +2225,10 @@
        "tag": "span"
       },
       "left": 16,
-      "right": 16,
+      "right": 117,
       "textLeft": 16,
       "textRight": 117,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -2243,7 +2237,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4610,
+      "top": 4678,
       "height": 827,
       "words": 43,
       "media": 0,
@@ -2266,7 +2260,7 @@
     ],
     "gaps": [
      {
-      "top": 836,
+      "top": 904,
       "height": 368
      }
     ],
@@ -2309,7 +2303,7 @@
    "level": "WARN",
    "id": "blank-gap",
    "width": 390,
-   "message": "A 368px stretch at 836px holds nothing.",
+   "message": "A 368px stretch at 904px holds nothing.",
    "fix": "Check that it is a deliberate rest (once per page at most); otherwise close it to the normal section gap."
   }
  ],

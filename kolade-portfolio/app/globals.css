@@ -292,7 +292,7 @@ p { margin: 0; }
 .case-meta dt { color: var(--muted); font-size: var(--s-small); }
 .case-meta dd { margin: 0; }
 .byline { display: flex; align-items: center; gap: 16px; }
-.byline img { width: 88px; height: 88px; object-fit: cover; object-position: 50% 10%; background: var(--apricot); }
+.byline img { width: 144px; height: 144px; flex: none; object-fit: cover; object-position: 50% 10%; background: var(--apricot); }
 .case-cover { padding: var(--gap) var(--m) 0; }
 .case-cover h2 { font-size: clamp(1.75rem, 1rem + 2vw, 2.75rem); margin-bottom: 32px; }
 .case-cover figure { margin: 0; }

@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/taxi-company-dashboard",
- "at": "2026-10-28T08:23:37.279Z",
+ "at": "2026-10-28T08:30:19.659Z",
  "allow": [],
  "viewports": [
   {
@@ -9,16 +9,16 @@
    "load": "load",
    "screens": 6,
    "filled": [
-    0.45,
-    0.47,
-    0.31,
-    0.35,
-    0.57,
+    0.38,
+    0.61,
+    0.26,
+    0.33,
+    0.65,
     0.59
    ],
    "motion": {
-    "elements": 16,
-    "css": 3,
+    "elements": 17,
+    "css": 4,
     "transitions": 13,
     "scripted": 0,
     "videos": 0,
@@ -30,8 +30,8 @@
      "h": 900
     },
     "page": {
-     "height": 4708,
-     "screens": 5.2,
+     "height": 4788,
+     "screens": 5.3,
      "words": 428,
      "img": 6,
      "video": 0,
@@ -40,12 +40,17 @@
      "sections": 7,
      "horizontalOverflow": 0,
      "overflowCulprits": [],
-     "uiFragments": 1,
+     "uiFragments": 0,
      "uiAbuse": false,
-     "realPictures": 1,
+     "realPictures": 6,
      "videoCount": 0,
-     "uiPictures": 1,
+     "uiPictures": 0,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
+      "image?url=%2Ftaxi-1.webp&w=1080&q=75",
+      "image?url=%2Ftaxi-1.webp&w=1080&q=75",
+      "image?url=%2Ftaxi-2.webp&w=256&q=75",
+      "image?url=%2Ftaxi-3.webp&w=256&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=640&q=75"
      ],
      "blendText": 0,
@@ -121,7 +126,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.23,
-      "top": 1551,
+      "top": 1631,
       "tag": "dd",
       "kind": "statement"
      },
@@ -142,7 +147,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.23,
-      "top": 1551,
+      "top": 1631,
       "tag": "dd",
       "kind": "statement"
      },
@@ -163,7 +168,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.23,
-      "top": 1551,
+      "top": 1631,
       "tag": "dd",
       "kind": "statement"
      },
@@ -184,7 +189,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.23,
-      "top": 1551,
+      "top": 1631,
       "tag": "dd",
       "kind": "statement"
      },
@@ -205,7 +210,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 1819,
+      "top": 1899,
       "tag": "h2",
       "kind": "heading"
      },
@@ -226,7 +231,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 1998,
+      "top": 2078,
       "tag": "h2",
       "kind": "heading"
      },
@@ -247,7 +252,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 2324,
+      "top": 2404,
       "tag": "h2",
       "kind": "heading"
      },
@@ -268,7 +273,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 2548,
+      "top": 2628,
       "tag": "h2",
       "kind": "heading"
      },
@@ -289,7 +294,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.31,
-      "top": 2846,
+      "top": 2926,
       "tag": "h2",
       "kind": "heading"
      },
@@ -310,7 +315,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 3408,
+      "top": 3488,
       "tag": "a",
       "kind": "heading"
      },
@@ -331,7 +336,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 4541,
+      "top": 4621,
       "tag": "p",
       "kind": "statement"
      }
@@ -404,7 +409,7 @@
      "sectionBgs": [
       {
        "color": "#eeb778",
-       "top": 3408,
+       "top": 3488,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -478,7 +483,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.18
+      "ratio": 0.11
      }
     ],
     "nav": {
@@ -497,7 +502,7 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 4708,
+    "pageH": 4788,
     "margins": {
      "left": 32,
      "right": 32
@@ -507,9 +512,9 @@
       "sel": "section.case-hero",
       "tag": "section",
       "top": 0,
-      "height": 599,
+      "height": 679,
       "words": 61,
-      "media": 0,
+      "media": 1,
       "middle": 183,
       "heading": {
        "text": "Where did 410K in fares go?",
@@ -517,9 +522,9 @@
        "tag": "h1"
       },
       "left": 32,
-      "right": 51,
+      "right": 35,
       "textLeft": 32,
-      "textRight": 51,
+      "textRight": 35,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -529,7 +534,7 @@
      {
       "sel": "div.reveal.in",
       "tag": "div",
-      "top": 599,
+      "top": 679,
       "height": 735,
       "words": 3,
       "media": 4,
@@ -548,7 +553,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1334,
+      "top": 1414,
       "height": 326,
       "words": 18,
       "media": 0,
@@ -571,7 +576,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1998,
+      "top": 2078,
       "height": 238,
       "words": 54,
       "media": 0,
@@ -590,7 +595,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2324,
+      "top": 2404,
       "height": 135,
       "words": 41,
       "media": 0,
@@ -609,7 +614,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2548,
+      "top": 2628,
       "height": 210,
       "words": 59,
       "media": 0,
@@ -628,7 +633,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2846,
+      "top": 2926,
       "height": 404,
       "words": 107,
       "media": 0,
@@ -647,18 +652,18 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 3408,
+      "top": 3488,
       "height": 674,
       "words": 4,
       "media": 1,
-      "middle": 130,
+      "middle": 103,
       "heading": {
        "text": "Next:",
        "size": 71,
        "tag": "span"
       },
       "left": 32,
-      "right": 32,
+      "right": 5,
       "textLeft": 32,
       "textRight": 826,
       "fullBleed": false,
@@ -670,7 +675,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4083,
+      "top": 4163,
       "height": 625,
       "words": 43,
       "media": 0,
@@ -693,12 +698,8 @@
     ],
     "gaps": [
      {
-      "top": 3248,
-      "height": 288
-     },
-     {
-      "top": 3956,
-      "height": 284
+      "top": 3328,
+      "height": 272
      }
     ],
     "h1s": [
@@ -742,15 +743,15 @@
    "load": "load",
    "screens": 5,
    "filled": [
-    0.39,
-    0.49,
-    0.33,
-    0.44,
+    0.36,
+    0.51,
+    0.34,
+    0.6,
     0.53
    ],
    "motion": {
-    "elements": 16,
-    "css": 3,
+    "elements": 17,
+    "css": 4,
     "transitions": 13,
     "scripted": 0,
     "videos": 0,
@@ -762,8 +763,8 @@
      "h": 1024
     },
     "page": {
-     "height": 4530,
-     "screens": 4.4,
+     "height": 4927,
+     "screens": 4.8,
      "words": 428,
      "img": 6,
      "video": 0,
@@ -772,12 +773,17 @@
      "sections": 7,
      "horizontalOverflow": 0,
      "overflowCulprits": [],
-     "uiFragments": 1,
+     "uiFragments": 0,
      "uiAbuse": false,
-     "realPictures": 1,
+     "realPictures": 6,
      "videoCount": 0,
-     "uiPictures": 1,
+     "uiPictures": 0,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
+      "image?url=%2Ftaxi-1.webp&w=828&q=75",
+      "image?url=%2Ftaxi-1.webp&w=828&q=75",
+      "image?url=%2Ftaxi-2.webp&w=256&q=75",
+      "image?url=%2Ftaxi-3.webp&w=256&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=384&q=75"
      ],
      "blendText": 0,
@@ -853,7 +859,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.3,
-      "top": 1533,
+      "top": 1613,
       "tag": "dd",
       "kind": "statement"
      },
@@ -874,7 +880,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.3,
-      "top": 1533,
+      "top": 1613,
       "tag": "dd",
       "kind": "statement"
      },
@@ -895,7 +901,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.3,
-      "top": 1533,
+      "top": 1613,
       "tag": "dd",
       "kind": "statement"
      },
@@ -916,7 +922,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.3,
-      "top": 1648,
+      "top": 1728,
       "tag": "dd",
       "kind": "statement"
      },
@@ -937,7 +943,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 1826,
+      "top": 1907,
       "tag": "h2",
       "kind": "heading"
      },
@@ -958,7 +964,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2046,
+      "top": 2126,
       "tag": "h2",
       "kind": "heading"
      },
@@ -979,7 +985,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2404,
+      "top": 2485,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1000,7 +1006,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2665,
+      "top": 2746,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1021,7 +1027,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 2996,
+      "top": 3076,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1029,7 +1035,7 @@
       "text": "Next: Loan default prediction",
       "words": 4,
       "chars": 29,
-      "lines": 3,
+      "lines": 1,
       "size": 46.8,
       "vw": 6.1,
       "font": "Sentient",
@@ -1042,7 +1048,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 3515,
+      "top": 3596,
       "tag": "a",
       "kind": "heading"
      },
@@ -1063,15 +1069,15 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.96,
-      "top": 4430,
+      "top": 4827,
       "tag": "p",
       "kind": "statement"
      }
     ],
     "headingSummary": {
      "count": 12,
-     "maxLines": 3,
-     "over2Lines": 1,
+     "maxLines": 2,
+     "over2Lines": 0,
      "statements": 5,
      "centered": 0,
      "medianWords": 2,
@@ -1136,7 +1142,7 @@
      "sectionBgs": [
       {
        "color": "#eeb778",
-       "top": 3515,
+       "top": 3596,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -1210,7 +1216,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.21
+      "ratio": 0.14
      }
     ],
     "nav": {
@@ -1229,7 +1235,7 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 4530,
+    "pageH": 4927,
     "margins": {
      "left": 17,
      "right": 17
@@ -1239,9 +1245,9 @@
       "sel": "section.case-hero",
       "tag": "section",
       "top": 0,
-      "height": 702,
+      "height": 782,
       "words": 61,
-      "media": 0,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Where did 410K in fares go?",
@@ -1261,8 +1267,8 @@
      {
       "sel": "div.reveal.in",
       "tag": "div",
-      "top": 702,
-      "height": 680,
+      "top": 782,
+      "height": 681,
       "words": 3,
       "media": 4,
       "middle": 0,
@@ -1280,7 +1286,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1382,
+      "top": 1463,
       "height": 348,
       "words": 18,
       "media": 0,
@@ -1303,7 +1309,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1826,
+      "top": 1907,
       "height": 131,
       "words": 31,
       "media": 0,
@@ -1322,7 +1328,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2046,
+      "top": 2126,
       "height": 271,
       "words": 54,
       "media": 0,
@@ -1341,7 +1347,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2404,
+      "top": 2485,
       "height": 173,
       "words": 41,
       "media": 0,
@@ -1360,7 +1366,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2665,
+      "top": 2746,
       "height": 243,
       "words": 59,
       "media": 0,
@@ -1379,7 +1385,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2996,
+      "top": 3076,
       "height": 423,
       "words": 107,
       "media": 0,
@@ -1398,21 +1404,21 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 3515,
-      "height": 353,
+      "top": 3596,
+      "height": 669,
       "words": 4,
       "media": 1,
-      "middle": 166,
+      "middle": 0,
       "heading": {
        "text": "Next:",
        "size": 47,
        "tag": "span"
       },
       "left": 17,
-      "right": 17,
+      "right": 140,
       "textLeft": 17,
-      "textRight": 526,
-      "fullBleed": false,
+      "textRight": 140,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -1421,7 +1427,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3868,
+      "top": 4264,
       "height": 663,
       "words": 43,
       "media": 0,
@@ -1475,17 +1481,17 @@
    "load": "load",
    "screens": 7,
    "filled": [
-    0.48,
-    0.38,
-    0.51,
     0.5,
-    0.75,
-    0.37,
+    0.36,
+    0.51,
+    0.52,
+    0.71,
+    0.35,
     0.2
    ],
    "motion": {
-    "elements": 16,
-    "css": 3,
+    "elements": 17,
+    "css": 4,
     "transitions": 13,
     "scripted": 0,
     "videos": 0,
@@ -1497,8 +1503,8 @@
      "h": 844
     },
     "page": {
-     "height": 5079,
-     "screens": 6,
+     "height": 5146,
+     "screens": 6.1,
      "words": 426,
      "img": 6,
      "video": 0,
@@ -1507,12 +1513,14 @@
      "sections": 7,
      "horizontalOverflow": 0,
      "overflowCulprits": [],
-     "uiFragments": 1,
+     "uiFragments": 0,
      "uiAbuse": false,
-     "realPictures": 1,
+     "realPictures": 3,
      "videoCount": 0,
-     "uiPictures": 1,
+     "uiPictures": 0,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
+      "image?url=%2Ftaxi-1.webp&w=640&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=640&q=75"
      ],
      "blendText": 0,
@@ -1588,7 +1596,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1205,
+      "top": 1273,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1609,7 +1617,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1307,
+      "top": 1375,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1630,7 +1638,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1409,
+      "top": 1477,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1651,7 +1659,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1512,
+      "top": 1580,
       "tag": "dd",
       "kind": "statement"
      },
@@ -1672,7 +1680,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1662,
+      "top": 1730,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1693,7 +1701,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1926,
+      "top": 1994,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1714,7 +1722,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2378,
+      "top": 2446,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1735,7 +1743,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2709,
+      "top": 2777,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1756,7 +1764,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 3133,
+      "top": 3201,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1777,7 +1785,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 3802,
+      "top": 3870,
       "tag": "a",
       "kind": "heading"
      },
@@ -1798,7 +1806,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 5013,
+      "top": 5080,
       "tag": "p",
       "kind": "statement"
      }
@@ -1871,7 +1879,7 @@
      "sectionBgs": [
       {
        "color": "#eeb778",
-       "top": 3802,
+       "top": 3870,
        "hsl": {
         "h": 32,
         "s": 0.78,
@@ -1959,7 +1967,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 5079,
+    "pageH": 5146,
     "margins": {
      "left": 16,
      "right": 16
@@ -1969,9 +1977,9 @@
       "sel": "section.case-hero",
       "tag": "section",
       "top": 0,
-      "height": 673,
+      "height": 741,
       "words": 61,
-      "media": 0,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Where did 410K in fares go?",
@@ -1991,7 +1999,7 @@
      {
       "sel": "div.reveal.in",
       "tag": "div",
-      "top": 673,
+      "top": 741,
       "height": 400,
       "words": 3,
       "media": 1,
@@ -2010,7 +2018,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1072,
+      "top": 1140,
       "height": 510,
       "words": 18,
       "media": 0,
@@ -2033,7 +2041,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1662,
+      "top": 1730,
       "height": 176,
       "words": 31,
       "media": 0,
@@ -2052,7 +2060,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1926,
+      "top": 1994,
       "height": 364,
       "words": 54,
       "media": 0,
@@ -2071,7 +2079,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2378,
+      "top": 2446,
       "height": 243,
       "words": 41,
       "media": 0,
@@ -2090,7 +2098,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2709,
+      "top": 2777,
       "height": 336,
       "words": 59,
       "media": 0,
@@ -2109,7 +2117,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 3133,
+      "top": 3201,
       "height": 589,
       "words": 107,
       "media": 0,
@@ -2128,7 +2136,7 @@
      {
       "sel": "a.next-project.accent",
       "tag": "a",
-      "top": 3802,
+      "top": 3870,
       "height": 449,
       "words": 4,
       "media": 1,
@@ -2139,10 +2147,10 @@
        "tag": "span"
       },
       "left": 16,
-      "right": 16,
+      "right": 79,
       "textLeft": 16,
       "textRight": 79,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -2151,7 +2159,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4251,
+      "top": 4319,
       "height": 827,
       "words": 43,
       "media": 0,
@@ -2202,25 +2210,11 @@
  ],
  "findings": [
   {
-   "level": "FAIL",
-   "id": "few-pictures",
-   "width": 1440,
-   "message": "Only 2 picture(s) on the page (1 photographs, footage or raster images, 1 interface fragments). Drawings in SVG do not count.",
-   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
-  },
-  {
    "level": "WARN",
    "id": "no-footage",
    "width": 1440,
    "message": "No video anywhere on the page.",
    "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
-  },
-  {
-   "level": "FAIL",
-   "id": "headline-lines",
-   "width": 768,
-   "message": "1 headline(s) wrap past two lines at 768px: \"Next: Loan default prediction\" → 3 lines (4 words, 46.8px)",
-   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
   }
  ],
  "images": [
