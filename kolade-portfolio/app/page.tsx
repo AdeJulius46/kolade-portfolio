@@ -23,7 +23,6 @@ const skills = [
 ];
 
 const experience = [
-  { when: "2025", title: "Data Science Intern", org: "LogicLeap", text: "Six-week internship completed September 2025: analysis and modelling tasks in Python and Jupyter." },
   { when: "Certificate", title: "Professional Certificate in Data Science", org: "SQI College of ICT", text: "Python, SQL, statistics, machine learning and data visualisation." },
   { when: "Degree", title: "B.Eng. Mechanical Engineering, First Class", org: "Adeleke University", text: "Statistics, physics and modelling foundations, later applied to projects like pipeline maintenance prediction." },
 ];
@@ -148,7 +147,7 @@ export default function Home() {
             <h2>Experience &amp; education</h2>
             <p>
               Engineering trained, data focused. A First Class mechanical engineering degree gave me statistics, physics and modelling;
-              a data science certificate and an internship pointed them at data.
+              a professional data science certificate pointed them at data.
             </p>
           </Reveal>
           <div className="exp">
