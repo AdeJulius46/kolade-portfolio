@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/loan-default-prediction",
- "at": "2026-10-30T19:36:48.306Z",
+ "at": "2026-10-30T19:44:40.365Z",
  "allow": [],
  "viewports": [
   {
@@ -15,10 +15,10 @@
     0.39
    ],
    "motion": {
-    "elements": 17,
-    "css": 1,
+    "elements": 20,
+    "css": 3,
     "transitions": 16,
-    "scripted": 0,
+    "scripted": 1,
     "videos": 0,
     "playingVideos": 0
    },
@@ -403,6 +403,15 @@
      "dark": true,
      "sectionBgs": [
       {
+       "color": "#c6f432",
+       "top": -900,
+       "hsl": {
+        "h": 74,
+        "s": 0.9,
+        "l": 0.58
+       }
+      },
+      {
        "color": "#131c2e",
        "top": 2818,
        "hsl": {
@@ -507,118 +516,26 @@
     },
     "sections": [
      {
-      "sel": "section.wrap.case-hero",
-      "tag": "section",
-      "top": 80,
-      "height": 668,
-      "words": 54,
-      "media": 1,
-      "middle": 132,
+      "sel": "div.page-in",
+      "tag": "div",
+      "top": 0,
+      "height": 3163,
+      "words": 338,
+      "media": 3,
+      "middle": 0,
       "heading": {
        "text": "Will this borrower default?",
        "size": 80,
        "tag": "h1"
       },
       "left": 60,
-      "right": 111,
+      "right": 60,
       "textLeft": 60,
-      "textRight": 111,
+      "textRight": 76,
       "fullBleed": false,
       "footer": false,
       "hero": true,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 748,
-      "height": 662,
-      "words": 32,
-      "media": 1,
-      "middle": 46,
-      "heading": {
-       "text": "88.7%",
-       "size": 32,
-       "tag": "b"
-      },
-      "left": 60,
-      "right": 135,
-      "textLeft": 839,
-      "textRight": 135,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap",
-      "tag": "section",
-      "top": 1410,
-      "height": 162,
-      "words": 11,
-      "media": 0,
-      "middle": 197,
-      "heading": {
-       "text": "88.7%",
-       "size": 52,
-       "tag": "p"
-      },
-      "left": 100,
-      "right": 296,
-      "textLeft": 100,
-      "textRight": 296,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "div.wrap.case-body",
-      "tag": "div",
-      "top": 1573,
-      "height": 1102,
-      "words": 226,
-      "media": 0,
-      "middle": 221,
-      "heading": {
-       "text": "The brief",
-       "size": 35,
-       "tag": "h2"
-      },
-      "left": 60,
-      "right": 245,
-      "textLeft": 60,
-      "textRight": 245,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap.section",
-      "tag": "section",
-      "top": 2674,
-      "height": 489,
-      "words": 9,
-      "media": 1,
-      "middle": 100,
-      "heading": {
-       "text": "Next:",
-       "size": 52,
-       "tag": "span"
-      },
-      "left": 108,
-      "right": 108,
-      "textLeft": 108,
-      "textRight": 804,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
+      "continues": false,
       "pinned": false
      },
      {
@@ -689,10 +606,10 @@
     0.57
    ],
    "motion": {
-    "elements": 17,
-    "css": 1,
+    "elements": 20,
+    "css": 3,
     "transitions": 16,
-    "scripted": 0,
+    "scripted": 1,
     "videos": 0,
     "playingVideos": 0
    },
@@ -1077,6 +994,15 @@
      "dark": true,
      "sectionBgs": [
       {
+       "color": "#c6f432",
+       "top": -1024,
+       "hsl": {
+        "h": 74,
+        "s": 0.9,
+        "l": 0.58
+       }
+      },
+      {
        "color": "#131c2e",
        "top": 326,
        "hsl": {
@@ -1180,12 +1106,12 @@
     },
     "sections": [
      {
-      "sel": "section.wrap.case-hero",
-      "tag": "section",
-      "top": 80,
-      "height": 760,
-      "words": 54,
-      "media": 1,
+      "sel": "div.page-in",
+      "tag": "div",
+      "top": 0,
+      "height": 3775,
+      "words": 338,
+      "media": 3,
       "middle": 0,
       "heading": {
        "text": "Will this borrower default?",
@@ -1193,101 +1119,13 @@
        "tag": "h1"
       },
       "left": 31,
-      "right": 41,
+      "right": 31,
       "textLeft": 31,
       "textRight": 41,
       "fullBleed": false,
       "footer": false,
       "hero": true,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 840,
-      "height": 1056,
-      "words": 32,
-      "media": 1,
-      "middle": 0,
-      "heading": null,
-      "left": 31,
-      "right": 31,
-      "textLeft": 53,
-      "textRight": 129,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap",
-      "tag": "section",
-      "top": 1896,
-      "height": 207,
-      "words": 11,
-      "media": 0,
-      "middle": 224,
-      "heading": {
-       "text": "88.7%",
-       "size": 38,
-       "tag": "p"
-      },
-      "left": 55,
-      "right": 247,
-      "textLeft": 55,
-      "textRight": 247,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "div.wrap.case-body",
-      "tag": "div",
-      "top": 2103,
-      "height": 1127,
-      "words": 226,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "The brief",
-       "size": 27,
-       "tag": "h2"
-      },
-      "left": 31,
-      "right": 74,
-      "textLeft": 31,
-      "textRight": 74,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap.section",
-      "tag": "section",
-      "top": 3231,
-      "height": 544,
-      "words": 9,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Next:",
-       "size": 38,
-       "tag": "span"
-      },
-      "left": 61,
-      "right": 61,
-      "textLeft": 61,
-      "textRight": 216,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
+      "continues": false,
       "pinned": false
      },
      {
@@ -1351,8 +1189,8 @@
     0.51
    ],
    "motion": {
-    "elements": 17,
-    "css": 1,
+    "elements": 19,
+    "css": 3,
     "transitions": 16,
     "scripted": 0,
     "videos": 0,
@@ -1739,6 +1577,15 @@
      "dark": true,
      "sectionBgs": [
       {
+       "color": "#c6f432",
+       "top": -844,
+       "hsl": {
+        "h": 74,
+        "s": 0.9,
+        "l": 0.58
+       }
+      },
+      {
        "color": "#131c2e",
        "top": 399,
        "hsl": {
@@ -1837,12 +1684,12 @@
     },
     "sections": [
      {
-      "sel": "section.wrap.case-hero",
-      "tag": "section",
-      "top": 80,
-      "height": 876,
-      "words": 54,
-      "media": 1,
+      "sel": "div.page-in",
+      "tag": "div",
+      "top": 0,
+      "height": 4170,
+      "words": 336,
+      "media": 3,
       "middle": 0,
       "heading": {
        "text": "Will this borrower default?",
@@ -1850,173 +1697,13 @@
        "tag": "h1"
       },
       "left": 16,
-      "right": 34,
-      "textLeft": 16,
-      "textRight": 34,
-      "fullBleed": false,
-      "footer": false,
-      "hero": true,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 956,
-      "height": 1027,
-      "words": 32,
-      "media": 1,
-      "middle": 0,
-      "heading": null,
-      "left": 16,
       "right": 16,
-      "textLeft": 36,
-      "textRight": 59,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap",
-      "tag": "section",
-      "top": 1983,
-      "height": 196,
-      "words": 11,
-      "media": 0,
-      "middle": 44,
-      "heading": {
-       "text": "88.7%",
-       "size": 32,
-       "tag": "p"
-      },
-      "left": 40,
-      "right": 64,
-      "textLeft": 40,
-      "textRight": 64,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 2275,
-      "height": 215,
-      "words": 39,
-      "media": 0,
-      "middle": 0,
-      "heading": null,
-      "left": 16,
-      "right": 26,
-      "textLeft": 16,
-      "textRight": 26,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 2538,
-      "height": 244,
-      "words": 46,
-      "media": 0,
-      "middle": 0,
-      "heading": null,
-      "left": 16,
-      "right": 18,
       "textLeft": 16,
       "textRight": 18,
       "fullBleed": false,
       "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 2830,
-      "height": 395,
-      "words": 59,
-      "media": 0,
-      "middle": 0,
-      "heading": null,
-      "left": 38,
-      "right": 19,
-      "textLeft": 38,
-      "textRight": 19,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 3274,
-      "height": 273,
-      "words": 49,
-      "media": 0,
-      "middle": 0,
-      "heading": null,
-      "left": 16,
-      "right": 24,
-      "textLeft": 16,
-      "textRight": 24,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 3594,
-      "height": 158,
-      "words": 25,
-      "media": 0,
-      "middle": 0,
-      "heading": null,
-      "left": 16,
-      "right": 27,
-      "textLeft": 16,
-      "textRight": 27,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap.section",
-      "tag": "section",
-      "top": 3752,
-      "height": 418,
-      "words": 9,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Next:",
-       "size": 32,
-       "tag": "span"
-      },
-      "left": 40,
-      "right": 40,
-      "textLeft": 40,
-      "textRight": 45,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
+      "hero": true,
+      "continues": false,
       "pinned": false
      },
      {

@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/",
- "at": "2026-10-30T19:42:10.553Z",
+ "at": "2026-10-30T19:43:40.111Z",
  "allow": [],
  "viewports": [
   {
@@ -612,7 +612,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.38
+      "ratio": 0.42
      }
     ],
     "nav": {
@@ -634,7 +634,7 @@
     "pageH": 6449,
     "margins": {
      "left": 60,
-     "right": 60
+     "right": 63
     },
     "sections": [
      {
@@ -651,7 +651,7 @@
        "tag": "p"
       },
       "left": 60,
-      "right": 18,
+      "right": 0,
       "textLeft": 0,
       "textRight": 0,
       "fullBleed": false,
@@ -721,11 +721,11 @@
     "stage": false,
     "explains": true,
     "slivers": [],
-    "voidShare": 0.11,
+    "voidShare": 0.1,
     "voidBox": {
      "x": 0,
      "y": 720,
-     "w": 780,
+     "w": 720,
      "h": 180
     }
    },
@@ -1358,7 +1358,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.51
+      "ratio": 0.54
      }
     ],
     "nav": {
@@ -2099,7 +2099,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.38
+      "ratio": 0.42
      }
     ],
     "nav": {

@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/pectoria-database",
- "at": "2026-10-30T19:35:56.923Z",
+ "at": "2026-10-30T19:45:03.162Z",
  "allow": [],
  "viewports": [
   {
@@ -15,10 +15,10 @@
     0.48
    ],
    "motion": {
-    "elements": 12,
-    "css": 1,
+    "elements": 15,
+    "css": 3,
     "transitions": 11,
-    "scripted": 0,
+    "scripted": 1,
     "videos": 0,
     "playingVideos": 0
    },
@@ -324,6 +324,15 @@
      "dark": true,
      "sectionBgs": [
       {
+       "color": "#c6f432",
+       "top": -900,
+       "hsl": {
+        "h": 74,
+        "s": 0.9,
+        "l": 0.58
+       }
+      },
+      {
        "color": "#131c2e",
        "top": 2495,
        "hsl": {
@@ -430,110 +439,26 @@
     },
     "sections": [
      {
-      "sel": "section.wrap.case-hero",
-      "tag": "section",
-      "top": 80,
-      "height": 624,
-      "words": 54,
-      "media": 1,
-      "middle": 118,
+      "sel": "div.page-in",
+      "tag": "div",
+      "top": 0,
+      "height": 2926,
+      "words": 312,
+      "media": 3,
+      "middle": 0,
       "heading": {
        "text": "A database without buying software",
        "size": 80,
        "tag": "h1"
       },
       "left": 60,
-      "right": 164,
+      "right": 60,
       "textLeft": 60,
-      "textRight": 164,
+      "textRight": 76,
       "fullBleed": false,
       "footer": false,
       "hero": true,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 704,
-      "height": 607,
-      "words": 74,
-      "media": 1,
-      "middle": 39,
-      "heading": null,
-      "left": 60,
-      "right": 87,
-      "textLeft": 832,
-      "textRight": 87,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap",
-      "tag": "section",
-      "top": 1311,
-      "height": 162,
-      "words": 9,
-      "media": 0,
-      "middle": 324,
-      "heading": null,
-      "left": 100,
-      "right": 412,
-      "textLeft": 100,
-      "textRight": 412,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "div.wrap.case-body",
-      "tag": "div",
-      "top": 1473,
-      "height": 878,
-      "words": 158,
-      "media": 0,
-      "middle": 298,
-      "heading": {
-       "text": "The brief",
-       "size": 35,
-       "tag": "h2"
-      },
-      "left": 60,
-      "right": 242,
-      "textLeft": 60,
-      "textRight": 242,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap.section",
-      "tag": "section",
-      "top": 2351,
-      "height": 574,
-      "words": 11,
-      "media": 1,
-      "middle": 194,
-      "heading": {
-       "text": "Next:",
-       "size": 52,
-       "tag": "span"
-      },
-      "left": 108,
-      "right": 108,
-      "textLeft": 108,
-      "textRight": 898,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
+      "continues": false,
       "pinned": false
      },
      {
@@ -604,10 +529,10 @@
     0.57
    ],
    "motion": {
-    "elements": 12,
-    "css": 1,
+    "elements": 15,
+    "css": 3,
     "transitions": 11,
-    "scripted": 0,
+    "scripted": 1,
     "videos": 0,
     "playingVideos": 0
    },
@@ -913,6 +838,15 @@
      "dark": true,
      "sectionBgs": [
       {
+       "color": "#c6f432",
+       "top": -1024,
+       "hsl": {
+        "h": 74,
+        "s": 0.9,
+        "l": 0.58
+       }
+      },
+      {
        "color": "#131c2e",
        "top": 379,
        "hsl": {
@@ -1028,12 +962,12 @@
     },
     "sections": [
      {
-      "sel": "section.wrap.case-hero",
-      "tag": "section",
-      "top": 80,
-      "height": 813,
-      "words": 54,
-      "media": 1,
+      "sel": "div.page-in",
+      "tag": "div",
+      "top": 0,
+      "height": 3504,
+      "words": 312,
+      "media": 3,
       "middle": 0,
       "heading": {
        "text": "A database without buying software",
@@ -1041,97 +975,13 @@
        "tag": "h1"
       },
       "left": 31,
-      "right": 51,
+      "right": 31,
       "textLeft": 31,
-      "textRight": 51,
+      "textRight": 47,
       "fullBleed": false,
       "footer": false,
       "hero": true,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 893,
-      "height": 877,
-      "words": 74,
-      "media": 1,
-      "middle": 0,
-      "heading": null,
-      "left": 31,
-      "right": 31,
-      "textLeft": 46,
-      "textRight": 72,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap",
-      "tag": "section",
-      "top": 1770,
-      "height": 207,
-      "words": 9,
-      "media": 0,
-      "middle": 186,
-      "heading": null,
-      "left": 55,
-      "right": 268,
-      "textLeft": 55,
-      "textRight": 268,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "div.wrap.case-body",
-      "tag": "div",
-      "top": 1977,
-      "height": 890,
-      "words": 158,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "The brief",
-       "size": 27,
-       "tag": "h2"
-      },
-      "left": 31,
-      "right": 71,
-      "textLeft": 31,
-      "textRight": 71,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap.section",
-      "tag": "section",
-      "top": 2867,
-      "height": 637,
-      "words": 11,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Next:",
-       "size": 38,
-       "tag": "span"
-      },
-      "left": 61,
-      "right": 61,
-      "textLeft": 61,
-      "textRight": 78,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
+      "continues": false,
       "pinned": false
      },
      {
@@ -1194,8 +1044,8 @@
     0.56
    ],
    "motion": {
-    "elements": 12,
-    "css": 1,
+    "elements": 14,
+    "css": 3,
     "transitions": 11,
     "scripted": 0,
     "videos": 0,
@@ -1503,6 +1353,15 @@
      "dark": true,
      "sectionBgs": [
       {
+       "color": "#c6f432",
+       "top": -844,
+       "hsl": {
+        "h": 74,
+        "s": 0.9,
+        "l": 0.58
+       }
+      },
+      {
        "color": "#131c2e",
        "top": 399,
        "hsl": {
@@ -1613,12 +1472,12 @@
     },
     "sections": [
      {
-      "sel": "section.wrap.case-hero",
-      "tag": "section",
-      "top": 80,
-      "height": 832,
-      "words": 54,
-      "media": 1,
+      "sel": "div.page-in",
+      "tag": "div",
+      "top": 0,
+      "height": 3639,
+      "words": 310,
+      "media": 3,
       "middle": 0,
       "heading": {
        "text": "A database without buying software",
@@ -1626,97 +1485,13 @@
        "tag": "h1"
       },
       "left": 16,
-      "right": 17,
+      "right": 16,
       "textLeft": 16,
       "textRight": 17,
       "fullBleed": false,
       "footer": false,
       "hero": true,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 912,
-      "height": 876,
-      "words": 74,
-      "media": 1,
-      "middle": 0,
-      "heading": null,
-      "left": 16,
-      "right": 16,
-      "textLeft": 31,
-      "textRight": 33,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap",
-      "tag": "section",
-      "top": 1788,
-      "height": 220,
-      "words": 9,
-      "media": 0,
-      "middle": 48,
-      "heading": null,
-      "left": 40,
-      "right": 85,
-      "textLeft": 40,
-      "textRight": 85,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "div.wrap.case-body",
-      "tag": "div",
-      "top": 2008,
-      "height": 1169,
-      "words": 158,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "The brief",
-       "size": 24,
-       "tag": "h2"
-      },
-      "left": 16,
-      "right": 17,
-      "textLeft": 16,
-      "textRight": 17,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap.section",
-      "tag": "section",
-      "top": 3177,
-      "height": 463,
-      "words": 11,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Next:",
-       "size": 32,
-       "tag": "span"
-      },
-      "left": 40,
-      "right": 40,
-      "textLeft": 40,
-      "textRight": 85,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
+      "continues": false,
       "pinned": false
      },
      {
@@ -1786,7 +1561,7 @@
    "level": "WARN",
    "id": "still-page",
    "width": 1440,
-   "message": "Little motion: 12 element(s) moved while the page loaded and scrolled.",
+   "message": "Little motion: 15 element(s) moved while the page loaded and scrolled.",
    "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
   }
  ],
