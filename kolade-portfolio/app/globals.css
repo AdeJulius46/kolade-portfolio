@@ -275,7 +275,10 @@ p { margin: 0; }
 .footer a { color: var(--ink); text-underline-offset: 4px; transition: color .2s; }
 .footer a:hover { color: var(--accent-text); }
 .footer-end { text-align: right; }
-.footer .credit { grid-column: 1 / -1; }
+.entry-list { margin: 10px 0 0; padding-left: 1.2em; display: grid; gap: 6px; color: var(--muted); }
+.entry-list li::marker { color: var(--accent); }
+.photo-credit { color: var(--muted); font-size: var(--s-small); text-underline-offset: 3px; white-space: nowrap; transition: color .2s; }
+.photo-credit:hover { color: var(--accent-text); }
 
 /* ---------- Entrances ---------- */
 @media (prefers-reduced-motion: no-preference) {

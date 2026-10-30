@@ -105,7 +105,7 @@ export const projects: Project[] = [
     sections: [
       {
         heading: "The brief",
-        body: "Lenders lose money when borrowers default. Using historical loan applications from Kaggle, the goal was to predict whether a new applicant is likely to default, find the factors that matter most, and put the model in a simple web app.",
+        body: "Built during my data science internship at DayFigurez Consult Limited, Abuja (January to July 2026). Lenders lose money when borrowers default. Using historical loan applications from Kaggle, the goal was to predict whether a new applicant is likely to default, find the factors that matter most, and put the model in a simple web app.",
       },
       {
         heading: "The data",

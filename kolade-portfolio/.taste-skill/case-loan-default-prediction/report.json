@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/loan-default-prediction",
- "at": "2026-10-30T19:44:40.365Z",
+ "at": "2026-10-30T19:58:13.749Z",
  "allow": [],
  "viewports": [
   {
@@ -12,7 +12,7 @@
     0.48,
     0.49,
     0.26,
-    0.39
+    0.44
    ],
    "motion": {
     "elements": 20,
@@ -28,7 +28,7 @@
      "h": 900
     },
     "page": {
-     "height": 3435,
+     "height": 3453,
      "screens": 3.8,
      "words": 362,
      "img": 3,
@@ -247,7 +247,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 1890,
+      "top": 1947,
       "tag": "h2",
       "kind": "heading"
      },
@@ -268,7 +268,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 2091,
+      "top": 2149,
       "tag": "h2",
       "kind": "heading"
      },
@@ -289,7 +289,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 2415,
+      "top": 2473,
       "tag": "h2",
       "kind": "heading"
      },
@@ -310,7 +310,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 2617,
+      "top": 2674,
       "tag": "h2",
       "kind": "heading"
      },
@@ -331,7 +331,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 2909,
+      "top": 2966,
       "tag": "span",
       "kind": "heading"
      }
@@ -387,7 +387,7 @@
      "microLabels": 0,
      "microLabelShare": 0,
      "microSamples": [],
-     "upperShare": 0.01,
+     "upperShare": 0,
      "centerShare": 0.01,
      "smallText": 0
     },
@@ -413,7 +413,7 @@
       },
       {
        "color": "#131c2e",
-       "top": 2818,
+       "top": 2876,
        "hsl": {
         "h": 220,
         "s": 0.42,
@@ -424,11 +424,11 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.78
+       "share": 0.81
       },
       {
        "color": "#eef2f7",
-       "share": 0.18
+       "share": 0.16
       },
       {
        "color": "#c6f432",
@@ -509,29 +509,29 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 3435,
+    "pageH": 3453,
     "margins": {
      "left": 60,
      "right": 76
     },
     "sections": [
      {
-      "sel": "div.page-in",
-      "tag": "div",
-      "top": 0,
-      "height": 3163,
-      "words": 338,
-      "media": 3,
-      "middle": 0,
+      "sel": "section.wrap.case-hero",
+      "tag": "section",
+      "top": 80,
+      "height": 668,
+      "words": 54,
+      "media": 1,
+      "middle": 132,
       "heading": {
        "text": "Will this borrower default?",
        "size": 80,
        "tag": "h1"
       },
       "left": 60,
-      "right": 60,
+      "right": 111,
       "textLeft": 60,
-      "textRight": 76,
+      "textRight": 111,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -539,18 +539,91 @@
       "pinned": false
      },
      {
-      "sel": "footer.footer",
-      "tag": "footer",
-      "top": 3307,
-      "height": 128,
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 748,
+      "height": 662,
       "words": 32,
-      "media": 0,
-      "middle": 368,
-      "heading": null,
+      "media": 1,
+      "middle": 46,
+      "heading": {
+       "text": "88.7%",
+       "size": 32,
+       "tag": "b"
+      },
       "left": 60,
-      "right": 60,
+      "right": 135,
+      "textLeft": 839,
+      "textRight": 135,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap",
+      "tag": "section",
+      "top": 1410,
+      "height": 162,
+      "words": 11,
+      "media": 0,
+      "middle": 197,
+      "heading": {
+       "text": "88.7%",
+       "size": 52,
+       "tag": "p"
+      },
+      "left": 100,
+      "right": 296,
+      "textLeft": 100,
+      "textRight": 296,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.wrap.case-body",
+      "tag": "div",
+      "top": 1573,
+      "height": 1159,
+      "words": 243,
+      "media": 0,
+      "middle": 221,
+      "heading": {
+       "text": "The brief",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 245,
       "textLeft": 60,
-      "textRight": 60,
+      "textRight": 245,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap.section",
+      "tag": "section",
+      "top": 2732,
+      "height": 489,
+      "words": 9,
+      "media": 1,
+      "middle": 100,
+      "heading": {
+       "text": "Next:",
+       "size": 52,
+       "tag": "span"
+      },
+      "left": 108,
+      "right": 108,
+      "textLeft": 108,
+      "textRight": 804,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -602,8 +675,8 @@
    "filled": [
     0.76,
     0.76,
-    0.31,
-    0.57
+    0.56,
+    0.62
    ],
    "motion": {
     "elements": 20,
@@ -619,8 +692,8 @@
      "h": 1024
     },
     "page": {
-     "height": 4047,
-     "screens": 4,
+     "height": 4040,
+     "screens": 3.9,
      "words": 362,
      "img": 3,
      "video": 0,
@@ -838,7 +911,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2379,
+      "top": 2437,
       "tag": "h2",
       "kind": "heading"
      },
@@ -859,7 +932,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2588,
+      "top": 2646,
       "tag": "h2",
       "kind": "heading"
      },
@@ -880,7 +953,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2919,
+      "top": 2977,
       "tag": "h2",
       "kind": "heading"
      },
@@ -901,7 +974,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 3128,
+      "top": 3185,
       "tag": "h2",
       "kind": "heading"
      },
@@ -922,7 +995,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.84,
-      "top": 3358,
+      "top": 3415,
       "tag": "span",
       "kind": "heading"
      }
@@ -978,7 +1051,7 @@
      "microLabels": 0,
      "microLabelShare": 0,
      "microSamples": [],
-     "upperShare": 0.01,
+     "upperShare": 0,
      "centerShare": 0.01,
      "smallText": 0
     },
@@ -1015,11 +1088,11 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.78
+       "share": 0.81
       },
       {
        "color": "#eef2f7",
-       "share": 0.18
+       "share": 0.16
       },
       {
        "color": "#c6f432",
@@ -1099,19 +1172,19 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 4047,
+    "pageH": 4040,
     "margins": {
      "left": 31,
      "right": 31
     },
     "sections": [
      {
-      "sel": "div.page-in",
-      "tag": "div",
-      "top": 0,
-      "height": 3775,
-      "words": 338,
-      "media": 3,
+      "sel": "section.wrap.case-hero",
+      "tag": "section",
+      "top": 80,
+      "height": 760,
+      "words": 54,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Will this borrower default?",
@@ -1119,7 +1192,7 @@
        "tag": "h1"
       },
       "left": 31,
-      "right": 31,
+      "right": 41,
       "textLeft": 31,
       "textRight": 41,
       "fullBleed": false,
@@ -1129,18 +1202,87 @@
       "pinned": false
      },
      {
-      "sel": "footer.footer",
-      "tag": "footer",
-      "top": 3871,
-      "height": 176,
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 840,
+      "height": 1056,
       "words": 32,
-      "media": 0,
+      "media": 1,
       "middle": 0,
       "heading": null,
       "left": 31,
       "right": 31,
+      "textLeft": 53,
+      "textRight": 129,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap",
+      "tag": "section",
+      "top": 1896,
+      "height": 207,
+      "words": 11,
+      "media": 0,
+      "middle": 224,
+      "heading": {
+       "text": "88.7%",
+       "size": 38,
+       "tag": "p"
+      },
+      "left": 55,
+      "right": 247,
+      "textLeft": 55,
+      "textRight": 247,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.wrap.case-body",
+      "tag": "div",
+      "top": 2103,
+      "height": 1185,
+      "words": 243,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The brief",
+       "size": 27,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 74,
       "textLeft": 31,
-      "textRight": 31,
+      "textRight": 74,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap.section",
+      "tag": "section",
+      "top": 3288,
+      "height": 544,
+      "words": 9,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Next:",
+       "size": 38,
+       "tag": "span"
+      },
+      "left": 61,
+      "right": 61,
+      "textLeft": 61,
+      "textRight": 216,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -1183,10 +1325,10 @@
    "filled": [
     0.76,
     0.82,
-    0.64,
-    0.63,
-    0.58,
-    0.51
+    0.71,
+    0.52,
+    0.67,
+    0.54
    ],
    "motion": {
     "elements": 19,
@@ -1202,8 +1344,8 @@
      "h": 844
     },
     "page": {
-     "height": 4522,
-     "screens": 5.4,
+     "height": 4492,
+     "screens": 5.3,
      "words": 360,
      "img": 3,
      "video": 0,
@@ -1421,7 +1563,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2538,
+      "top": 2596,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1442,7 +1584,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2830,
+      "top": 2888,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1463,7 +1605,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 3274,
+      "top": 3331,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1484,7 +1626,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 3594,
+      "top": 3652,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1505,7 +1647,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.79,
-      "top": 3872,
+      "top": 3929,
       "tag": "span",
       "kind": "heading"
      }
@@ -1561,7 +1703,7 @@
      "microLabels": 0,
      "microLabelShare": 0,
      "microSamples": [],
-     "upperShare": 0.01,
+     "upperShare": 0,
      "centerShare": 0.01,
      "smallText": 0
     },
@@ -1598,11 +1740,11 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.78
+       "share": 0.81
       },
       {
        "color": "#eef2f7",
-       "share": 0.18
+       "share": 0.16
       },
       {
        "color": "#c6f432",
@@ -1677,7 +1819,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 4522,
+    "pageH": 4492,
     "margins": {
      "left": 16,
      "right": 18
@@ -1687,8 +1829,8 @@
       "sel": "div.page-in",
       "tag": "div",
       "top": 0,
-      "height": 4170,
-      "words": 336,
+      "height": 4228,
+      "words": 353,
       "media": 3,
       "middle": 0,
       "heading": {
@@ -1709,16 +1851,16 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4266,
-      "height": 256,
-      "words": 32,
+      "top": 4324,
+      "height": 168,
+      "words": 16,
       "media": 0,
       "middle": 0,
       "heading": null,
       "left": 16,
-      "right": 30,
+      "right": 37,
       "textLeft": 16,
-      "textRight": 30,
+      "textRight": 37,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -1775,6 +1917,13 @@
    "width": 1440,
    "message": "The margins differ: 60px on the left, 76px on the right, at 1440px.",
    "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  },
+  {
+   "level": "WARN",
+   "id": "untitled-section",
+   "width": 768,
+   "message": "A section carries text but no heading: section.reveal.in at 840px.",
+   "fix": "Name it with a short heading unless it is the continuation of the section above."
   }
  ],
  "images": [

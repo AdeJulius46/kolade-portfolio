@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/",
- "at": "2026-10-30T19:49:10.079Z",
+ "at": "2026-10-30T19:57:12.841Z",
  "allow": [],
  "viewports": [
   {
@@ -14,14 +14,14 @@
     0.5,
     0.45,
     0.31,
-    0.33,
-    0.48,
-    0.45
+    0.36,
+    0.53,
+    0.49
    ],
    "motion": {
-    "elements": 62,
+    "elements": 63,
     "css": 4,
-    "transitions": 53,
+    "transitions": 54,
     "scripted": 5,
     "videos": 0,
     "playingVideos": 0
@@ -32,9 +32,9 @@
      "h": 900
     },
     "page": {
-     "height": 6375,
-     "screens": 7.1,
-     "words": 675,
+     "height": 6575,
+     "screens": 7.3,
+     "words": 728,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -462,7 +462,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.42,
-      "top": 5702,
+      "top": 5942,
       "tag": "h2",
       "kind": "heading"
      }
@@ -520,7 +520,7 @@
      "microLabels": 0,
      "microLabelShare": 0,
      "microSamples": [],
-     "upperShare": 0.01,
+     "upperShare": 0,
      "centerShare": 0,
      "smallText": 0
     },
@@ -552,11 +552,11 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.19
+       "share": 0.2
       },
       {
        "color": "#0b1220",
-       "share": 0.09
+       "share": 0.08
       },
       {
        "color": "#c6f432",
@@ -631,29 +631,29 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 6375,
+    "pageH": 6575,
     "margins": {
      "left": 60,
      "right": 63
     },
     "sections": [
      {
-      "sel": "div.page-in",
-      "tag": "div",
-      "top": 0,
-      "height": 6103,
-      "words": 669,
-      "media": 4,
-      "middle": 0,
+      "sel": "section.hero.wrap",
+      "tag": "section",
+      "top": 80,
+      "height": 860,
+      "words": 48,
+      "media": 1,
+      "middle": 22,
       "heading": {
-       "text": "Data analyst · Data analyst · Data analyst · Data ",
-       "size": 162,
-       "tag": "p"
+       "text": "Kolade",
+       "size": 112,
+       "tag": "h1"
       },
       "left": 60,
       "right": 0,
-      "textLeft": 0,
-      "textRight": 0,
+      "textLeft": 60,
+      "textRight": 329,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -661,18 +661,202 @@
       "pinned": false
      },
      {
-      "sel": "footer.footer",
-      "tag": "footer",
-      "top": 6247,
-      "height": 128,
-      "words": 32,
+      "sel": "div.drift-band",
+      "tag": "div",
+      "top": 940,
+      "height": 435,
+      "words": 25,
       "media": 0,
-      "middle": 368,
+      "middle": 0,
+      "heading": {
+       "text": "Data analyst · Data analyst · Data analyst · Data ",
+       "size": 162,
+       "tag": "p"
+      },
+      "left": null,
+      "right": null,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap",
+      "tag": "section",
+      "top": 1375,
+      "height": 186,
+      "words": 28,
+      "media": 0,
+      "middle": 164,
+      "heading": {
+       "text": "112K",
+       "size": 52,
+       "tag": "p"
+      },
+      "left": 100,
+      "right": 226,
+      "textLeft": 100,
+      "textRight": 226,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap.gap-section",
+      "tag": "section",
+      "top": 1561,
+      "height": 541,
+      "words": 64,
+      "media": 0,
+      "middle": 140,
+      "heading": {
+       "text": "Where did 410K in fares go?",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 100,
+      "textLeft": 60,
+      "textRight": 100,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "article.project",
+      "tag": "article",
+      "top": 2368,
+      "height": 413,
+      "words": 52,
+      "media": 1,
+      "middle": 58,
+      "heading": {
+       "text": "Taxi company analysis dashboard",
+       "size": 36,
+       "tag": "h3"
+      },
+      "left": 60,
+      "right": 68,
+      "textLeft": 854,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.project.flip",
+      "tag": "article",
+      "top": 2896,
+      "height": 531,
+      "words": 70,
+      "media": 0,
+      "middle": 105,
+      "heading": {
+       "text": "88.7%",
+       "size": 32,
+       "tag": "b"
+      },
+      "left": 60,
+      "right": 162,
+      "textLeft": 60,
+      "textRight": 162,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.project",
+      "tag": "article",
+      "top": 3542,
+      "height": 315,
+      "words": 38,
+      "media": 1,
+      "middle": 58,
       "heading": null,
       "left": 60,
-      "right": 60,
+      "right": 90,
+      "textLeft": 854,
+      "textRight": 90,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.wrap.section",
+      "tag": "section",
+      "top": 3857,
+      "height": 994,
+      "words": 187,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What I do",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 63,
       "textLeft": 60,
-      "textRight": 60,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.wrap.section",
+      "tag": "section",
+      "top": 4851,
+      "height": 875,
+      "words": 157,
+      "media": 0,
+      "middle": 34,
+      "heading": {
+       "text": "Experience & education",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 63,
+      "textLeft": 60,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.wrap.section",
+      "tag": "section",
+      "top": 5726,
+      "height": 617,
+      "words": 45,
+      "media": 0,
+      "middle": 89,
+      "heading": {
+       "text": "Let’s find what your data is hiding.",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 132,
+      "right": 166,
+      "textLeft": 132,
+      "textRight": 166,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -696,12 +880,12 @@
       "n": 16
      },
      {
-      "x": 744,
+      "x": 200,
       "n": 6
      },
      {
-      "x": 200,
-      "n": 4
+      "x": 744,
+      "n": 6
      },
      {
       "x": 854,
@@ -716,7 +900,7 @@
       "n": 1
      }
     ],
-    "leftBlocks": 33,
+    "leftBlocks": 35,
     "bodySize": 18,
     "stage": false,
     "explains": true,
@@ -744,13 +928,13 @@
     0.62,
     0.45,
     0.44,
-    0.64,
-    0.49
+    0.46,
+    0.48
    ],
    "motion": {
-    "elements": 62,
+    "elements": 63,
     "css": 4,
-    "transitions": 53,
+    "transitions": 54,
     "scripted": 5,
     "videos": 0,
     "playingVideos": 0
@@ -761,9 +945,9 @@
      "h": 1024
     },
     "page": {
-     "height": 7833,
-     "screens": 7.6,
-     "words": 675,
+     "height": 8092,
+     "screens": 7.9,
+     "words": 728,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -1191,7 +1375,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.82,
-      "top": 7036,
+      "top": 7359,
       "tag": "h2",
       "kind": "heading"
      }
@@ -1248,7 +1432,7 @@
      "microLabels": 0,
      "microLabelShare": 0,
      "microSamples": [],
-     "upperShare": 0.01,
+     "upperShare": 0,
      "centerShare": 0,
      "smallText": 0
     },
@@ -1298,11 +1482,11 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.19
+       "share": 0.2
       },
       {
        "color": "#0b1220",
-       "share": 0.09
+       "share": 0.08
       },
       {
        "color": "#c6f432",
@@ -1377,48 +1561,236 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 7833,
+    "pageH": 8092,
     "margins": {
      "left": 31,
      "right": 31
     },
     "sections": [
      {
-      "sel": "div.page-in",
-      "tag": "div",
-      "top": 0,
-      "height": 7561,
-      "words": 669,
-      "media": 3,
+      "sel": "section.hero.wrap",
+      "tag": "section",
+      "top": 80,
+      "height": 1006,
+      "words": 48,
+      "media": 0,
       "middle": 0,
       "heading": {
-       "text": "Data analyst · Data analyst · Data analyst · Data ",
-       "size": 101,
-       "tag": "p"
+       "text": "Kolade",
+       "size": 72,
+       "tag": "h1"
       },
       "left": 31,
-      "right": 0,
-      "textLeft": 0,
-      "textRight": 0,
-      "fullBleed": true,
+      "right": 64,
+      "textLeft": 31,
+      "textRight": 64,
+      "fullBleed": false,
       "footer": false,
       "hero": true,
       "continues": false,
       "pinned": false
      },
      {
-      "sel": "footer.footer",
-      "tag": "footer",
-      "top": 7657,
-      "height": 176,
-      "words": 32,
+      "sel": "div.drift-band",
+      "tag": "div",
+      "top": 1086,
+      "height": 263,
+      "words": 25,
       "media": 0,
       "middle": 0,
-      "heading": null,
+      "heading": {
+       "text": "Data analyst · Data analyst · Data analyst · Data ",
+       "size": 101,
+       "tag": "p"
+      },
+      "left": 32,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap",
+      "tag": "section",
+      "top": 1349,
+      "height": 255,
+      "words": 28,
+      "media": 0,
+      "middle": 184,
+      "heading": {
+       "text": "112K",
+       "size": 38,
+       "tag": "p"
+      },
+      "left": 55,
+      "right": 198,
+      "textLeft": 55,
+      "textRight": 198,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap.gap-section",
+      "tag": "section",
+      "top": 1604,
+      "height": 644,
+      "words": 64,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Where did 410K in fares go?",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 55,
+      "textLeft": 31,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "article.project",
+      "tag": "article",
+      "top": 2470,
+      "height": 729,
+      "words": 52,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Taxi company analysis dashboard",
+       "size": 28,
+       "tag": "h3"
+      },
       "left": 31,
       "right": 31,
       "textLeft": 31,
-      "textRight": 31,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.project.flip",
+      "tag": "article",
+      "top": 3271,
+      "height": 884,
+      "words": 73,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Loan default prediction",
+       "size": 28,
+       "tag": "h3"
+      },
+      "left": 31,
+      "right": 81,
+      "textLeft": 31,
+      "textRight": 81,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "article.project",
+      "tag": "article",
+      "top": 4227,
+      "height": 598,
+      "words": 41,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Pectoria database design",
+       "size": 28,
+       "tag": "h3"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#services.wrap.section",
+      "tag": "section",
+      "top": 4825,
+      "height": 1111,
+      "words": 187,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What I do",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 40,
+      "textLeft": 31,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.wrap.section",
+      "tag": "section",
+      "top": 5936,
+      "height": 1288,
+      "words": 157,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Experience & education",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 36,
+      "textLeft": 31,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.wrap.section",
+      "tag": "section",
+      "top": 7224,
+      "height": 659,
+      "words": 45,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Let’s find what your data is hiding.",
+       "size": 38,
+       "tag": "h2"
+      },
+      "left": 69,
+      "right": 139,
+      "textLeft": 69,
+      "textRight": 145,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -1443,7 +1815,7 @@
      },
      {
       "x": 171,
-      "n": 4
+      "n": 6
      },
      {
       "x": 416,
@@ -1458,7 +1830,7 @@
       "n": 1
      }
     ],
-    "leftBlocks": 33,
+    "leftBlocks": 35,
     "bodySize": 18,
     "stage": false,
     "explains": true,
@@ -1473,7 +1845,7 @@
    "width": 390,
    "height": 844,
    "load": "load",
-   "screens": 11,
+   "screens": 12,
    "filled": [
     0.62,
     0.7,
@@ -1483,14 +1855,15 @@
     0.46,
     0.44,
     0.56,
-    0.55,
-    0.66,
-    0.63
+    0.56,
+    0.71,
+    0.73,
+    0.71
    ],
    "motion": {
-    "elements": 59,
+    "elements": 60,
     "css": 4,
-    "transitions": 51,
+    "transitions": 52,
     "scripted": 4,
     "videos": 0,
     "playingVideos": 0
@@ -1501,9 +1874,9 @@
      "h": 844
     },
     "page": {
-     "height": 9054,
-     "screens": 10.7,
-     "words": 673,
+     "height": 9428,
+     "screens": 11.2,
+     "words": 726,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -1931,7 +2304,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.75,
-      "top": 7860,
+      "top": 8322,
       "tag": "h2",
       "kind": "heading"
      }
@@ -1989,7 +2362,7 @@
      "microLabels": 0,
      "microLabelShare": 0,
      "microSamples": [],
-     "upperShare": 0.01,
+     "upperShare": 0,
      "centerShare": 0,
      "smallText": 0
     },
@@ -2035,15 +2408,15 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.63
+       "share": 0.64
       },
       {
        "color": "#eef2f7",
-       "share": 0.19
+       "share": 0.2
       },
       {
        "color": "#0b1220",
-       "share": 0.09
+       "share": 0.08
       },
       {
        "color": "#c6f432",
@@ -2118,7 +2491,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 9054,
+    "pageH": 9428,
     "margins": {
      "left": 16,
      "right": 16
@@ -2128,8 +2501,8 @@
       "sel": "div.page-in",
       "tag": "div",
       "top": 0,
-      "height": 8702,
-      "words": 667,
+      "height": 9164,
+      "words": 738,
       "media": 4,
       "middle": 0,
       "heading": {
@@ -2150,16 +2523,16 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 8798,
-      "height": 256,
-      "words": 32,
+      "top": 9260,
+      "height": 168,
+      "words": 16,
       "media": 0,
       "middle": 0,
       "heading": null,
       "left": 16,
-      "right": 30,
+      "right": 37,
       "textLeft": 16,
-      "textRight": 30,
+      "textRight": 37,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -2180,7 +2553,7 @@
     "edges": [
      {
       "x": 16,
-      "n": 30
+      "n": 32
      },
      {
       "x": 48,
@@ -2191,7 +2564,7 @@
       "n": 1
      }
     ],
-    "leftBlocks": 33,
+    "leftBlocks": 35,
     "bodySize": 18,
     "stage": false,
     "explains": true,

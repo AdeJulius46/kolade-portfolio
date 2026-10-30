@@ -40,10 +40,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <p className="footer-end">
             © {new Date().getFullYear()} · <Link href="/#top">Back to top</Link>
           </p>
-          <p className="credit">
-            Bank Road photograph: <a href="https://commons.wikimedia.org/wiki/File:Bank_Road,_Port_Harcourt,.jpg" target="_blank" rel="noreferrer">“Bank Road, Port Harcourt” by SteadyWins</a>,{" "}
-            <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>, via Wikimedia Commons.
-          </p>
         </footer>
       </body>
     </html>

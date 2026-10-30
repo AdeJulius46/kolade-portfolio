@@ -22,7 +22,18 @@ const skills = [
   { area: "Foundations", items: "Statistics, data cleaning, financial and operations reporting, rosters and booking systems, Jupyter" },
 ];
 
-const experience = [
+const experience: { when: string; title: string; org: string; text: string; list?: string[] }[] = [
+  {
+    when: "Jan – Jul 2026",
+    title: "Data Science Intern",
+    org: "DayFigurez Consult Limited, Abuja",
+    text: "Applied Python, SQL, statistics and machine learning to practical projects, working to deadlines in a team.",
+    list: [
+      "Developed and deployed the loan default prediction model in Python and Streamlit.",
+      "Built a pipeline maintenance prediction system with Streamlit and Render, reaching 95% accuracy on test data.",
+      "Wrote SQL queries for data transformation and analysis.",
+    ],
+  },
   { when: "Certificate", title: "Professional Certificate in Data Science", org: "SQI College of ICT", text: "Python, SQL, statistics, machine learning and data visualisation." },
   { when: "Degree", title: "B.Eng. Mechanical Engineering, First Class", org: "Adeleke University", text: "Statistics, physics and modelling foundations, later applied to projects like pipeline maintenance prediction." },
 ];
@@ -159,6 +170,7 @@ export default function Home() {
                     <h3>{e.title}</h3>
                     <p className="entry-org">{e.org}</p>
                     <p>{e.text}</p>
+                    {e.list && <ul className="entry-list">{e.list.map((li) => <li key={li}>{li}</li>)}</ul>}
                   </div>
                 </div>
               ))}
@@ -167,7 +179,10 @@ export default function Home() {
               <div className="city-frame">
               <Image data-speed="0.1" src="/place/bank-road.jpg" alt="Bank Road, Port Harcourt: the Rivers State Secretariat blocks behind a palm, cars on the road under a bright sky" width={1920} height={985} sizes="(max-width: 900px) 100vw, 45vw" />
               </div>
-              <p>Bank Road, Port Harcourt, the city I work from.</p>
+              <p>
+                Bank Road, Port Harcourt, the city I work from.{" "}
+                <a className="photo-credit" href="https://commons.wikimedia.org/wiki/File:Bank_Road,_Port_Harcourt,.jpg" target="_blank" rel="noreferrer">Photo: SteadyWins, CC BY-SA 4.0</a>
+              </p>
             </Reveal>
           </div>
         </section>
