@@ -89,9 +89,8 @@ p { margin: 0; }
 .hero .lead { margin: 28px 0 36px; max-width: 34em; color: var(--muted); }
 .lead { font-size: var(--s-lead); line-height: 1.5; }
 .lead b { color: var(--ink); font-weight: 600; }
-.hero-portrait { position: relative; border-radius: var(--r); overflow: clip; background: #eeb778; aspect-ratio: 4 / 5; }
+.hero-portrait { position: relative; border-radius: var(--r); overflow: clip; background: #eeb778; aspect-ratio: 900 / 955; }
 .hero-portrait img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%; }
-.hero-tag { position: absolute; z-index: 1; left: 16px; top: 16px; padding: 10px 14px; border-radius: 10px; background: var(--bg); color: var(--ink); font-size: var(--s-small); font-weight: 600; }
 
 /* Masked line reveal on titles */
 .lines .line { display: block; overflow: hidden; padding-bottom: .08em; margin-bottom: -.08em; }
@@ -295,7 +294,6 @@ p { margin: 0; }
 @media (max-width: 900px) {
   .hero, .gap-section, .project, .exp, .contact, .case-hero, .case-pair, .next-project, .section-head, .toolbox { grid-template-columns: 1fr; }
   .project.flip .project-media { order: 0; }
-  .hero-portrait { aspect-ratio: 4 / 3; }
   .case-section { grid-template-columns: 1fr; }
 }
 
@@ -303,7 +301,6 @@ p { margin: 0; }
 @media (max-width: 640px) {
   .bar nav { gap: 16px; }
   .bar nav a:not([href="/#work"]):not([href="/#contact"]) { display: none; }
-  .hero-portrait { aspect-ratio: 4 / 5; }
   .services, .toolbox dl { grid-template-columns: 1fr; }
   .stats { grid-template-columns: 1fr 1fr; gap: 24px 20px; }
   .recall-grid { grid-template-columns: repeat(10, 1fr); gap: 4px; }
@@ -338,7 +335,8 @@ p { margin: 0; }
 .drift-line.outline { color: transparent; -webkit-text-stroke: 2px var(--ink); margin-left: -60%; }
 
 /* Parallax pictures sit a little larger than their frame so the drift never shows an edge */
-.hero-portrait img[data-speed], .city-frame img[data-speed] { scale: 1.22; will-change: transform; }
+.hero-portrait img[data-speed] { scale: 1.06; }
+.city-frame img[data-speed] { scale: 1.22; will-change: transform; }
 .city-frame { border-radius: var(--r); overflow: clip; }
 .city-frame img { border-radius: 0; }
 

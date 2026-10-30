@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/",
- "at": "2026-10-30T19:57:12.841Z",
+ "at": "2026-10-30T20:04:49.895Z",
  "allow": [],
  "viewports": [
   {
@@ -9,13 +9,13 @@
    "load": "load",
    "screens": 8,
    "filled": [
-    0.43,
-    0.68,
-    0.5,
-    0.45,
-    0.31,
-    0.36,
+    0.47,
+    0.65,
+    0.52,
     0.53,
+    0.23,
+    0.47,
+    0.54,
     0.49
    ],
    "motion": {
@@ -32,9 +32,9 @@
      "h": 900
     },
     "page": {
-     "height": 6575,
-     "screens": 7.3,
-     "words": 728,
+     "height": 6470,
+     "screens": 7.2,
+     "words": 720,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -48,7 +48,7 @@
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=640&q=75",
+      "kolade.webp",
       "image?url=%2Ftaxi-1.webp&w=1080&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=1080&q=",
       "image?url=%2Fplace%2Fbank-road.jpg&w=750&q=75"
@@ -76,7 +76,7 @@
      "align": "left",
      "position": "left",
      "widthRatio": 0.48,
-     "top": 297,
+     "top": 245,
      "tag": "h1",
      "kind": "heading"
     },
@@ -105,7 +105,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.48,
-      "top": 297,
+      "top": 245,
       "tag": "h1",
       "kind": "heading"
      },
@@ -126,7 +126,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 1,
-      "top": 996,
+      "top": 891,
       "tag": "p",
       "kind": "statement"
      },
@@ -147,7 +147,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 1.6,
-      "top": 1149,
+      "top": 1044,
       "tag": "p",
       "kind": "statement"
      },
@@ -168,7 +168,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.2,
-      "top": 1415,
+      "top": 1310,
       "tag": "p",
       "kind": "statement"
      },
@@ -189,7 +189,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.2,
-      "top": 1415,
+      "top": 1310,
       "tag": "p",
       "kind": "statement"
      },
@@ -210,7 +210,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.2,
-      "top": 1415,
+      "top": 1310,
       "tag": "p",
       "kind": "statement"
      },
@@ -231,7 +231,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.2,
-      "top": 1415,
+      "top": 1310,
       "tag": "p",
       "kind": "statement"
      },
@@ -252,7 +252,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.1,
-      "top": 1745,
+      "top": 1640,
       "tag": "b",
       "kind": "heading"
      },
@@ -273,7 +273,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1754,
+      "top": 1649,
       "tag": "h2",
       "kind": "heading"
      },
@@ -294,7 +294,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.1,
-      "top": 1885,
+      "top": 1780,
       "tag": "b",
       "kind": "heading"
      },
@@ -315,7 +315,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.44,
-      "top": 2246,
+      "top": 2141,
       "tag": "h2",
       "kind": "heading"
      },
@@ -336,7 +336,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.36,
-      "top": 2402,
+      "top": 2297,
       "tag": "h3",
       "kind": "heading"
      },
@@ -357,7 +357,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.25,
-      "top": 2896,
+      "top": 2791,
       "tag": "h3",
       "kind": "heading"
      },
@@ -378,7 +378,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.48,
-      "top": 3096,
+      "top": 2991,
       "tag": "b",
       "kind": "statement"
      },
@@ -399,7 +399,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.27,
-      "top": 3542,
+      "top": 3437,
       "tag": "h3",
       "kind": "heading"
      },
@@ -420,7 +420,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.44,
-      "top": 4001,
+      "top": 3896,
       "tag": "h2",
       "kind": "heading"
      },
@@ -441,7 +441,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.44,
-      "top": 5024,
+      "top": 4919,
       "tag": "h2",
       "kind": "heading"
      },
@@ -462,7 +462,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.42,
-      "top": 5942,
+      "top": 5837,
       "tag": "h2",
       "kind": "heading"
      }
@@ -552,7 +552,7 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.2
+       "share": 0.19
       },
       {
        "color": "#0b1220",
@@ -612,7 +612,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.42
+      "ratio": 0.28
      }
     ],
     "nav": {
@@ -631,7 +631,7 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 6575,
+    "pageH": 6470,
     "margins": {
      "left": 60,
      "right": 63
@@ -641,19 +641,19 @@
       "sel": "section.hero.wrap",
       "tag": "section",
       "top": 80,
-      "height": 860,
-      "words": 48,
+      "height": 755,
+      "words": 40,
       "media": 1,
-      "middle": 22,
+      "middle": 67,
       "heading": {
        "text": "Kolade",
        "size": 112,
        "tag": "h1"
       },
       "left": 60,
-      "right": 0,
+      "right": 43,
       "textLeft": 60,
-      "textRight": 329,
+      "textRight": 698,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -663,7 +663,7 @@
      {
       "sel": "div.drift-band",
       "tag": "div",
-      "top": 940,
+      "top": 835,
       "height": 435,
       "words": 25,
       "media": 0,
@@ -686,7 +686,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1375,
+      "top": 1270,
       "height": 186,
       "words": 28,
       "media": 0,
@@ -709,7 +709,7 @@
      {
       "sel": "section.wrap.gap-section",
       "tag": "section",
-      "top": 1561,
+      "top": 1456,
       "height": 541,
       "words": 64,
       "media": 0,
@@ -732,7 +732,7 @@
      {
       "sel": "article.project",
       "tag": "article",
-      "top": 2368,
+      "top": 2263,
       "height": 413,
       "words": 52,
       "media": 1,
@@ -755,7 +755,7 @@
      {
       "sel": "article.project.flip",
       "tag": "article",
-      "top": 2896,
+      "top": 2791,
       "height": 531,
       "words": 70,
       "media": 0,
@@ -778,7 +778,7 @@
      {
       "sel": "article.project",
       "tag": "article",
-      "top": 3542,
+      "top": 3437,
       "height": 315,
       "words": 38,
       "media": 1,
@@ -797,7 +797,7 @@
      {
       "sel": "section#services.wrap.section",
       "tag": "section",
-      "top": 3857,
+      "top": 3752,
       "height": 994,
       "words": 187,
       "media": 0,
@@ -820,7 +820,7 @@
      {
       "sel": "section#experience.wrap.section",
       "tag": "section",
-      "top": 4851,
+      "top": 4746,
       "height": 875,
       "words": 157,
       "media": 0,
@@ -843,7 +843,7 @@
      {
       "sel": "section#contact.wrap.section",
       "tag": "section",
-      "top": 5726,
+      "top": 5621,
       "height": 617,
       "words": 45,
       "media": 0,
@@ -869,7 +869,7 @@
      {
       "text": "Kolade Ogunleye",
       "size": 112,
-      "top": 297,
+      "top": 245,
       "firstScreen": true
      }
     ],
@@ -905,12 +905,12 @@
     "stage": false,
     "explains": true,
     "slivers": [],
-    "voidShare": 0.1,
+    "voidShare": 0.08,
     "voidBox": {
-     "x": 0,
-     "y": 720,
-     "w": 720,
-     "h": 180
+     "x": 360,
+     "y": 600,
+     "w": 420,
+     "h": 240
     }
    },
    "app": null,
@@ -920,15 +920,16 @@
    "width": 768,
    "height": 1024,
    "load": "load",
-   "screens": 8,
+   "screens": 9,
    "filled": [
     0.68,
-    0.65,
+    0.76,
     0.71,
-    0.62,
-    0.45,
-    0.44,
+    0.59,
     0.46,
+    0.46,
+    0.42,
+    0.66,
     0.48
    ],
    "motion": {
@@ -945,9 +946,9 @@
      "h": 1024
     },
     "page": {
-     "height": 8092,
-     "screens": 7.9,
-     "words": 728,
+     "height": 8312,
+     "screens": 8.1,
+     "words": 720,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -961,7 +962,7 @@
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=828&q=75",
+      "kolade.webp",
       "image?url=%2Ftaxi-1.webp&w=828&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=828&q=7",
       "image?url=%2Fplace%2Fbank-road.jpg&w=828&q=75"
@@ -1037,9 +1038,9 @@
       "italic": false,
       "mono": false,
       "align": "left",
-      "position": "center",
+      "position": "right",
       "widthRatio": 1,
-      "top": 1116,
+      "top": 1336,
       "tag": "p",
       "kind": "statement"
      },
@@ -1060,7 +1061,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 1.6,
-      "top": 1212,
+      "top": 1432,
       "tag": "p",
       "kind": "statement"
      },
@@ -1081,7 +1082,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1373,
+      "top": 1592,
       "tag": "p",
       "kind": "statement"
      },
@@ -1102,7 +1103,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.41,
-      "top": 1373,
+      "top": 1592,
       "tag": "p",
       "kind": "statement"
      },
@@ -1123,7 +1124,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1488,
+      "top": 1708,
       "tag": "p",
       "kind": "statement"
      },
@@ -1144,7 +1145,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.41,
-      "top": 1488,
+      "top": 1708,
       "tag": "p",
       "kind": "statement"
      },
@@ -1165,7 +1166,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.59,
-      "top": 1700,
+      "top": 1920,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1186,7 +1187,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.13,
-      "top": 1959,
+      "top": 2179,
       "tag": "b",
       "kind": "heading"
      },
@@ -1207,7 +1208,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.13,
-      "top": 2075,
+      "top": 2295,
       "tag": "b",
       "kind": "heading"
      },
@@ -1228,7 +1229,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2344,
+      "top": 2564,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1249,7 +1250,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.53,
-      "top": 2897,
+      "top": 3117,
       "tag": "h3",
       "kind": "heading"
      },
@@ -1270,7 +1271,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 3636,
+      "top": 3856,
       "tag": "h3",
       "kind": "heading"
      },
@@ -1291,7 +1292,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.86,
-      "top": 3824,
+      "top": 4044,
       "tag": "b",
       "kind": "statement"
      },
@@ -1312,7 +1313,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.4,
-      "top": 4552,
+      "top": 4772,
       "tag": "h3",
       "kind": "heading"
      },
@@ -1333,7 +1334,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 4921,
+      "top": 5141,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1354,7 +1355,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 6032,
+      "top": 6252,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1375,7 +1376,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.82,
-      "top": 7359,
+      "top": 7579,
       "tag": "h2",
       "kind": "heading"
      }
@@ -1467,7 +1468,7 @@
       },
       {
        "color": "#131c2e",
-       "top": 2470,
+       "top": 2690,
        "hsl": {
         "h": 220,
         "s": 0.42,
@@ -1482,7 +1483,7 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.2
+       "share": 0.19
       },
       {
        "color": "#0b1220",
@@ -1542,7 +1543,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.54
+      "ratio": 0.5
      }
     ],
     "nav": {
@@ -1561,7 +1562,7 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 8092,
+    "pageH": 8312,
     "margins": {
      "left": 31,
      "right": 31
@@ -1571,9 +1572,9 @@
       "sel": "section.hero.wrap",
       "tag": "section",
       "top": 80,
-      "height": 1006,
-      "words": 48,
-      "media": 0,
+      "height": 1226,
+      "words": 40,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Kolade",
@@ -1584,7 +1585,7 @@
       "right": 64,
       "textLeft": 31,
       "textRight": 64,
-      "fullBleed": false,
+      "fullBleed": true,
       "footer": false,
       "hero": true,
       "continues": false,
@@ -1593,7 +1594,7 @@
      {
       "sel": "div.drift-band",
       "tag": "div",
-      "top": 1086,
+      "top": 1306,
       "height": 263,
       "words": 25,
       "media": 0,
@@ -1603,7 +1604,7 @@
        "size": 101,
        "tag": "p"
       },
-      "left": 32,
+      "left": 109,
       "right": 0,
       "textLeft": 0,
       "textRight": 0,
@@ -1616,7 +1617,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1349,
+      "top": 1568,
       "height": 255,
       "words": 28,
       "media": 0,
@@ -1639,7 +1640,7 @@
      {
       "sel": "section.wrap.gap-section",
       "tag": "section",
-      "top": 1604,
+      "top": 1824,
       "height": 644,
       "words": 64,
       "media": 0,
@@ -1662,7 +1663,7 @@
      {
       "sel": "article.project",
       "tag": "article",
-      "top": 2470,
+      "top": 2690,
       "height": 729,
       "words": 52,
       "media": 1,
@@ -1685,7 +1686,7 @@
      {
       "sel": "article.project.flip",
       "tag": "article",
-      "top": 3271,
+      "top": 3491,
       "height": 884,
       "words": 73,
       "media": 0,
@@ -1708,7 +1709,7 @@
      {
       "sel": "article.project",
       "tag": "article",
-      "top": 4227,
+      "top": 4447,
       "height": 598,
       "words": 41,
       "media": 1,
@@ -1731,7 +1732,7 @@
      {
       "sel": "section#services.wrap.section",
       "tag": "section",
-      "top": 4825,
+      "top": 5045,
       "height": 1111,
       "words": 187,
       "media": 0,
@@ -1754,7 +1755,7 @@
      {
       "sel": "section#experience.wrap.section",
       "tag": "section",
-      "top": 5936,
+      "top": 6156,
       "height": 1288,
       "words": 157,
       "media": 0,
@@ -1777,7 +1778,7 @@
      {
       "sel": "section#contact.wrap.section",
       "tag": "section",
-      "top": 7224,
+      "top": 7444,
       "height": 659,
       "words": 45,
       "media": 0,
@@ -1848,16 +1849,16 @@
    "screens": 12,
    "filled": [
     0.62,
-    0.7,
-    0.66,
-    0.7,
-    0.64,
-    0.46,
-    0.44,
+    0.69,
+    0.63,
+    0.65,
+    0.74,
+    0.57,
+    0.42,
     0.56,
-    0.56,
+    0.58,
+    0.58,
     0.71,
-    0.73,
     0.71
    ],
    "motion": {
@@ -1874,9 +1875,9 @@
      "h": 844
     },
     "page": {
-     "height": 9428,
-     "screens": 11.2,
-     "words": 726,
+     "height": 9361,
+     "screens": 11.1,
+     "words": 718,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -1890,7 +1891,7 @@
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=640&q=75",
+      "kolade.webp",
       "image?url=%2Ftaxi-1.webp&w=640&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7",
       "image?url=%2Fplace%2Fbank-road.jpg&w=640&q=75"
@@ -1968,7 +1969,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 1,
-      "top": 1029,
+      "top": 961,
       "tag": "p",
       "kind": "statement"
      },
@@ -1989,7 +1990,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 1.6,
-      "top": 1097,
+      "top": 1030,
       "tag": "p",
       "kind": "statement"
      },
@@ -2010,7 +2011,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1230,
+      "top": 1162,
       "tag": "p",
       "kind": "statement"
      },
@@ -2031,7 +2032,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.37,
-      "top": 1230,
+      "top": 1162,
       "tag": "p",
       "kind": "statement"
      },
@@ -2052,7 +2053,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1364,
+      "top": 1296,
       "tag": "p",
       "kind": "statement"
      },
@@ -2073,7 +2074,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.37,
-      "top": 1364,
+      "top": 1296,
       "tag": "p",
       "kind": "statement"
      },
@@ -2094,7 +2095,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1570,
+      "top": 1502,
       "tag": "h2",
       "kind": "heading"
      },
@@ -2115,7 +2116,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.22,
-      "top": 1938,
+      "top": 1870,
       "tag": "b",
       "kind": "heading"
      },
@@ -2136,7 +2137,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.22,
-      "top": 2045,
+      "top": 1977,
       "tag": "b",
       "kind": "heading"
      },
@@ -2157,7 +2158,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2333,
+      "top": 2265,
       "tag": "h2",
       "kind": "heading"
      },
@@ -2178,7 +2179,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2710,
+      "top": 2643,
       "tag": "h3",
       "kind": "heading"
      },
@@ -2199,7 +2200,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.66,
-      "top": 3703,
+      "top": 3636,
       "tag": "h3",
       "kind": "heading"
      },
@@ -2220,7 +2221,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.81,
-      "top": 3972,
+      "top": 3904,
       "tag": "b",
       "kind": "statement"
      },
@@ -2241,7 +2242,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.71,
-      "top": 4597,
+      "top": 4529,
       "tag": "h3",
       "kind": "heading"
      },
@@ -2262,7 +2263,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 5019,
+      "top": 4951,
       "tag": "h2",
       "kind": "heading"
      },
@@ -2283,7 +2284,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 6880,
+      "top": 6812,
       "tag": "h2",
       "kind": "heading"
      },
@@ -2304,7 +2305,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.75,
-      "top": 8322,
+      "top": 8254,
       "tag": "h2",
       "kind": "heading"
      }
@@ -2397,7 +2398,7 @@
       },
       {
        "color": "#131c2e",
-       "top": 1914,
+       "top": 1846,
        "hsl": {
         "h": 220,
         "s": 0.42,
@@ -2412,7 +2413,7 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.2
+       "share": 0.19
       },
       {
        "color": "#0b1220",
@@ -2472,7 +2473,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.42
+      "ratio": 0.39
      }
     ],
     "nav": {
@@ -2491,7 +2492,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 9428,
+    "pageH": 9361,
     "margins": {
      "left": 16,
      "right": 16
@@ -2501,8 +2502,8 @@
       "sel": "div.page-in",
       "tag": "div",
       "top": 0,
-      "height": 9164,
-      "words": 738,
+      "height": 9097,
+      "words": 730,
       "media": 4,
       "middle": 0,
       "heading": {
@@ -2523,7 +2524,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 9260,
+      "top": 9193,
       "height": 168,
       "words": 16,
       "media": 0,

@@ -78,8 +78,7 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-portrait">
-            <Image data-speed="0.07" src="/kolade.webp" alt="Kolade Ogunleye in a navy waistcoat against an apricot backdrop" width={900} height={955} sizes="(max-width: 900px) 100vw, 40vw" priority />
-            <p className="hero-tag">Open to data roles · First Class B.Eng.</p>
+            <Image data-speed="0.03" src="/kolade.webp" alt="Kolade Ogunleye in a navy waistcoat against an apricot backdrop" width={900} height={955} unoptimized priority />
           </div>
         </section>
 
