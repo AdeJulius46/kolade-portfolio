@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/pectoria-database",
- "at": "2026-10-30T19:35:05.403Z",
+ "at": "2026-10-30T19:35:56.923Z",
  "allow": [],
  "viewports": [
   {
@@ -9,10 +9,10 @@
    "load": "load",
    "screens": 4,
    "filled": [
-    0.59,
-    0.37,
-    0.55,
-    0.5
+    0.49,
+    0.39,
+    0.4,
+    0.48
    ],
    "motion": {
     "elements": 12,
@@ -28,10 +28,10 @@
      "h": 900
     },
     "page": {
-     "height": 2902,
-     "screens": 3.2,
-     "words": 341,
-     "img": 2,
+     "height": 3198,
+     "screens": 3.6,
+     "words": 347,
+     "img": 3,
      "video": 0,
      "canvas": 0,
      "svg": 0,
@@ -40,10 +40,11 @@
      "overflowCulprits": [],
      "uiFragments": 1,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=1080&q=",
       "image?url=%2Ftaxi-1.webp&w=640&q=75"
      ],
@@ -70,7 +71,7 @@
      "align": "left",
      "position": "left",
      "widthRatio": 0.52,
-     "top": 200,
+     "top": 352,
      "tag": "h1",
      "kind": "heading"
     },
@@ -99,7 +100,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.52,
-      "top": 200,
+      "top": 352,
       "tag": "h1",
       "kind": "heading"
      },
@@ -120,7 +121,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.27,
-      "top": 1199,
+      "top": 1351,
       "tag": "p",
       "kind": "statement"
      },
@@ -141,7 +142,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.27,
-      "top": 1199,
+      "top": 1351,
       "tag": "p",
       "kind": "statement"
      },
@@ -162,7 +163,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.27,
-      "top": 1199,
+      "top": 1351,
       "tag": "p",
       "kind": "statement"
      },
@@ -183,7 +184,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 1465,
+      "top": 1617,
       "tag": "h2",
       "kind": "heading"
      },
@@ -204,7 +205,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 1609,
+      "top": 1790,
       "tag": "h2",
       "kind": "heading"
      },
@@ -225,7 +226,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 1806,
+      "top": 2044,
       "tag": "h2",
       "kind": "heading"
      },
@@ -246,7 +247,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 2332,
+      "top": 2628,
       "tag": "span",
       "kind": "heading"
      }
@@ -293,7 +294,7 @@
       "tracking": 0,
       "contrast": 7.6
      },
-     "measureChars": 94,
+     "measureChars": 72,
      "max": {
       "size": 80,
       "vw": 5.6,
@@ -324,7 +325,7 @@
      "sectionBgs": [
       {
        "color": "#131c2e",
-       "top": 2199,
+       "top": 2495,
        "hsl": {
         "h": 220,
         "s": 0.42,
@@ -335,7 +336,7 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.6
+       "share": 0.61
       },
       {
        "color": "#202124",
@@ -392,7 +393,7 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 6,
+     "roundedBoxes": 7,
      "boxRadius": 14,
      "squareMedia": 0,
      "roundedMedia": 2,
@@ -403,7 +404,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.17
+      "ratio": 0.11
      }
     ],
     "nav": {
@@ -422,7 +423,7 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 2902,
+    "pageH": 3198,
     "margins": {
      "left": 60,
      "right": 60
@@ -432,9 +433,9 @@
       "sel": "section.wrap.case-hero",
       "tag": "section",
       "top": 80,
-      "height": 472,
-      "words": 48,
-      "media": 0,
+      "height": 624,
+      "words": 54,
+      "media": 1,
       "middle": 118,
       "heading": {
        "text": "A database without buying software",
@@ -442,9 +443,9 @@
        "tag": "h1"
       },
       "left": 60,
-      "right": 312,
+      "right": 164,
       "textLeft": 60,
-      "textRight": 312,
+      "textRight": 164,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -454,7 +455,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 552,
+      "top": 704,
       "height": 607,
       "words": 74,
       "media": 1,
@@ -473,7 +474,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1159,
+      "top": 1311,
       "height": 162,
       "words": 9,
       "media": 0,
@@ -492,8 +493,8 @@
      {
       "sel": "div.wrap.case-body",
       "tag": "div",
-      "top": 1321,
-      "height": 734,
+      "top": 1473,
+      "height": 878,
       "words": 158,
       "media": 0,
       "middle": 298,
@@ -503,9 +504,9 @@
        "tag": "h2"
       },
       "left": 60,
-      "right": 61,
+      "right": 242,
       "textLeft": 60,
-      "textRight": 61,
+      "textRight": 242,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -515,7 +516,7 @@
      {
       "sel": "section.wrap.section",
       "tag": "section",
-      "top": 2055,
+      "top": 2351,
       "height": 574,
       "words": 11,
       "media": 1,
@@ -538,7 +539,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 2774,
+      "top": 3070,
       "height": 128,
       "words": 32,
       "media": 0,
@@ -560,7 +561,7 @@
      {
       "text": "A database without buying software",
       "size": 80,
-      "top": 200,
+      "top": 352,
       "firstScreen": true
      }
     ],
@@ -582,10 +583,10 @@
     "slivers": [],
     "voidShare": 0.13,
     "voidBox": {
-     "x": 1140,
+     "x": 0,
      "y": 120,
-     "w": 300,
-     "h": 540
+     "w": 900,
+     "h": 180
     }
    },
    "app": null,
@@ -599,7 +600,7 @@
    "filled": [
     0.64,
     0.71,
-    0.59,
+    0.46,
     0.57
    ],
    "motion": {
@@ -616,10 +617,10 @@
      "h": 1024
     },
     "page": {
-     "height": 3567,
-     "screens": 3.5,
-     "words": 341,
-     "img": 2,
+     "height": 3776,
+     "screens": 3.7,
+     "words": 347,
+     "img": 3,
      "video": 0,
      "canvas": 0,
      "svg": 0,
@@ -628,10 +629,11 @@
      "overflowCulprits": [],
      "uiFragments": 1,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=828&q=7",
       "image?url=%2Ftaxi-1.webp&w=828&q=75"
      ],
@@ -708,7 +710,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1642,
+      "top": 1794,
       "tag": "p",
       "kind": "statement"
      },
@@ -729,7 +731,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.41,
-      "top": 1642,
+      "top": 1794,
       "tag": "p",
       "kind": "statement"
      },
@@ -750,7 +752,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1734,
+      "top": 1886,
       "tag": "p",
       "kind": "statement"
      },
@@ -771,7 +773,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1921,
+      "top": 2073,
       "tag": "h2",
       "kind": "heading"
      },
@@ -792,7 +794,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2073,
+      "top": 2253,
       "tag": "h2",
       "kind": "heading"
      },
@@ -813,7 +815,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2305,
+      "top": 2515,
       "tag": "h2",
       "kind": "heading"
      },
@@ -834,7 +836,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.84,
-      "top": 2785,
+      "top": 2994,
       "tag": "span",
       "kind": "heading"
      }
@@ -881,7 +883,7 @@
       "tracking": 0,
       "contrast": 7.6
      },
-     "measureChars": 79,
+     "measureChars": 72,
      "max": {
       "size": 53.1,
       "vw": 6.9,
@@ -911,28 +913,28 @@
      "dark": true,
      "sectionBgs": [
       {
-       "color": "#ffffff",
-       "top": 1059,
-       "hsl": {
-        "h": 0,
-        "s": 0,
-        "l": 1
-       }
-      },
-      {
        "color": "#131c2e",
-       "top": 2754,
+       "top": 379,
        "hsl": {
         "h": 220,
         "s": 0.42,
         "l": 0.13
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 1211,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
        }
       }
      ],
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.6
+       "share": 0.61
       },
       {
        "color": "#202124",
@@ -989,7 +991,7 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 6,
+     "roundedBoxes": 7,
      "boxRadius": 14,
      "squareMedia": 0,
      "roundedMedia": 2,
@@ -1000,7 +1002,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.25
+      "ratio": 0.12
      }
     ],
     "nav": {
@@ -1019,7 +1021,7 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 3567,
+    "pageH": 3776,
     "margins": {
      "left": 31,
      "right": 31
@@ -1029,9 +1031,9 @@
       "sel": "section.wrap.case-hero",
       "tag": "section",
       "top": 80,
-      "height": 661,
-      "words": 48,
-      "media": 0,
+      "height": 813,
+      "words": 54,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "A database without buying software",
@@ -1051,7 +1053,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 741,
+      "top": 893,
       "height": 877,
       "words": 74,
       "media": 1,
@@ -1070,7 +1072,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1618,
+      "top": 1770,
       "height": 207,
       "words": 9,
       "media": 0,
@@ -1089,8 +1091,8 @@
      {
       "sel": "div.wrap.case-body",
       "tag": "div",
-      "top": 1825,
-      "height": 832,
+      "top": 1977,
+      "height": 890,
       "words": 158,
       "media": 0,
       "middle": 0,
@@ -1100,9 +1102,9 @@
        "tag": "h2"
       },
       "left": 31,
-      "right": 33,
+      "right": 71,
       "textLeft": 31,
-      "textRight": 33,
+      "textRight": 71,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -1112,7 +1114,7 @@
      {
       "sel": "section.wrap.section",
       "tag": "section",
-      "top": 2658,
+      "top": 2867,
       "height": 637,
       "words": 11,
       "media": 1,
@@ -1135,7 +1137,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3391,
+      "top": 3600,
       "height": 176,
       "words": 32,
       "media": 0,
@@ -1185,10 +1187,10 @@
    "load": "load",
    "screens": 5,
    "filled": [
-    0.71,
     0.77,
-    0.47,
-    0.66,
+    0.89,
+    0.6,
+    0.51,
     0.56
    ],
    "motion": {
@@ -1205,10 +1207,10 @@
      "h": 844
     },
     "page": {
-     "height": 3839,
-     "screens": 4.5,
-     "words": 339,
-     "img": 2,
+     "height": 3991,
+     "screens": 4.7,
+     "words": 345,
+     "img": 3,
      "video": 0,
      "canvas": 0,
      "svg": 0,
@@ -1217,10 +1219,11 @@
      "overflowCulprits": [],
      "uiFragments": 1,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7",
       "image?url=%2Ftaxi-1.webp&w=640&q=75"
      ],
@@ -1297,7 +1300,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1660,
+      "top": 1812,
       "tag": "p",
       "kind": "statement"
      },
@@ -1318,7 +1321,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.37,
-      "top": 1660,
+      "top": 1812,
       "tag": "p",
       "kind": "statement"
      },
@@ -1339,7 +1342,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1770,
+      "top": 1922,
       "tag": "p",
       "kind": "statement"
      },
@@ -1360,7 +1363,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1952,
+      "top": 2104,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1381,7 +1384,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2186,
+      "top": 2338,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1402,7 +1405,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2502,
+      "top": 2654,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1423,7 +1426,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.79,
-      "top": 3145,
+      "top": 3297,
       "tag": "span",
       "kind": "heading"
      }
@@ -1510,7 +1513,7 @@
       },
       {
        "color": "#ffffff",
-       "top": 933,
+       "top": 1085,
        "hsl": {
         "h": 0,
         "s": 0,
@@ -1521,7 +1524,7 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.59
+       "share": 0.6
       },
       {
        "color": "#202124",
@@ -1578,7 +1581,7 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 6,
+     "roundedBoxes": 7,
      "boxRadius": 14,
      "squareMedia": 0,
      "roundedMedia": 2,
@@ -1603,7 +1606,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 3839,
+    "pageH": 3991,
     "margins": {
      "left": 16,
      "right": 16
@@ -1613,9 +1616,9 @@
       "sel": "section.wrap.case-hero",
       "tag": "section",
       "top": 80,
-      "height": 680,
-      "words": 48,
-      "media": 0,
+      "height": 832,
+      "words": 54,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "A database without buying software",
@@ -1635,7 +1638,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 760,
+      "top": 912,
       "height": 876,
       "words": 74,
       "media": 1,
@@ -1654,7 +1657,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1636,
+      "top": 1788,
       "height": 220,
       "words": 9,
       "media": 0,
@@ -1673,7 +1676,7 @@
      {
       "sel": "div.wrap.case-body",
       "tag": "div",
-      "top": 1856,
+      "top": 2008,
       "height": 1169,
       "words": 158,
       "media": 0,
@@ -1696,7 +1699,7 @@
      {
       "sel": "section.wrap.section",
       "tag": "section",
-      "top": 3025,
+      "top": 3177,
       "height": 463,
       "words": 11,
       "media": 1,
@@ -1719,7 +1722,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3583,
+      "top": 3735,
       "height": 256,
       "words": 32,
       "media": 0,
@@ -1766,25 +1769,11 @@
  ],
  "findings": [
   {
-   "level": "FAIL",
-   "id": "few-pictures",
-   "width": 1440,
-   "message": "Only 3 picture(s) on the page (2 photographs, footage or raster images, 1 interface fragments). Drawings in SVG do not count.",
-   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
-  },
-  {
    "level": "WARN",
    "id": "no-footage",
    "width": 1440,
    "message": "No video anywhere on the page.",
    "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
-  },
-  {
-   "level": "WARN",
-   "id": "measure",
-   "width": 1440,
-   "message": "Longest paragraph runs about 94 characters per line.",
-   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch)."
   },
   {
    "level": "WARN",

@@ -1,27 +1,28 @@
 {
  "url": "http://localhost:3123/",
- "at": "2026-10-30T19:33:45.904Z",
+ "at": "2026-10-30T19:42:10.553Z",
  "allow": [],
  "viewports": [
   {
    "width": 1440,
    "height": 900,
    "load": "load",
-   "screens": 7,
+   "screens": 8,
    "filled": [
     0.43,
+    0.68,
     0.5,
     0.45,
-    0.41,
-    0.27,
-    0.51,
+    0.31,
+    0.37,
+    0.52,
     0.45
    ],
    "motion": {
-    "elements": 52,
-    "css": 2,
-    "transitions": 50,
-    "scripted": 0,
+    "elements": 63,
+    "css": 4,
+    "transitions": 54,
+    "scripted": 5,
     "videos": 0,
     "playingVideos": 0
    },
@@ -31,9 +32,9 @@
      "h": 900
     },
     "page": {
-     "height": 6014,
-     "screens": 6.7,
-     "words": 671,
+     "height": 6449,
+     "screens": 7.2,
+     "words": 695,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -109,6 +110,48 @@
       "kind": "heading"
      },
      {
+      "text": "Data analyst · Data analyst · Data analyst · Data analyst ·",
+      "words": 12,
+      "chars": 59,
+      "lines": 1,
+      "size": 161.6,
+      "vw": 11.2,
+      "font": "Hanken Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 996,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Data scientist · Data scientist · Data scientist · Data scientist ·",
+      "words": 12,
+      "chars": 67,
+      "lines": 1,
+      "size": 161.6,
+      "vw": 11.2,
+      "font": "Hanken Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 1.6,
+      "top": 1149,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
       "text": "112K",
       "words": 1,
       "chars": 4,
@@ -125,7 +168,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.2,
-      "top": 980,
+      "top": 1415,
       "tag": "p",
       "kind": "statement"
      },
@@ -146,7 +189,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.2,
-      "top": 980,
+      "top": 1415,
       "tag": "p",
       "kind": "statement"
      },
@@ -167,7 +210,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.2,
-      "top": 980,
+      "top": 1415,
       "tag": "p",
       "kind": "statement"
      },
@@ -188,7 +231,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.2,
-      "top": 980,
+      "top": 1415,
       "tag": "p",
       "kind": "statement"
      },
@@ -209,7 +252,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.1,
-      "top": 1310,
+      "top": 1745,
       "tag": "b",
       "kind": "heading"
      },
@@ -230,7 +273,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1319,
+      "top": 1754,
       "tag": "h2",
       "kind": "heading"
      },
@@ -251,7 +294,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.1,
-      "top": 1450,
+      "top": 1885,
       "tag": "b",
       "kind": "heading"
      },
@@ -272,7 +315,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.44,
-      "top": 1811,
+      "top": 2246,
       "tag": "h2",
       "kind": "heading"
      },
@@ -293,7 +336,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.36,
-      "top": 1967,
+      "top": 2402,
       "tag": "h3",
       "kind": "heading"
      },
@@ -314,7 +357,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.25,
-      "top": 2461,
+      "top": 2896,
       "tag": "h3",
       "kind": "heading"
      },
@@ -335,7 +378,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.48,
-      "top": 2661,
+      "top": 3096,
       "tag": "b",
       "kind": "statement"
      },
@@ -356,7 +399,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.27,
-      "top": 3107,
+      "top": 3542,
       "tag": "h3",
       "kind": "heading"
      },
@@ -377,7 +420,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.44,
-      "top": 3566,
+      "top": 4001,
       "tag": "h2",
       "kind": "heading"
      },
@@ -398,7 +441,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.44,
-      "top": 4589,
+      "top": 5024,
       "tag": "h2",
       "kind": "heading"
      },
@@ -419,18 +462,18 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.42,
-      "top": 5341,
+      "top": 5776,
       "tag": "h2",
       "kind": "heading"
      }
     ],
     "headingSummary": {
-     "count": 16,
+     "count": 18,
      "maxLines": 2,
      "over2Lines": 0,
-     "statements": 5,
+     "statements": 7,
      "centered": 0,
-     "medianWords": 2,
+     "medianWords": 3,
      "mixedFontHeadings": 0
     },
     "type": {
@@ -450,9 +493,10 @@
       23,
       36,
       53,
-      112
+      112,
+      162
      ],
-     "sizeCount": 8,
+     "sizeCount": 9,
      "notLoaded": [],
      "body": {
       "font": "Hanken Grotesk",
@@ -464,10 +508,10 @@
      },
      "measureChars": 66,
      "max": {
-      "size": 112,
-      "vw": 7.8,
+      "size": 161.6,
+      "vw": 11.2,
       "font": "Hanken Grotesk",
-      "text": "Kolade"
+      "text": "Data analyst · Data analyst · Data analy"
      },
      "monoShare": 0,
      "monoProseShare": 0,
@@ -493,7 +537,7 @@
      "sectionBgs": [
       {
        "color": "#c6f432",
-       "top": 5269,
+       "top": -900,
        "hsl": {
         "h": 74,
         "s": 0.9,
@@ -504,19 +548,19 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.66
+       "share": 0.64
       },
       {
        "color": "#eef2f7",
-       "share": 0.2
+       "share": 0.19
       },
       {
        "color": "#0b1220",
-       "share": 0.09
+       "share": 0.08
       },
       {
        "color": "#c6f432",
-       "share": 0.06
+       "share": 0.07
       }
      ],
      "button": {
@@ -568,7 +612,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.3
+      "ratio": 0.38
      }
     ],
     "nav": {
@@ -587,219 +631,39 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 6014,
+    "pageH": 6449,
     "margins": {
      "left": 60,
      "right": 60
     },
     "sections": [
      {
-      "sel": "section.hero.wrap",
-      "tag": "section",
-      "top": 80,
-      "height": 860,
-      "words": 48,
-      "media": 1,
-      "middle": 83,
+      "sel": "div.page-in",
+      "tag": "div",
+      "top": 0,
+      "height": 6177,
+      "words": 689,
+      "media": 4,
+      "middle": 0,
       "heading": {
-       "text": "Kolade",
-       "size": 112,
-       "tag": "h1"
+       "text": "Data analyst · Data analyst · Data analyst · Data ",
+       "size": 162,
+       "tag": "p"
       },
       "left": 60,
-      "right": 60,
-      "textLeft": 60,
-      "textRight": 329,
+      "right": 18,
+      "textLeft": 0,
+      "textRight": 0,
       "fullBleed": false,
       "footer": false,
       "hero": true,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap",
-      "tag": "section",
-      "top": 940,
-      "height": 186,
-      "words": 28,
-      "media": 0,
-      "middle": 164,
-      "heading": {
-       "text": "112K",
-       "size": 52,
-       "tag": "p"
-      },
-      "left": 100,
-      "right": 226,
-      "textLeft": 100,
-      "textRight": 226,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap.gap-section",
-      "tag": "section",
-      "top": 1126,
-      "height": 541,
-      "words": 64,
-      "media": 0,
-      "middle": 140,
-      "heading": {
-       "text": "Where did 410K in fares go?",
-       "size": 52,
-       "tag": "h2"
-      },
-      "left": 60,
-      "right": 100,
-      "textLeft": 60,
-      "textRight": 100,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "article.project",
-      "tag": "article",
-      "top": 1933,
-      "height": 413,
-      "words": 52,
-      "media": 1,
-      "middle": 58,
-      "heading": {
-       "text": "Taxi company analysis dashboard",
-       "size": 36,
-       "tag": "h3"
-      },
-      "left": 60,
-      "right": 68,
-      "textLeft": 854,
-      "textRight": 68,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "article.project.flip",
-      "tag": "article",
-      "top": 2461,
-      "height": 531,
-      "words": 70,
-      "media": 0,
-      "middle": 105,
-      "heading": {
-       "text": "88.7%",
-       "size": 32,
-       "tag": "b"
-      },
-      "left": 60,
-      "right": 162,
-      "textLeft": 60,
-      "textRight": 162,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "article.project",
-      "tag": "article",
-      "top": 3107,
-      "height": 315,
-      "words": 38,
-      "media": 1,
-      "middle": 58,
-      "heading": null,
-      "left": 60,
-      "right": 90,
-      "textLeft": 854,
-      "textRight": 90,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section#services.wrap.section",
-      "tag": "section",
-      "top": 3422,
-      "height": 994,
-      "words": 187,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "What I do",
-       "size": 52,
-       "tag": "h2"
-      },
-      "left": 60,
-      "right": 63,
-      "textLeft": 60,
-      "textRight": 63,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section#experience.wrap.section",
-      "tag": "section",
-      "top": 4416,
-      "height": 709,
-      "words": 106,
-      "media": 1,
-      "middle": 37,
-      "heading": {
-       "text": "Experience & education",
-       "size": 52,
-       "tag": "h2"
-      },
-      "left": 60,
-      "right": 60,
-      "textLeft": 60,
-      "textRight": 63,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section#contact.wrap.section",
-      "tag": "section",
-      "top": 5125,
-      "height": 617,
-      "words": 45,
-      "media": 0,
-      "middle": 89,
-      "heading": {
-       "text": "Let’s find what your data is hiding.",
-       "size": 52,
-       "tag": "h2"
-      },
-      "left": 132,
-      "right": 166,
-      "textLeft": 132,
-      "textRight": 166,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
+      "continues": false,
       "pinned": false
      },
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 5886,
+      "top": 6321,
       "height": 128,
       "words": 32,
       "media": 0,
@@ -846,9 +710,13 @@
      {
       "x": 132,
       "n": 2
+     },
+     {
+      "x": 0,
+      "n": 1
      }
     ],
-    "leftBlocks": 34,
+    "leftBlocks": 35,
     "bodySize": 18,
     "stage": false,
     "explains": true,
@@ -870,20 +738,20 @@
    "load": "load",
    "screens": 8,
    "filled": [
-    0.67,
-    0.69,
     0.68,
-    0.69,
-    0.34,
-    0.43,
-    0.67,
+    0.65,
+    0.71,
+    0.62,
+    0.45,
+    0.44,
+    0.55,
     0.49
    ],
    "motion": {
-    "elements": 52,
-    "css": 2,
-    "transitions": 50,
-    "scripted": 0,
+    "elements": 63,
+    "css": 4,
+    "transitions": 54,
+    "scripted": 5,
     "videos": 0,
     "playingVideos": 0
    },
@@ -893,9 +761,9 @@
      "h": 1024
     },
     "page": {
-     "height": 7727,
-     "screens": 7.5,
-     "words": 671,
+     "height": 7990,
+     "screens": 7.8,
+     "words": 695,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -971,6 +839,48 @@
       "kind": "heading"
      },
      {
+      "text": "Data analyst · Data analyst · Data analyst · Data analyst ·",
+      "words": 12,
+      "chars": 59,
+      "lines": 1,
+      "size": 101.1,
+      "vw": 13.2,
+      "font": "Hanken Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 1116,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Data scientist · Data scientist · Data scientist · Data scientist ·",
+      "words": 12,
+      "chars": 67,
+      "lines": 1,
+      "size": 101.1,
+      "vw": 13.2,
+      "font": "Hanken Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 1.6,
+      "top": 1212,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
       "text": "112K",
       "words": 1,
       "chars": 4,
@@ -987,7 +897,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1110,
+      "top": 1373,
       "tag": "p",
       "kind": "statement"
      },
@@ -1008,7 +918,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.41,
-      "top": 1110,
+      "top": 1373,
       "tag": "p",
       "kind": "statement"
      },
@@ -1029,7 +939,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1225,
+      "top": 1488,
       "tag": "p",
       "kind": "statement"
      },
@@ -1050,7 +960,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.41,
-      "top": 1225,
+      "top": 1488,
       "tag": "p",
       "kind": "statement"
      },
@@ -1071,7 +981,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.59,
-      "top": 1437,
+      "top": 1700,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1092,7 +1002,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.13,
-      "top": 1696,
+      "top": 1959,
       "tag": "b",
       "kind": "heading"
      },
@@ -1113,7 +1023,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.13,
-      "top": 1812,
+      "top": 2075,
       "tag": "b",
       "kind": "heading"
      },
@@ -1134,7 +1044,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2081,
+      "top": 2344,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1155,7 +1065,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.53,
-      "top": 2634,
+      "top": 2897,
       "tag": "h3",
       "kind": "heading"
      },
@@ -1176,7 +1086,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 3374,
+      "top": 3636,
       "tag": "h3",
       "kind": "heading"
      },
@@ -1197,7 +1107,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.86,
-      "top": 3561,
+      "top": 3824,
       "tag": "b",
       "kind": "statement"
      },
@@ -1218,7 +1128,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.4,
-      "top": 4289,
+      "top": 4552,
       "tag": "h3",
       "kind": "heading"
      },
@@ -1239,7 +1149,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 4658,
+      "top": 4921,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1260,7 +1170,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 5769,
+      "top": 6032,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1281,18 +1191,18 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.82,
-      "top": 6930,
+      "top": 7193,
       "tag": "h2",
       "kind": "heading"
      }
     ],
     "headingSummary": {
-     "count": 16,
+     "count": 18,
      "maxLines": 2,
      "over2Lines": 0,
-     "statements": 5,
+     "statements": 7,
      "centered": 0,
-     "medianWords": 2,
+     "medianWords": 3,
      "mixedFontHeadings": 0
     },
     "type": {
@@ -1311,9 +1221,10 @@
       20,
       28,
       38,
-      72
+      72,
+      101
      ],
-     "sizeCount": 7,
+     "sizeCount": 8,
      "notLoaded": [],
      "body": {
       "font": "Hanken Grotesk",
@@ -1325,10 +1236,10 @@
      },
      "measureChars": 72,
      "max": {
-      "size": 71.7,
-      "vw": 9.3,
+      "size": 101.1,
+      "vw": 13.2,
       "font": "Hanken Grotesk",
-      "text": "Kolade"
+      "text": "Data analyst · Data analyst · Data analy"
      },
      "monoShare": 0,
      "monoProseShare": 0,
@@ -1353,6 +1264,15 @@
      "dark": true,
      "sectionBgs": [
       {
+       "color": "#c6f432",
+       "top": -1024,
+       "hsl": {
+        "h": 74,
+        "s": 0.9,
+        "l": 0.58
+       }
+      },
+      {
        "color": "#eeb778",
        "top": 508,
        "hsl": {
@@ -1363,39 +1283,30 @@
       },
       {
        "color": "#131c2e",
-       "top": 2207,
+       "top": 2470,
        "hsl": {
         "h": 220,
         "s": 0.42,
         "l": 0.13
-       }
-      },
-      {
-       "color": "#c6f432",
-       "top": 6891,
-       "hsl": {
-        "h": 74,
-        "s": 0.9,
-        "l": 0.58
        }
       }
      ],
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.66
+       "share": 0.64
       },
       {
        "color": "#eef2f7",
-       "share": 0.2
+       "share": 0.19
       },
       {
        "color": "#0b1220",
-       "share": 0.09
+       "share": 0.08
       },
       {
        "color": "#c6f432",
-       "share": 0.06
+       "share": 0.07
       }
      ],
      "button": {
@@ -1447,7 +1358,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.46
+      "ratio": 0.51
      }
     ],
     "nav": {
@@ -1466,223 +1377,39 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 7727,
+    "pageH": 7990,
     "margins": {
      "left": 31,
      "right": 31
     },
     "sections": [
      {
-      "sel": "section.hero.wrap",
-      "tag": "section",
-      "top": 80,
-      "height": 1006,
-      "words": 48,
-      "media": 1,
+      "sel": "div.page-in",
+      "tag": "div",
+      "top": 0,
+      "height": 7718,
+      "words": 689,
+      "media": 3,
       "middle": 0,
       "heading": {
-       "text": "Kolade",
-       "size": 72,
-       "tag": "h1"
-      },
-      "left": 31,
-      "right": 31,
-      "textLeft": 31,
-      "textRight": 64,
-      "fullBleed": false,
-      "footer": false,
-      "hero": true,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap",
-      "tag": "section",
-      "top": 1086,
-      "height": 255,
-      "words": 28,
-      "media": 0,
-      "middle": 184,
-      "heading": {
-       "text": "112K",
-       "size": 38,
+       "text": "Data analyst · Data analyst · Data analyst · Data ",
+       "size": 101,
        "tag": "p"
       },
-      "left": 55,
-      "right": 198,
-      "textLeft": 55,
-      "textRight": 198,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap.gap-section",
-      "tag": "section",
-      "top": 1341,
-      "height": 644,
-      "words": 64,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "Where did 410K in fares go?",
-       "size": 38,
-       "tag": "h2"
-      },
       "left": 31,
-      "right": 55,
-      "textLeft": 31,
-      "textRight": 55,
-      "fullBleed": false,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": true,
       "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "article.project",
-      "tag": "article",
-      "top": 2207,
-      "height": 729,
-      "words": 52,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Taxi company analysis dashboard",
-       "size": 28,
-       "tag": "h3"
-      },
-      "left": 31,
-      "right": 31,
-      "textLeft": 31,
-      "textRight": 65,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "article.project.flip",
-      "tag": "article",
-      "top": 3008,
-      "height": 884,
-      "words": 73,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "Loan default prediction",
-       "size": 28,
-       "tag": "h3"
-      },
-      "left": 31,
-      "right": 81,
-      "textLeft": 31,
-      "textRight": 81,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "article.project",
-      "tag": "article",
-      "top": 3964,
-      "height": 598,
-      "words": 41,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Pectoria database design",
-       "size": 28,
-       "tag": "h3"
-      },
-      "left": 31,
-      "right": 31,
-      "textLeft": 31,
-      "textRight": 65,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section#services.wrap.section",
-      "tag": "section",
-      "top": 4562,
-      "height": 1111,
-      "words": 187,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "What I do",
-       "size": 38,
-       "tag": "h2"
-      },
-      "left": 31,
-      "right": 40,
-      "textLeft": 31,
-      "textRight": 40,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section#experience.wrap.section",
-      "tag": "section",
-      "top": 5673,
-      "height": 1122,
-      "words": 106,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Experience & education",
-       "size": 38,
-       "tag": "h2"
-      },
-      "left": 31,
-      "right": 31,
-      "textLeft": 31,
-      "textRight": 36,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section#contact.wrap.section",
-      "tag": "section",
-      "top": 6795,
-      "height": 659,
-      "words": 45,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "Let’s find what your data is hiding.",
-       "size": 38,
-       "tag": "h2"
-      },
-      "left": 69,
-      "right": 139,
-      "textLeft": 69,
-      "textRight": 145,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
+      "hero": true,
+      "continues": false,
       "pinned": false
      },
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 7551,
+      "top": 7814,
       "height": 176,
       "words": 32,
       "media": 0,
@@ -1725,9 +1452,13 @@
      {
       "x": 69,
       "n": 2
+     },
+     {
+      "x": 0,
+      "n": 1
      }
     ],
-    "leftBlocks": 34,
+    "leftBlocks": 35,
     "bodySize": 18,
     "stage": false,
     "explains": true,
@@ -1745,22 +1476,22 @@
    "screens": 11,
    "filled": [
     0.62,
-    0.64,
+    0.7,
     0.66,
-    0.63,
-    0.65,
-    0.57,
-    0.42,
-    0.38,
+    0.7,
+    0.64,
+    0.46,
+    0.44,
     0.56,
-    0.78,
+    0.48,
+    0.63,
     0.63
    ],
    "motion": {
-    "elements": 52,
-    "css": 2,
-    "transitions": 50,
-    "scripted": 0,
+    "elements": 60,
+    "css": 4,
+    "transitions": 52,
+    "scripted": 4,
     "videos": 0,
     "playingVideos": 0
    },
@@ -1770,9 +1501,9 @@
      "h": 844
     },
     "page": {
-     "height": 9068,
-     "screens": 10.7,
-     "words": 669,
+     "height": 9269,
+     "screens": 11,
+     "words": 693,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -1848,6 +1579,48 @@
       "kind": "heading"
      },
      {
+      "text": "Data analyst · Data analyst · Data analyst · Data analyst ·",
+      "words": 12,
+      "chars": 59,
+      "lines": 1,
+      "size": 72,
+      "vw": 18.5,
+      "font": "Hanken Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 1,
+      "top": 1029,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Data scientist · Data scientist · Data scientist · Data scientist ·",
+      "words": 12,
+      "chars": 67,
+      "lines": 1,
+      "size": 72,
+      "vw": 18.5,
+      "font": "Hanken Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 1.6,
+      "top": 1097,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
       "text": "112K",
       "words": 1,
       "chars": 4,
@@ -1864,7 +1637,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1029,
+      "top": 1230,
       "tag": "p",
       "kind": "statement"
      },
@@ -1885,7 +1658,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.37,
-      "top": 1029,
+      "top": 1230,
       "tag": "p",
       "kind": "statement"
      },
@@ -1906,7 +1679,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1163,
+      "top": 1364,
       "tag": "p",
       "kind": "statement"
      },
@@ -1927,7 +1700,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.37,
-      "top": 1163,
+      "top": 1364,
       "tag": "p",
       "kind": "statement"
      },
@@ -1948,7 +1721,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1369,
+      "top": 1570,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1969,7 +1742,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.22,
-      "top": 1737,
+      "top": 1938,
       "tag": "b",
       "kind": "heading"
      },
@@ -1990,7 +1763,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.22,
-      "top": 1844,
+      "top": 2045,
       "tag": "b",
       "kind": "heading"
      },
@@ -2011,7 +1784,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2132,
+      "top": 2333,
       "tag": "h2",
       "kind": "heading"
      },
@@ -2032,7 +1805,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2509,
+      "top": 2710,
       "tag": "h3",
       "kind": "heading"
      },
@@ -2053,7 +1826,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.66,
-      "top": 3502,
+      "top": 3703,
       "tag": "h3",
       "kind": "heading"
      },
@@ -2074,7 +1847,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.81,
-      "top": 3771,
+      "top": 3972,
       "tag": "b",
       "kind": "statement"
      },
@@ -2095,7 +1868,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.71,
-      "top": 4396,
+      "top": 4597,
       "tag": "h3",
       "kind": "heading"
      },
@@ -2116,7 +1889,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 4818,
+      "top": 5019,
       "tag": "h2",
       "kind": "heading"
      },
@@ -2137,7 +1910,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 6679,
+      "top": 6880,
       "tag": "h2",
       "kind": "heading"
      },
@@ -2158,18 +1931,18 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.75,
-      "top": 7874,
+      "top": 8074,
       "tag": "h2",
       "kind": "heading"
      }
     ],
     "headingSummary": {
-     "count": 16,
+     "count": 18,
      "maxLines": 2,
      "over2Lines": 0,
-     "statements": 5,
+     "statements": 7,
      "centered": 0,
-     "medianWords": 2,
+     "medianWords": 3,
      "mixedFontHeadings": 0
     },
     "type": {
@@ -2189,9 +1962,10 @@
       20,
       26,
       32,
-      52
+      52,
+      72
      ],
-     "sizeCount": 8,
+     "sizeCount": 9,
      "notLoaded": [],
      "body": {
       "font": "Hanken Grotesk",
@@ -2203,10 +1977,10 @@
      },
      "measureChars": 40,
      "max": {
-      "size": 52,
-      "vw": 13.3,
+      "size": 72,
+      "vw": 18.5,
       "font": "Hanken Grotesk",
-      "text": "Kolade"
+      "text": "Data analyst · Data analyst · Data analy"
      },
      "monoShare": 0,
      "monoProseShare": 0,
@@ -2231,6 +2005,15 @@
      "dark": true,
      "sectionBgs": [
       {
+       "color": "#c6f432",
+       "top": -844,
+       "hsl": {
+        "h": 74,
+        "s": 0.9,
+        "l": 0.58
+       }
+      },
+      {
        "color": "#eeb778",
        "top": 509,
        "hsl": {
@@ -2241,39 +2024,30 @@
       },
       {
        "color": "#131c2e",
-       "top": 1713,
+       "top": 1914,
        "hsl": {
         "h": 220,
         "s": 0.42,
         "l": 0.13
-       }
-      },
-      {
-       "color": "#c6f432",
-       "top": 7842,
-       "hsl": {
-        "h": 74,
-        "s": 0.9,
-        "l": 0.58
        }
       }
      ],
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.66
+       "share": 0.64
       },
       {
        "color": "#eef2f7",
-       "share": 0.2
+       "share": 0.19
       },
       {
        "color": "#0b1220",
-       "share": 0.09
+       "share": 0.08
       },
       {
        "color": "#c6f432",
-       "share": 0.06
+       "share": 0.07
       }
      ],
      "button": {
@@ -2325,7 +2099,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.36
+      "ratio": 0.38
      }
     ],
     "nav": {
@@ -2344,238 +2118,39 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 9068,
+    "pageH": 9269,
     "margins": {
      "left": 16,
      "right": 16
     },
     "sections": [
      {
-      "sel": "section.hero.wrap",
-      "tag": "section",
-      "top": 80,
-      "height": 925,
-      "words": 48,
-      "media": 1,
+      "sel": "div.page-in",
+      "tag": "div",
+      "top": 0,
+      "height": 8917,
+      "words": 687,
+      "media": 4,
       "middle": 0,
       "heading": {
-       "text": "Kolade",
-       "size": 52,
-       "tag": "h1"
-      },
-      "left": 16,
-      "right": 16,
-      "textLeft": 16,
-      "textRight": 18,
-      "fullBleed": false,
-      "footer": false,
-      "hero": true,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap",
-      "tag": "section",
-      "top": 1005,
-      "height": 268,
-      "words": 28,
-      "media": 0,
-      "middle": 24,
-      "heading": {
-       "text": "112K",
-       "size": 32,
+       "text": "Data analyst · Data analyst · Data analyst · Data ",
+       "size": 72,
        "tag": "p"
       },
-      "left": 40,
-      "right": 48,
-      "textLeft": 40,
-      "textRight": 48,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.wrap.gap-section",
-      "tag": "section",
-      "top": 1273,
-      "height": 763,
-      "words": 64,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "Where did 410K in fares go?",
-       "size": 32,
-       "tag": "h2"
-      },
       "left": 16,
-      "right": 23,
-      "textLeft": 16,
-      "textRight": 23,
-      "fullBleed": false,
+      "right": 0,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": true,
       "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "article.project",
-      "tag": "article",
-      "top": 2281,
-      "height": 612,
-      "words": 52,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Taxi company analysis dashboard",
-       "size": 26,
-       "tag": "h3"
-      },
-      "left": 16,
-      "right": 16,
-      "textLeft": 16,
-      "textRight": 33,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "article.project.flip",
-      "tag": "article",
-      "top": 2965,
-      "height": 1181,
-      "words": 73,
-      "media": 0,
-      "middle": 0,
-      "heading": null,
-      "left": 16,
-      "right": 30,
-      "textLeft": 16,
-      "textRight": 30,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "article.project",
-      "tag": "article",
-      "top": 4219,
-      "height": 504,
-      "words": 41,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Pectoria database design",
-       "size": 26,
-       "tag": "h3"
-      },
-      "left": 16,
-      "right": 16,
-      "textLeft": 16,
-      "textRight": 42,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "div.reveal.in",
-      "tag": "div",
-      "top": 4967,
-      "height": 693,
-      "words": 72,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "Data cleaning & SQL",
-       "size": 19,
-       "tag": "h3"
-      },
-      "left": 16,
-      "right": 21,
-      "textLeft": 16,
-      "textRight": 21,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "div.reveal.in",
-      "tag": "div",
-      "top": 5700,
-      "height": 883,
-      "words": 99,
-      "media": 0,
-      "middle": 0,
-      "heading": null,
-      "left": 16,
-      "right": 19,
-      "textLeft": 16,
-      "textRight": 19,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section#experience.wrap.section",
-      "tag": "section",
-      "top": 6583,
-      "height": 1162,
-      "words": 106,
-      "media": 1,
-      "middle": 0,
-      "heading": {
-       "text": "Experience & education",
-       "size": 32,
-       "tag": "h2"
-      },
-      "left": 16,
-      "right": 16,
-      "textLeft": 16,
-      "textRight": 17,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section#contact.wrap.section",
-      "tag": "section",
-      "top": 7746,
-      "height": 970,
-      "words": 45,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "Let’s find what your data is hiding.",
-       "size": 32,
-       "tag": "h2"
-      },
-      "left": 48,
-      "right": 48,
-      "textLeft": 48,
-      "textRight": 54,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
+      "hero": true,
+      "continues": false,
       "pinned": false
      },
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 8812,
+      "top": 9013,
       "height": 256,
       "words": 32,
       "media": 0,
@@ -2610,9 +2185,13 @@
      {
       "x": 48,
       "n": 2
+     },
+     {
+      "x": 0,
+      "n": 1
      }
     ],
-    "leftBlocks": 34,
+    "leftBlocks": 35,
     "bodySize": 18,
     "stage": false,
     "explains": true,

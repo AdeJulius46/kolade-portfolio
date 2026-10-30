@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/taxi-company-dashboard",
- "at": "2026-10-30T19:34:19.278Z",
+ "at": "2026-10-30T19:36:22.627Z",
  "allow": [],
  "viewports": [
   {
@@ -9,10 +9,10 @@
    "load": "load",
    "screens": 5,
    "filled": [
-    0.62,
+    0.52,
     0.81,
-    0.21,
-    0.39,
+    0.3,
+    0.27,
     0.5
    ],
    "motion": {
@@ -29,10 +29,10 @@
      "h": 900
     },
     "page": {
-     "height": 4054,
-     "screens": 4.5,
-     "words": 422,
-     "img": 5,
+     "height": 4292,
+     "screens": 4.8,
+     "words": 428,
+     "img": 6,
      "video": 0,
      "canvas": 0,
      "svg": 0,
@@ -41,10 +41,11 @@
      "overflowCulprits": [],
      "uiFragments": 0,
      "uiAbuse": false,
-     "realPictures": 5,
+     "realPictures": 6,
      "videoCount": 0,
      "uiPictures": 0,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Ftaxi-1.webp&w=1080&q=75",
       "image?url=%2Ftaxi-1.webp&w=1080&q=75",
       "image?url=%2Ftaxi-2.webp&w=256&q=75",
@@ -74,7 +75,7 @@
      "align": "left",
      "position": "left",
      "widthRatio": 0.52,
-     "top": 166,
+     "top": 318,
      "tag": "h1",
      "kind": "heading"
     },
@@ -103,7 +104,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.52,
-      "top": 166,
+      "top": 318,
       "tag": "h1",
       "kind": "heading"
      },
@@ -124,7 +125,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.2,
-      "top": 1690,
+      "top": 1841,
       "tag": "p",
       "kind": "statement"
      },
@@ -145,7 +146,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.2,
-      "top": 1690,
+      "top": 1841,
       "tag": "p",
       "kind": "statement"
      },
@@ -166,7 +167,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.2,
-      "top": 1690,
+      "top": 1841,
       "tag": "p",
       "kind": "statement"
      },
@@ -187,7 +188,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.2,
-      "top": 1690,
+      "top": 1841,
       "tag": "p",
       "kind": "statement"
      },
@@ -208,7 +209,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 1956,
+      "top": 2108,
       "tag": "h2",
       "kind": "heading"
      },
@@ -229,7 +230,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 2100,
+      "top": 2280,
       "tag": "h2",
       "kind": "heading"
      },
@@ -250,7 +251,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 2378,
+      "top": 2559,
       "tag": "h2",
       "kind": "heading"
      },
@@ -271,7 +272,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 2592,
+      "top": 2772,
       "tag": "h2",
       "kind": "heading"
      },
@@ -292,7 +293,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 2875,
+      "top": 3056,
       "tag": "h2",
       "kind": "heading"
      },
@@ -313,7 +314,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 3478,
+      "top": 3716,
       "tag": "span",
       "kind": "heading"
      }
@@ -386,7 +387,7 @@
      "sectionBgs": [
       {
        "color": "#131c2e",
-       "top": 552,
+       "top": 704,
        "hsl": {
         "h": 220,
         "s": 0.42,
@@ -450,7 +451,7 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 8,
+     "roundedBoxes": 9,
      "boxRadius": 14,
      "squareMedia": 0,
      "roundedMedia": 5,
@@ -461,7 +462,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.35
+      "ratio": 0.2
      }
     ],
     "nav": {
@@ -480,7 +481,7 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 4054,
+    "pageH": 4292,
     "margins": {
      "left": 60,
      "right": 60
@@ -490,9 +491,9 @@
       "sel": "section.wrap.case-hero",
       "tag": "section",
       "top": 80,
-      "height": 472,
-      "words": 59,
-      "media": 0,
+      "height": 624,
+      "words": 65,
+      "media": 1,
       "middle": 106,
       "heading": {
        "text": "Where did 410K in fares go?",
@@ -500,9 +501,9 @@
        "tag": "h1"
       },
       "left": 60,
-      "right": 220,
+      "right": 164,
       "textLeft": 60,
-      "textRight": 220,
+      "textRight": 164,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -512,7 +513,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 552,
+      "top": 704,
       "height": 1097,
       "words": 3,
       "media": 4,
@@ -531,7 +532,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1650,
+      "top": 1801,
       "height": 162,
       "words": 16,
       "media": 0,
@@ -552,22 +553,75 @@
       "pinned": false
      },
      {
-      "sel": "div.wrap.case-body",
-      "tag": "div",
-      "top": 1812,
-      "height": 1382,
-      "words": 306,
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2280,
+      "height": 192,
+      "words": 54,
       "media": 0,
-      "middle": 181,
-      "heading": {
-       "text": "The brief",
-       "size": 35,
-       "tag": "h2"
-      },
-      "left": 60,
-      "right": 61,
-      "textLeft": 60,
-      "textRight": 61,
+      "middle": 0,
+      "heading": null,
+      "left": 554,
+      "right": 244,
+      "textLeft": 554,
+      "textRight": 244,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2559,
+      "height": 127,
+      "words": 41,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 554,
+      "right": 272,
+      "textLeft": 554,
+      "textRight": 272,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 2772,
+      "height": 197,
+      "words": 59,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 554,
+      "right": 259,
+      "textLeft": 554,
+      "textRight": 259,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 3056,
+      "height": 377,
+      "words": 107,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 554,
+      "right": 261,
+      "textLeft": 554,
+      "textRight": 261,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -577,7 +631,7 @@
      {
       "sel": "section.wrap.section",
       "tag": "section",
-      "top": 3194,
+      "top": 3432,
       "height": 587,
       "words": 8,
       "media": 1,
@@ -600,7 +654,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3926,
+      "top": 4164,
       "height": 128,
       "words": 32,
       "media": 0,
@@ -622,7 +676,7 @@
      {
       "text": "Where did 410K in fares go?",
       "size": 80,
-      "top": 166,
+      "top": 318,
       "firstScreen": true
      }
     ],
@@ -642,12 +696,12 @@
     "stage": false,
     "explains": true,
     "slivers": [],
-    "voidShare": 0.06,
+    "voidShare": 0.13,
     "voidBox": {
-     "x": 1260,
+     "x": 0,
      "y": 120,
-     "w": 180,
-     "h": 420
+     "w": 900,
+     "h": 180
     }
    },
    "app": null,
@@ -657,11 +711,12 @@
    "width": 768,
    "height": 1024,
    "load": "load",
-   "screens": 4,
+   "screens": 5,
    "filled": [
-    0.72,
-    0.54,
-    0.3,
+    0.71,
+    0.64,
+    0.47,
+    0.61,
     0.56
    ],
    "motion": {
@@ -678,10 +733,10 @@
      "h": 1024
     },
     "page": {
-     "height": 3929,
-     "screens": 3.8,
-     "words": 422,
-     "img": 5,
+     "height": 4110,
+     "screens": 4,
+     "words": 428,
+     "img": 6,
      "video": 0,
      "canvas": 0,
      "svg": 0,
@@ -690,10 +745,11 @@
      "overflowCulprits": [],
      "uiFragments": 0,
      "uiAbuse": false,
-     "realPictures": 5,
+     "realPictures": 6,
      "videoCount": 0,
      "uiPictures": 0,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Ftaxi-1.webp&w=828&q=75",
       "image?url=%2Ftaxi-1.webp&w=256&q=75",
       "image?url=%2Ftaxi-2.webp&w=256&q=75",
@@ -773,7 +829,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1357,
+      "top": 1509,
       "tag": "p",
       "kind": "statement"
      },
@@ -794,7 +850,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.41,
-      "top": 1357,
+      "top": 1509,
       "tag": "p",
       "kind": "statement"
      },
@@ -815,7 +871,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1448,
+      "top": 1600,
       "tag": "p",
       "kind": "statement"
      },
@@ -836,7 +892,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.41,
-      "top": 1448,
+      "top": 1600,
       "tag": "p",
       "kind": "statement"
      },
@@ -857,7 +913,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1636,
+      "top": 1788,
       "tag": "h2",
       "kind": "heading"
      },
@@ -878,7 +934,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1816,
+      "top": 1968,
       "tag": "h2",
       "kind": "heading"
      },
@@ -899,7 +955,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2101,
+      "top": 2253,
       "tag": "h2",
       "kind": "heading"
      },
@@ -920,7 +976,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2322,
+      "top": 2474,
       "tag": "h2",
       "kind": "heading"
      },
@@ -941,7 +997,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2612,
+      "top": 2764,
       "tag": "h2",
       "kind": "heading"
      },
@@ -962,7 +1018,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.84,
-      "top": 3133,
+      "top": 3313,
       "tag": "span",
       "kind": "heading"
      }
@@ -1035,7 +1091,7 @@
      "sectionBgs": [
       {
        "color": "#131c2e",
-       "top": 718,
+       "top": 357,
        "hsl": {
         "h": 220,
         "s": 0.42,
@@ -1099,7 +1155,7 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 8,
+     "roundedBoxes": 9,
      "boxRadius": 14,
      "squareMedia": 0,
      "roundedMedia": 2,
@@ -1110,7 +1166,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.27
+      "ratio": 0.14
      }
     ],
     "nav": {
@@ -1129,7 +1185,7 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 3929,
+    "pageH": 4110,
     "margins": {
      "left": 31,
      "right": 31
@@ -1139,9 +1195,9 @@
       "sel": "section.wrap.case-hero",
       "tag": "section",
       "top": 80,
-      "height": 638,
-      "words": 59,
-      "media": 0,
+      "height": 790,
+      "words": 65,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Where did 410K in fares go?",
@@ -1161,7 +1217,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 718,
+      "top": 870,
       "height": 614,
       "words": 3,
       "media": 4,
@@ -1180,7 +1236,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1333,
+      "top": 1485,
       "height": 207,
       "words": 16,
       "media": 0,
@@ -1203,8 +1259,8 @@
      {
       "sel": "div.wrap.case-body",
       "tag": "div",
-      "top": 1540,
-      "height": 1466,
+      "top": 1692,
+      "height": 1495,
       "words": 306,
       "media": 0,
       "middle": 0,
@@ -1214,9 +1270,9 @@
        "tag": "h2"
       },
       "left": 31,
-      "right": 39,
+      "right": 73,
       "textLeft": 31,
-      "textRight": 39,
+      "textRight": 73,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -1226,7 +1282,7 @@
      {
       "sel": "section.wrap.section",
       "tag": "section",
-      "top": 3006,
+      "top": 3187,
       "height": 652,
       "words": 8,
       "media": 1,
@@ -1249,7 +1305,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3753,
+      "top": 3934,
       "height": 176,
       "words": 32,
       "media": 0,
@@ -1300,10 +1356,10 @@
    "screens": 6,
    "filled": [
     0.73,
-    0.72,
-    0.5,
-    0.58,
-    0.55,
+    0.73,
+    0.6,
+    0.66,
+    0.62,
     0.55
    ],
    "motion": {
@@ -1320,10 +1376,10 @@
      "h": 844
     },
     "page": {
-     "height": 4317,
-     "screens": 5.1,
-     "words": 420,
-     "img": 5,
+     "height": 4469,
+     "screens": 5.3,
+     "words": 426,
+     "img": 6,
      "video": 0,
      "canvas": 0,
      "svg": 0,
@@ -1332,10 +1388,11 @@
      "overflowCulprits": [],
      "uiFragments": 0,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 0,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Ftaxi-1.webp&w=640&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=640&q=75"
      ],
@@ -1412,7 +1469,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1239,
+      "top": 1391,
       "tag": "p",
       "kind": "statement"
      },
@@ -1433,7 +1490,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.37,
-      "top": 1239,
+      "top": 1391,
       "tag": "p",
       "kind": "statement"
      },
@@ -1454,7 +1511,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1325,
+      "top": 1477,
       "tag": "p",
       "kind": "statement"
      },
@@ -1475,7 +1532,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.37,
-      "top": 1325,
+      "top": 1477,
       "tag": "p",
       "kind": "statement"
      },
@@ -1496,7 +1553,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1507,
+      "top": 1659,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1517,7 +1574,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1742,
+      "top": 1894,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1538,7 +1595,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2168,
+      "top": 2320,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1559,7 +1616,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2472,
+      "top": 2624,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1580,7 +1637,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2875,
+      "top": 3027,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1601,7 +1658,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.79,
-      "top": 3615,
+      "top": 3767,
       "tag": "span",
       "kind": "heading"
      }
@@ -1738,7 +1795,7 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 5,
+     "roundedBoxes": 6,
      "boxRadius": 14,
      "squareMedia": 0,
      "roundedMedia": 2,
@@ -1763,7 +1820,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 4317,
+    "pageH": 4469,
     "margins": {
      "left": 16,
      "right": 16
@@ -1773,9 +1830,9 @@
       "sel": "section.wrap.case-hero",
       "tag": "section",
       "top": 80,
-      "height": 781,
-      "words": 59,
-      "media": 0,
+      "height": 933,
+      "words": 65,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Where did 410K in fares go?",
@@ -1795,7 +1852,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 861,
+      "top": 1013,
       "height": 354,
       "words": 3,
       "media": 1,
@@ -1814,7 +1871,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1215,
+      "top": 1367,
       "height": 196,
       "words": 16,
       "media": 0,
@@ -1837,7 +1894,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1507,
+      "top": 1659,
       "height": 186,
       "words": 31,
       "media": 0,
@@ -1856,7 +1913,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1742,
+      "top": 1894,
       "height": 378,
       "words": 54,
       "media": 0,
@@ -1875,7 +1932,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2168,
+      "top": 2320,
       "height": 256,
       "words": 41,
       "media": 0,
@@ -1894,7 +1951,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2472,
+      "top": 2624,
       "height": 354,
       "words": 59,
       "media": 0,
@@ -1913,7 +1970,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2875,
+      "top": 3027,
       "height": 621,
       "words": 107,
       "media": 0,
@@ -1932,7 +1989,7 @@
      {
       "sel": "section.wrap.section",
       "tag": "section",
-      "top": 3495,
+      "top": 3647,
       "height": 469,
       "words": 8,
       "media": 1,
@@ -1955,7 +2012,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4061,
+      "top": 4213,
       "height": 256,
       "words": 32,
       "media": 0,

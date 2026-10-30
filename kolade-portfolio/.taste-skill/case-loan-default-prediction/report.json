@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/loan-default-prediction",
- "at": "2026-10-30T19:34:42.955Z",
+ "at": "2026-10-30T19:36:48.306Z",
  "allow": [],
  "viewports": [
   {
@@ -9,10 +9,10 @@
    "load": "load",
    "screens": 4,
    "filled": [
-    0.56,
-    0.42,
-    0.34,
-    0.4
+    0.48,
+    0.49,
+    0.26,
+    0.39
    ],
    "motion": {
     "elements": 17,
@@ -28,10 +28,10 @@
      "h": 900
     },
     "page": {
-     "height": 3139,
-     "screens": 3.5,
-     "words": 356,
-     "img": 2,
+     "height": 3435,
+     "screens": 3.8,
+     "words": 362,
+     "img": 3,
      "video": 0,
      "canvas": 0,
      "svg": 0,
@@ -40,10 +40,11 @@
      "overflowCulprits": [],
      "uiFragments": 2,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=1080&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7"
      ],
@@ -70,7 +71,7 @@
      "align": "left",
      "position": "left",
      "widthRatio": 0.52,
-     "top": 244,
+     "top": 396,
      "tag": "h1",
      "kind": "heading"
     },
@@ -99,7 +100,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.52,
-      "top": 244,
+      "top": 396,
       "tag": "h1",
       "kind": "heading"
      },
@@ -120,7 +121,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.36,
-      "top": 983,
+      "top": 1135,
       "tag": "b",
       "kind": "statement"
      },
@@ -141,7 +142,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.2,
-      "top": 1298,
+      "top": 1450,
       "tag": "p",
       "kind": "statement"
      },
@@ -162,7 +163,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.2,
-      "top": 1298,
+      "top": 1450,
       "tag": "p",
       "kind": "statement"
      },
@@ -183,7 +184,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.2,
-      "top": 1298,
+      "top": 1450,
       "tag": "p",
       "kind": "statement"
      },
@@ -204,7 +205,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.2,
-      "top": 1298,
+      "top": 1450,
       "tag": "p",
       "kind": "statement"
      },
@@ -225,7 +226,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 1565,
+      "top": 1717,
       "tag": "h2",
       "kind": "heading"
      },
@@ -246,7 +247,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 1738,
+      "top": 1890,
       "tag": "h2",
       "kind": "heading"
      },
@@ -267,7 +268,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 1910,
+      "top": 2091,
       "tag": "h2",
       "kind": "heading"
      },
@@ -288,7 +289,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 2148,
+      "top": 2415,
       "tag": "h2",
       "kind": "heading"
      },
@@ -309,7 +310,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.29,
-      "top": 2321,
+      "top": 2617,
       "tag": "h2",
       "kind": "heading"
      },
@@ -330,7 +331,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 2613,
+      "top": 2909,
       "tag": "span",
       "kind": "heading"
      }
@@ -372,7 +373,7 @@
       "tracking": 0,
       "contrast": 7.6
      },
-     "measureChars": 94,
+     "measureChars": 72,
      "max": {
       "size": 80,
       "vw": 5.6,
@@ -403,7 +404,7 @@
      "sectionBgs": [
       {
        "color": "#131c2e",
-       "top": 2522,
+       "top": 2818,
        "hsl": {
         "h": 220,
         "s": 0.42,
@@ -418,7 +419,7 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.19
+       "share": 0.18
       },
       {
        "color": "#c6f432",
@@ -469,7 +470,7 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 7,
+     "roundedBoxes": 8,
      "boxRadius": 14,
      "squareMedia": 0,
      "roundedMedia": 2,
@@ -480,7 +481,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.17
+      "ratio": 0.09
      }
     ],
     "nav": {
@@ -499,19 +500,19 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 3139,
+    "pageH": 3435,
     "margins": {
      "left": 60,
-     "right": 62
+     "right": 76
     },
     "sections": [
      {
       "sel": "section.wrap.case-hero",
       "tag": "section",
       "top": 80,
-      "height": 516,
-      "words": 48,
-      "media": 0,
+      "height": 668,
+      "words": 54,
+      "media": 1,
       "middle": 132,
       "heading": {
        "text": "Will this borrower default?",
@@ -531,7 +532,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 596,
+      "top": 748,
       "height": 662,
       "words": 32,
       "media": 1,
@@ -554,7 +555,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1258,
+      "top": 1410,
       "height": 162,
       "words": 11,
       "media": 0,
@@ -577,8 +578,8 @@
      {
       "sel": "div.wrap.case-body",
       "tag": "div",
-      "top": 1421,
-      "height": 958,
+      "top": 1573,
+      "height": 1102,
       "words": 226,
       "media": 0,
       "middle": 221,
@@ -588,9 +589,9 @@
        "tag": "h2"
       },
       "left": 60,
-      "right": 62,
+      "right": 245,
       "textLeft": 60,
-      "textRight": 62,
+      "textRight": 245,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -600,7 +601,7 @@
      {
       "sel": "section.wrap.section",
       "tag": "section",
-      "top": 2378,
+      "top": 2674,
       "height": 489,
       "words": 9,
       "media": 1,
@@ -623,7 +624,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3011,
+      "top": 3307,
       "height": 128,
       "words": 32,
       "media": 0,
@@ -645,7 +646,7 @@
      {
       "text": "Will this borrower default?",
       "size": 80,
-      "top": 244,
+      "top": 396,
       "firstScreen": true
      }
     ],
@@ -665,12 +666,12 @@
     "stage": false,
     "explains": true,
     "slivers": [],
-    "voidShare": 0.11,
+    "voidShare": 0.17,
     "voidBox": {
-     "x": 1140,
-     "y": 360,
-     "w": 300,
-     "h": 480
+     "x": 0,
+     "y": 120,
+     "w": 900,
+     "h": 240
     }
    },
    "app": null,
@@ -682,10 +683,10 @@
    "load": "load",
    "screens": 4,
    "filled": [
-    0.69,
-    0.7,
-    0.61,
-    0.58
+    0.76,
+    0.76,
+    0.31,
+    0.57
    ],
    "motion": {
     "elements": 17,
@@ -701,10 +702,10 @@
      "h": 1024
     },
     "page": {
-     "height": 3895,
-     "screens": 3.8,
-     "words": 356,
-     "img": 2,
+     "height": 4047,
+     "screens": 4,
+     "words": 362,
+     "img": 3,
      "video": 0,
      "canvas": 0,
      "svg": 0,
@@ -713,10 +714,11 @@
      "overflowCulprits": [],
      "uiFragments": 2,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=828&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=828&q=7"
      ],
@@ -793,7 +795,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.86,
-      "top": 1493,
+      "top": 1645,
       "tag": "b",
       "kind": "statement"
      },
@@ -814,7 +816,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1768,
+      "top": 1920,
       "tag": "p",
       "kind": "statement"
      },
@@ -835,7 +837,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.41,
-      "top": 1768,
+      "top": 1920,
       "tag": "p",
       "kind": "statement"
      },
@@ -856,7 +858,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.41,
-      "top": 1860,
+      "top": 2012,
       "tag": "p",
       "kind": "statement"
      },
@@ -877,7 +879,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.41,
-      "top": 1860,
+      "top": 2012,
       "tag": "p",
       "kind": "statement"
      },
@@ -898,7 +900,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2047,
+      "top": 2199,
       "tag": "h2",
       "kind": "heading"
      },
@@ -919,7 +921,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2227,
+      "top": 2379,
       "tag": "h2",
       "kind": "heading"
      },
@@ -940,7 +942,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2436,
+      "top": 2588,
       "tag": "h2",
       "kind": "heading"
      },
@@ -961,7 +963,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2767,
+      "top": 2919,
       "tag": "h2",
       "kind": "heading"
      },
@@ -982,7 +984,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2976,
+      "top": 3128,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1003,7 +1005,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.84,
-      "top": 3206,
+      "top": 3358,
       "tag": "span",
       "kind": "heading"
      }
@@ -1045,7 +1047,7 @@
       "tracking": 0,
       "contrast": 7.6
      },
-     "measureChars": 79,
+     "measureChars": 72,
      "max": {
       "size": 53.1,
       "vw": 6.9,
@@ -1076,7 +1078,7 @@
      "sectionBgs": [
       {
        "color": "#131c2e",
-       "top": 688,
+       "top": 326,
        "hsl": {
         "h": 220,
         "s": 0.42,
@@ -1091,7 +1093,7 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.19
+       "share": 0.18
       },
       {
        "color": "#c6f432",
@@ -1141,7 +1143,7 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 7,
+     "roundedBoxes": 8,
      "boxRadius": 14,
      "squareMedia": 0,
      "roundedMedia": 2,
@@ -1152,7 +1154,7 @@
     "heroMedia": [
      {
       "type": "img",
-      "ratio": 0.3
+      "ratio": 0.17
      }
     ],
     "nav": {
@@ -1171,7 +1173,7 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 3895,
+    "pageH": 4047,
     "margins": {
      "left": 31,
      "right": 31
@@ -1181,9 +1183,9 @@
       "sel": "section.wrap.case-hero",
       "tag": "section",
       "top": 80,
-      "height": 608,
-      "words": 48,
-      "media": 0,
+      "height": 760,
+      "words": 54,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Will this borrower default?",
@@ -1203,7 +1205,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 688,
+      "top": 840,
       "height": 1056,
       "words": 32,
       "media": 1,
@@ -1222,7 +1224,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1744,
+      "top": 1896,
       "height": 207,
       "words": 11,
       "media": 0,
@@ -1245,7 +1247,7 @@
      {
       "sel": "div.wrap.case-body",
       "tag": "div",
-      "top": 1951,
+      "top": 2103,
       "height": 1127,
       "words": 226,
       "media": 0,
@@ -1256,9 +1258,9 @@
        "tag": "h2"
       },
       "left": 31,
-      "right": 34,
+      "right": 74,
       "textLeft": 31,
-      "textRight": 34,
+      "textRight": 74,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -1268,7 +1270,7 @@
      {
       "sel": "section.wrap.section",
       "tag": "section",
-      "top": 3079,
+      "top": 3231,
       "height": 544,
       "words": 9,
       "media": 1,
@@ -1291,7 +1293,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3719,
+      "top": 3871,
       "height": 176,
       "words": 32,
       "media": 0,
@@ -1341,11 +1343,11 @@
    "load": "load",
    "screens": 6,
    "filled": [
-    0.7,
-    0.81,
-    0.71,
-    0.67,
-    0.49,
+    0.76,
+    0.82,
+    0.64,
+    0.63,
+    0.58,
     0.51
    ],
    "motion": {
@@ -1362,10 +1364,10 @@
      "h": 844
     },
     "page": {
-     "height": 4370,
-     "screens": 5.2,
-     "words": 354,
-     "img": 2,
+     "height": 4522,
+     "screens": 5.4,
+     "words": 360,
+     "img": 3,
      "video": 0,
      "canvas": 0,
      "svg": 0,
@@ -1374,10 +1376,11 @@
      "overflowCulprits": [],
      "uiFragments": 2,
      "uiAbuse": false,
-     "realPictures": 2,
+     "realPictures": 3,
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
+      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Floan-app.png&w=640&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7"
      ],
@@ -1454,7 +1457,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.81,
-      "top": 1580,
+      "top": 1732,
       "tag": "b",
       "kind": "statement"
      },
@@ -1475,7 +1478,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1855,
+      "top": 2007,
       "tag": "p",
       "kind": "statement"
      },
@@ -1496,7 +1499,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.37,
-      "top": 1855,
+      "top": 2007,
       "tag": "p",
       "kind": "statement"
      },
@@ -1517,7 +1520,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.37,
-      "top": 1941,
+      "top": 2093,
       "tag": "p",
       "kind": "statement"
      },
@@ -1538,7 +1541,7 @@
       "align": "left",
       "position": "right",
       "widthRatio": 0.37,
-      "top": 1941,
+      "top": 2093,
       "tag": "p",
       "kind": "statement"
      },
@@ -1559,7 +1562,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2123,
+      "top": 2275,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1580,7 +1583,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2386,
+      "top": 2538,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1601,7 +1604,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2678,
+      "top": 2830,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1622,7 +1625,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 3122,
+      "top": 3274,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1643,7 +1646,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 3442,
+      "top": 3594,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1664,7 +1667,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.79,
-      "top": 3720,
+      "top": 3872,
       "tag": "span",
       "kind": "heading"
      }
@@ -1752,7 +1755,7 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.19
+       "share": 0.18
       },
       {
        "color": "#c6f432",
@@ -1802,7 +1805,7 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 7,
+     "roundedBoxes": 8,
      "boxRadius": 14,
      "squareMedia": 0,
      "roundedMedia": 1,
@@ -1827,7 +1830,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 4370,
+    "pageH": 4522,
     "margins": {
      "left": 16,
      "right": 18
@@ -1837,9 +1840,9 @@
       "sel": "section.wrap.case-hero",
       "tag": "section",
       "top": 80,
-      "height": 724,
-      "words": 48,
-      "media": 0,
+      "height": 876,
+      "words": 54,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "Will this borrower default?",
@@ -1859,7 +1862,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 804,
+      "top": 956,
       "height": 1027,
       "words": 32,
       "media": 1,
@@ -1878,7 +1881,7 @@
      {
       "sel": "section.wrap",
       "tag": "section",
-      "top": 1831,
+      "top": 1983,
       "height": 196,
       "words": 11,
       "media": 0,
@@ -1901,7 +1904,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2123,
+      "top": 2275,
       "height": 215,
       "words": 39,
       "media": 0,
@@ -1920,7 +1923,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2386,
+      "top": 2538,
       "height": 244,
       "words": 46,
       "media": 0,
@@ -1939,7 +1942,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 2678,
+      "top": 2830,
       "height": 395,
       "words": 59,
       "media": 0,
@@ -1958,7 +1961,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 3122,
+      "top": 3274,
       "height": 273,
       "words": 49,
       "media": 0,
@@ -1977,7 +1980,7 @@
      {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 3442,
+      "top": 3594,
       "height": 158,
       "words": 25,
       "media": 0,
@@ -1996,7 +1999,7 @@
      {
       "sel": "section.wrap.section",
       "tag": "section",
-      "top": 3600,
+      "top": 3752,
       "height": 418,
       "words": 9,
       "media": 1,
@@ -2019,7 +2022,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4114,
+      "top": 4266,
       "height": 256,
       "words": 32,
       "media": 0,
@@ -2074,17 +2077,17 @@
   },
   {
    "level": "WARN",
-   "id": "measure",
-   "width": 1440,
-   "message": "Longest paragraph runs about 94 characters per line.",
-   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch)."
-  },
-  {
-   "level": "WARN",
    "id": "font-not-dealt",
    "width": 1440,
    "message": "The sheet dealt STIX Two Text and STIX Two Text, but the page renders Hanken Grotesk.",
    "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 60px on the left, 76px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
   }
  ],
  "images": [

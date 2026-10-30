@@ -91,7 +91,7 @@ p { margin: 0; }
 .lead b { color: var(--ink); font-weight: 600; }
 .hero-portrait { position: relative; border-radius: var(--r); overflow: clip; background: #eeb778; aspect-ratio: 4 / 5; }
 .hero-portrait img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%; }
-.hero-tag { position: absolute; left: 16px; bottom: 16px; padding: 10px 14px; border-radius: 10px; background: var(--bg); color: var(--ink); font-size: var(--s-small); font-weight: 600; }
+.hero-tag { position: absolute; z-index: 1; left: 16px; top: 16px; padding: 10px 14px; border-radius: 10px; background: var(--bg); color: var(--ink); font-size: var(--s-small); font-weight: 600; }
 
 /* Masked line reveal on titles */
 .lines .line { display: block; overflow: hidden; padding-bottom: .08em; margin-bottom: -.08em; }
@@ -312,4 +312,55 @@ p { margin: 0; }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
+}
+
+/* ---------- Motion layer (after Davide Perozzi's portfolio: trailing cursor, drifting giant words, active nav mark, page curtain) ---------- */
+
+/* Cursor: a lime ring that trails the pointer and a dot that sits on it; mouse devices only */
+.cursor-ring, .cursor-dot { position: fixed; top: 0; left: 0; z-index: 100; pointer-events: none; display: none; }
+.has-cursor .cursor-ring, .has-cursor .cursor-dot { display: block; }
+.cursor-ring { width: 40px; height: 40px; margin: -20px 0 0 -20px; border: 1.5px solid var(--accent); border-radius: 50%; transition: width .25s var(--ease-out), height .25s var(--ease-out), margin .25s var(--ease-out), background-color .25s; }
+.cursor-ring.is-hot { width: 64px; height: 64px; margin: -32px 0 0 -32px; background: color-mix(in srgb, var(--accent) 18%, transparent); }
+.cursor-ring.is-down { width: 28px; height: 28px; margin: -14px 0 0 -14px; }
+.cursor-dot { width: 6px; height: 6px; margin: -3px 0 0 -3px; border-radius: 50%; background: var(--accent); }
+.has-cursor, .has-cursor a, .has-cursor button { cursor: none; }
+.has-cursor input { cursor: text; }
+
+/* Giant words that slide sideways with the scroll, in opposite directions, and lean with its speed */
+.drift-band { overflow: clip; padding: clamp(24px, 4vw, 56px) 0 clamp(40px, 5vw, 72px); }
+.drift-line {
+  font-size: clamp(4rem, 2rem + 9vw, 11rem); font-weight: 800; line-height: .95; letter-spacing: -0.04em;
+  white-space: nowrap; color: var(--accent-text); will-change: transform;
+}
+.drift-line.outline { color: transparent; -webkit-text-stroke: 2px var(--ink); margin-left: -60%; }
+
+/* Parallax pictures sit a little larger than their frame so the drift never shows an edge */
+.hero-portrait img[data-speed], .city-frame img[data-speed] { scale: 1.22; will-change: transform; }
+.city-frame { border-radius: var(--r); overflow: clip; }
+.city-frame img { border-radius: 0; }
+
+/* The nav marks the section in view with a lime dash */
+.bar nav a { position: relative; }
+.bar nav a::before { content: ""; position: absolute; right: calc(100% + 8px); top: 50%; width: 0; height: 2px; background: var(--accent); transition: width .35s var(--ease-out); }
+.bar nav a.is-active { color: var(--ink); }
+.bar nav a.is-active::before { width: 14px; }
+
+/* Section titles arrive as outlines and fill in */
+@media (prefers-reduced-motion: no-preference) {
+  .js .section-head.reveal > h2 { color: transparent; -webkit-text-stroke: 1.5px var(--ink); transition: opacity .7s var(--ease-out), transform .7s var(--ease-out), color .9s ease .4s; }
+  .js .section-head.reveal.in > h2 { color: var(--ink); }
+}
+
+/* Page curtain: a lime sheet sweeps up off each page as it arrives */
+.curtain { position: fixed; inset: 0; z-index: 90; background: var(--accent); transform: translateY(-100%); pointer-events: none; }
+@media (prefers-reduced-motion: no-preference) {
+  .curtain { animation: curtain-off .9s cubic-bezier(.76, 0, .24, 1) both; }
+  .page-in { animation: page-in .9s var(--ease-out) .25s both; }
+}
+@keyframes curtain-off { from { transform: translateY(0); } to { transform: translateY(-100%); } }
+@keyframes page-in { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: none; } }
+
+@media (max-width: 640px) {
+  .drift-line { font-size: 4.5rem; }
+  .drift-line.outline { -webkit-text-stroke-width: 1.5px; }
 }

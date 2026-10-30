@@ -68,10 +68,15 @@ export default function Home() {
             </div>
           </div>
           <div className="hero-portrait">
-            <Image src="/kolade.webp" alt="Kolade Ogunleye in a navy waistcoat against an apricot backdrop" width={900} height={955} sizes="(max-width: 900px) 100vw, 40vw" priority />
+            <Image data-speed="0.07" src="/kolade.webp" alt="Kolade Ogunleye in a navy waistcoat against an apricot backdrop" width={900} height={955} sizes="(max-width: 900px) 100vw, 40vw" priority />
             <p className="hero-tag">Open to data roles · First Class B.Eng.</p>
           </div>
         </section>
+
+        <div className="drift-band" aria-hidden="true">
+          <p className="drift-line" data-drift="1">Data analyst · Data analyst · Data analyst · Data analyst ·</p>
+          <p className="drift-line outline" data-drift="-1">Data scientist · Data scientist · Data scientist · Data scientist ·</p>
+        </div>
 
         <section className="wrap" aria-labelledby="numbers-title">
           <h2 id="numbers-title" className="sr-only">In numbers</h2>
@@ -160,7 +165,9 @@ export default function Home() {
               ))}
             </Reveal>
             <Reveal className="city" delay={120}>
-              <Image src="/place/bank-road.jpg" alt="Bank Road, Port Harcourt: the Rivers State Secretariat blocks behind a palm, cars on the road under a bright sky" width={1920} height={985} sizes="(max-width: 900px) 100vw, 45vw" />
+              <div className="city-frame">
+              <Image data-speed="0.1" src="/place/bank-road.jpg" alt="Bank Road, Port Harcourt: the Rivers State Secretariat blocks behind a palm, cars on the road under a bright sky" width={1920} height={985} sizes="(max-width: 900px) 100vw, 45vw" />
+              </div>
               <p>Bank Road, Port Harcourt, the city I work from.</p>
             </Reveal>
           </div>
