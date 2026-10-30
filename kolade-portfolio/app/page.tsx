@@ -1,7 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
+import Nav from "./Nav";
 import { RecallGrid, Reveal } from "./components";
-import { LoanTable, SheetVisual } from "./Visual";
+import { LoanTable } from "./Visual";
 import { email, projects, socials } from "./data";
 
 const services = [
@@ -27,167 +28,166 @@ const experience = [
   { when: "Degree", title: "B.Eng. Mechanical Engineering, First Class", org: "Adeleke University", text: "Statistics, physics and modelling foundations, later applied to projects like pipeline maintenance prediction." },
 ];
 
-/* The small picture beside each project's title: a second view of the same work */
-function ProjectAside({ visual }: { visual: "taxi" | "loan" | "sheet" }) {
-  if (visual === "taxi")
-    return <Image className="aside-shot" src="/taxi-3.webp" alt="Drivers page of the report: 2,000 drivers, 8.03 minute average pickup delay, 4.48 rating" width={860} height={482} sizes="(max-width: 900px) 70vw, 400px" />;
-  if (visual === "loan") return <LoanTable />;
-  return (
-    <dl className="aside-figures">
-      <div><dt>Linked sheets and forms</dt><dd>8</dd></div>
-      <div><dt>Source of truth</dt><dd>1</dd></div>
-      <div><dt>Licence cost</dt><dd>0</dd></div>
-    </dl>
-  );
-}
+const headline = [
+  { value: "112K", label: "rows cleaned and modelled in one report" },
+  { value: "88.7%", label: "test accuracy on the loan default model" },
+  { value: "410K", label: "in unpaid fares found by the taxi analysis" },
+  { value: "3", label: "end-to-end case studies" },
+];
 
-function ProjectMain({ visual }: { visual: "taxi" | "loan" | "sheet" }) {
-  if (visual === "taxi")
-    return <Image src="/taxi-1.webp" alt="Overview page of the taxi report: 50K rides, 2.04M total fare, 1.63M paid, fares by month, top routes and cancellations by city" width={860} height={482} sizes="(max-width: 900px) 100vw, 60vw" />;
+/* The picture or working fragment each project leads with */
+function ProjectMedia({ visual }: { visual: "taxi" | "loan" | "sheet" }) {
+  const p = projects.find((x) => x.visual === visual)!;
   if (visual === "loan") return <RecallGrid />;
-  return <SheetVisual />;
+  return (
+    <div className="shot">
+      <Image src={p.cover.src} alt={p.cover.alt} width={p.cover.width} height={p.cover.height} sizes="(max-width: 900px) 100vw, 60vw" />
+    </div>
+  );
 }
 
 export default function Home() {
   const taxi = projects[0];
   return (
-    <main id="top">
-      <section className="hero">
-        <div className="hero-portrait">
-          <Image src="/kolade.webp" alt="Kolade Ogunleye in a navy waistcoat against an apricot backdrop" width={900} height={955} sizes="(max-width: 720px) 100vw, 40vw" priority />
-        </div>
-        <h1 className="name lines" aria-label="Kolade Ogunleye">
-          <span className="line"><span data-line style={{ ["--i" as string]: 0 } as React.CSSProperties}>Kolade</span></span>
-          <span className="line second"><span data-line style={{ ["--i" as string]: 1 } as React.CSSProperties}>Ogunleye</span></span>
-        </h1>
-        <div className="hero-foot">
-          <p className="hero-lead">
-            Data analyst and data scientist in Port Harcourt, Nigeria. I use SQL, Python, Excel and Power BI to turn raw tables
-            into decisions, and build predictive models when the question calls for one.
-          </p>
-          <div className="hero-actions">
-            <a className="btn" href={`mailto:${email}`}>Email me</a>
-            <a className="text-link" href="#work">See the work</a>
+    <>
+      <Nav />
+      <main id="top">
+        <section className="hero wrap">
+          <div className="hero-text">
+            <h1 className="lines">
+              <span className="line"><span data-line style={{ ["--i" as string]: 0 } as React.CSSProperties}>Kolade</span></span>
+              <span className="line"><span data-line style={{ ["--i" as string]: 1 } as React.CSSProperties}>Ogunleye</span></span>
+            </h1>
+            <p className="lead">
+              Data analyst and data scientist in Port Harcourt, Nigeria. I use SQL, Python, Excel and Power BI to turn raw tables
+              into decisions, and build predictive models when the question calls for one.
+            </p>
+            <div className="actions">
+              <a className="btn" href={`mailto:${email}`}>Email me</a>
+              <a className="text-link" href="#work">See the work</a>
+            </div>
           </div>
-        </div>
-      </section>
+          <div className="hero-portrait">
+            <Image src="/kolade.webp" alt="Kolade Ogunleye in a navy waistcoat against an apricot backdrop" width={900} height={955} sizes="(max-width: 900px) 100vw, 40vw" priority />
+            <p className="hero-tag">Open to data roles · First Class B.Eng.</p>
+          </div>
+        </section>
 
-      <section className="showcase alt" aria-labelledby="gap-title">
-        <Reveal className="showcase-head">
-          <h2 id="gap-title">{taxi.tagline}</h2>
-          <p>
-            A ride-hailing company billed 2.04M in fares and received 1.63M. I cleaned {taxi.stats[0].value} rows across four tables,
-            modelled them in DAX and built the Power BI report that found the gap: roughly a fifth of fares never reached the account.
-          </p>
-        </Reveal>
-        <Reveal className="specimens">
-          <figure><p className="specimen">2.04M</p><figcaption>Fares billed</figcaption></figure>
-          <figure><p className="specimen">1.63M</p><figcaption>Actually paid</figcaption></figure>
-        </Reveal>
-      </section>
+        <section className="wrap" aria-labelledby="numbers-title">
+          <h2 id="numbers-title" className="sr-only">In numbers</h2>
+          <Reveal className="stats">
+            {headline.map((s) => (
+              <div key={s.label} className="stat"><p className="stat-value">{s.value}</p><p className="stat-label">{s.label}</p></div>
+            ))}
+          </Reveal>
+        </section>
 
-      <section id="work" className="work">
-        <Reveal className="work-head">
-          <h2>Selected work</h2>
-          <p>Real datasets, real questions. Open any project for the full case study.</p>
-        </Reveal>
+        <section className="wrap gap-section" aria-labelledby="gap-title">
+          <Reveal className="gap-text">
+            <h2 id="gap-title">{taxi.tagline}</h2>
+            <p>
+              A ride-hailing company billed 2.04M in fares and received 1.63M. I cleaned {taxi.stats[0].value} rows across four tables,
+              modelled them in DAX and built the Power BI report that found the gap: roughly a fifth of fares never reached the account.
+            </p>
+            <Link className="text-link" href={`/projects/${taxi.slug}`}>Read the taxi case study</Link>
+          </Reveal>
+          <Reveal className="gap-chart" delay={120}>
+            <div className="meter-row">
+              <div className="meter-head"><span>Fares billed</span><b>2.04M</b></div>
+              <div className="meter"><i style={{ width: "100%" }} /></div>
+            </div>
+            <div className="meter-row">
+              <div className="meter-head"><span>Actually paid</span><b className="hl">1.63M</b></div>
+              <div className="meter"><i className="paid" style={{ width: "80%" }} /></div>
+            </div>
+            <p className="gap-note"><b className="hl">0.41M</b> missing, about 20% of everything billed.</p>
+          </Reveal>
+        </section>
 
-        {projects.map((p) => (
-          <article key={p.slug} className={`proj proj-${p.visual}`}>
-            <Reveal className="proj-main">
-              <ProjectMain visual={p.visual} />
-            </Reveal>
-            <Reveal className="proj-cluster" delay={120}>
-              <ProjectAside visual={p.visual} />
-              <div className="proj-text">
+        <section id="work" className="wrap section">
+          <Reveal className="section-head">
+            <h2>Selected work</h2>
+            <p>Real datasets, real questions. Open any project for the full case study.</p>
+          </Reveal>
+          {projects.map((p, i) => (
+            <article key={p.slug} className={`project${i % 2 ? " flip" : ""}`}>
+              <Reveal className="project-media"><ProjectMedia visual={p.visual} /></Reveal>
+              <Reveal className="project-text" delay={100}>
                 <h3><Link href={`/projects/${p.slug}`}>{p.title}</Link></h3>
-                <div>
-                  <p className="proj-q">{p.tagline}</p>
-                  <p>{p.summary}</p>
-                  <p className="proj-stack">{p.stack.join(", ")}</p>
-                  <Link className="text-link" href={`/projects/${p.slug}`}>Read the case study</Link>
-                </div>
-              </div>
-            </Reveal>
-          </article>
-        ))}
-      </section>
+                <p className="project-q">{p.tagline}</p>
+                <p>{p.summary}</p>
+                {p.visual === "loan" && <LoanTable />}
+                <ul className="tags">{p.stack.map((t) => <li key={t}>{t}</li>)}</ul>
+                <Link className="btn btn-ghost" href={`/projects/${p.slug}`}>Read the case study</Link>
+              </Reveal>
+            </article>
+          ))}
+        </section>
 
-      <section id="services" className="services accent">
-        <Reveal as="div" className="cap-list">
-          <div className="cap-row cap-head">
+        <section id="services" className="wrap section">
+          <Reveal className="section-head">
             <h2>What I do</h2>
             <p>From the first messy CSV to the slide a manager acts on.</p>
+          </Reveal>
+          <Reveal className="services">
+            {services.map((s) => <div key={s.title} className="service"><h3>{s.title}</h3><p>{s.text}</p></div>)}
+          </Reveal>
+          <Reveal className="toolbox">
+            <h3>Toolbox</h3>
+            <dl>{skills.map((s) => <div key={s.area}><dt>{s.area}</dt><dd>{s.items}</dd></div>)}</dl>
+          </Reveal>
+        </section>
+
+        <section id="experience" className="wrap section">
+          <Reveal className="section-head">
+            <h2>Experience &amp; education</h2>
+            <p>
+              Engineering trained, data focused. A First Class mechanical engineering degree gave me statistics, physics and modelling;
+              a data science certificate and an internship pointed them at data.
+            </p>
+          </Reveal>
+          <div className="exp">
+            <Reveal className="entries">
+              {experience.map((e) => (
+                <div key={e.title} className="entry">
+                  <p className="entry-when">{e.when}</p>
+                  <div>
+                    <h3>{e.title}</h3>
+                    <p className="entry-org">{e.org}</p>
+                    <p>{e.text}</p>
+                  </div>
+                </div>
+              ))}
+            </Reveal>
+            <Reveal className="city" delay={120}>
+              <Image src="/place/bank-road.jpg" alt="Bank Road, Port Harcourt: the Rivers State Secretariat blocks behind a palm, cars on the road under a bright sky" width={1920} height={985} sizes="(max-width: 900px) 100vw, 45vw" />
+              <p>Bank Road, Port Harcourt, the city I work from.</p>
+            </Reveal>
           </div>
-          {services.map((s) => (
-            <div key={s.title} className="cap-row">
-              <h3>{s.title}</h3>
-              <p>{s.text}</p>
-            </div>
-          ))}
-        </Reveal>
-        <Reveal className="toolbox">
-          <h3>Toolbox</h3>
-          <dl>
-            {skills.map((s) => <div key={s.area}><dt>{s.area}</dt><dd>{s.items}</dd></div>)}
-          </dl>
-        </Reveal>
-      </section>
+        </section>
 
-      <section id="experience" className="about">
-        <Reveal className="about-head">
-          <h2>Experience &amp; education</h2>
-          <p>
-            Engineering trained, data focused. A First Class mechanical engineering degree gave me statistics, physics and modelling;
-            a data science certificate and an internship pointed them at data.
-          </p>
-        </Reveal>
-        <div className="about-tiles">
-          <Reveal className="place-tile">
-            <div className="place-frame">
-              <Image src="/place/bank-road.jpg" alt="Bank Road, Port Harcourt: the Rivers State Secretariat blocks in blue, red and ochre behind a palm, cars on the road under a bright sky" width={1920} height={985} sizes="(max-width: 900px) 100vw, 66vw" />
-            </div>
-            <p>Bank Road, Port Harcourt, the city I work from.</p>
+        <section id="contact" className="wrap section">
+          <Reveal className="contact">
+            <form className="contact-form" action={`mailto:${email}`} method="get">
+              <h2 id="contact-title">Let’s find what your data is hiding.</h2>
+              <p>Hiring, or need a dashboard built? Tell me about it in one line.</p>
+              <input type="hidden" name="subject" value="Data role or project" />
+              <div className="field">
+                <input name="body" type="text" aria-labelledby="contact-title" aria-describedby="contact-note" placeholder="We need a sales dashboard by March" autoComplete="off" />
+                <button type="submit" aria-label="Write the email">→</button>
+              </div>
+              <p id="contact-note" className="small">Opens your email app with this line, addressed to me.</p>
+            </form>
+            <dl className="contact-rows">
+              <div><dt>Email</dt><dd><a href={`mailto:${email}`}>{email}</a></dd></div>
+              <div><dt>Based in</dt><dd>Port Harcourt, Nigeria</dd></div>
+              {socials.map((s) => (
+                <div key={s.label}><dt>{s.label}</dt><dd><a href={s.href} target="_blank" rel="noreferrer">{s.href.replace(/^https:\/\/(www\.)?/, "")}</a></dd></div>
+              ))}
+            </dl>
           </Reveal>
-          <Reveal className="open-tile accent" delay={120}>
-            <p className="open-text">Open to data analyst and data scientist roles, plus freelance dashboard and analysis work.</p>
-            <a className="btn btn-dark" href={`mailto:${email}`}>Email me</a>
-          </Reveal>
-        </div>
-        <Reveal className="entries">
-          {experience.map((e) => (
-            <div key={e.title} className="entry">
-              <p className="entry-when">{e.when}</p>
-              <h3>{e.title}</h3>
-              <p className="entry-org">{e.org}</p>
-              <p>{e.text}</p>
-            </div>
-          ))}
-        </Reveal>
-      </section>
-
-      <section id="contact" className="contact alt">
-        <Reveal className="contact-form-wrap">
-          <form className="contact-form" action={`mailto:${email}`} method="get">
-            <h2 id="contact-title"><span>Let’s find what your data is hiding.</span> Tell me about the role or project.</h2>
-            <input type="hidden" name="subject" value="Data role or project" />
-            <div className="field">
-              <input name="body" type="text" aria-labelledby="contact-title" aria-describedby="contact-note" placeholder="We need a sales dashboard by March" autoComplete="off" />
-              <button type="submit" aria-label="Write the email">→</button>
-            </div>
-            <p id="contact-note" className="note">Opens your email app with this line, addressed to me.</p>
-          </form>
-        </Reveal>
-        <Reveal className="contact-rows" delay={120}>
-          <dl>
-            <div><dt>Email</dt><dd><a href={`mailto:${email}`}>{email}</a></dd></div>
-            <div><dt>Based in</dt><dd>Port Harcourt, Nigeria</dd></div>
-            {socials.map((s) => (
-              <div key={s.label}><dt>{s.label}</dt><dd><a href={s.href} target="_blank" rel="noreferrer">{s.href.replace(/^https:\/\/(www\.)?/, "")}</a></dd></div>
-            ))}
-          </dl>
-        </Reveal>
-      </section>
-    </main>
+        </section>
+      </main>
+    </>
   );
 }

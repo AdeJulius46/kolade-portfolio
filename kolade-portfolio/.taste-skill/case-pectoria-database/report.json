@@ -1,24 +1,22 @@
 {
  "url": "http://localhost:3123/projects/pectoria-database",
- "at": "2026-10-28T08:38:05.455Z",
+ "at": "2026-10-30T19:35:05.403Z",
  "allow": [],
  "viewports": [
   {
    "width": 1440,
    "height": 900,
    "load": "load",
-   "screens": 6,
+   "screens": 4,
    "filled": [
-    0.38,
-    0.69,
-    0.41,
-    0.24,
-    0.83,
-    0.59
+    0.59,
+    0.37,
+    0.55,
+    0.5
    ],
    "motion": {
-    "elements": 15,
-    "css": 4,
+    "elements": 12,
+    "css": 1,
     "transitions": 11,
     "scripted": 0,
     "videos": 0,
@@ -30,24 +28,23 @@
      "h": 900
     },
     "page": {
-     "height": 4932,
-     "screens": 5.5,
-     "words": 360,
-     "img": 3,
+     "height": 2902,
+     "screens": 3.2,
+     "words": 341,
+     "img": 2,
      "video": 0,
      "canvas": 0,
      "svg": 0,
-     "sections": 6,
+     "sections": 7,
      "horizontalOverflow": 0,
      "overflowCulprits": [],
      "uiFragments": 1,
      "uiAbuse": false,
-     "realPictures": 3,
+     "realPictures": 2,
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=256&q=75",
-      "image?url=%2Fwork%2Fpectoria-drive.png&w=1200&q=",
+      "image?url=%2Fwork%2Fpectoria-drive.png&w=1080&q=",
       "image?url=%2Ftaxi-1.webp&w=640&q=75"
      ],
      "blendText": 0,
@@ -61,19 +58,19 @@
      "words": 5,
      "chars": 34,
      "lines": 2,
-     "size": 108.2,
-     "vw": 7.5,
-     "font": "Sentient",
-     "weight": 300,
-     "tracking": -0.03,
-     "leading": 0.95,
+     "size": 80,
+     "vw": 5.6,
+     "font": "Hanken Grotesk",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 1,
      "upper": false,
      "italic": false,
      "mono": false,
      "align": "left",
      "position": "left",
-     "widthRatio": 0.69,
-     "top": 140,
+     "widthRatio": 0.52,
+     "top": 200,
      "tag": "h1",
      "kind": "heading"
     },
@@ -81,8 +78,8 @@
      "text": "A database without buying software",
      "words": 5,
      "lines": 2,
-     "size": 108.2,
-     "font": "Sentient"
+     "size": 80,
+     "font": "Hanken Grotesk"
     },
     "headings": [
      {
@@ -90,41 +87,20 @@
       "words": 5,
       "chars": 34,
       "lines": 2,
-      "size": 108.2,
-      "vw": 7.5,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.03,
-      "leading": 0.95,
+      "size": 80,
+      "vw": 5.6,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "left",
-      "widthRatio": 0.69,
-      "top": 140,
+      "widthRatio": 0.52,
+      "top": 200,
       "tag": "h1",
-      "kind": "heading"
-     },
-     {
-      "text": "The real thing",
-      "words": 3,
-      "chars": 14,
-      "lines": 1,
-      "size": 44,
-      "vw": 3.1,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
-      "upper": false,
-      "italic": false,
-      "mono": false,
-      "align": "left",
-      "position": "center",
-      "widthRatio": 0.96,
-      "top": 1412,
-      "tag": "h2",
       "kind": "heading"
      },
      {
@@ -132,10 +108,10 @@
       "words": 1,
       "chars": 1,
       "lines": 1,
-      "size": 71,
-      "vw": 4.9,
-      "font": "Sentient",
-      "weight": 400,
+      "size": 52.5,
+      "vw": 3.6,
+      "font": "Hanken Grotesk",
+      "weight": 600,
       "tracking": -0.03,
       "leading": 1,
       "upper": false,
@@ -143,9 +119,9 @@
       "mono": false,
       "align": "left",
       "position": "left",
-      "widthRatio": 0.31,
-      "top": 2430,
-      "tag": "dd",
+      "widthRatio": 0.27,
+      "top": 1199,
+      "tag": "p",
       "kind": "statement"
      },
      {
@@ -153,10 +129,10 @@
       "words": 1,
       "chars": 1,
       "lines": 1,
-      "size": 71,
-      "vw": 4.9,
-      "font": "Sentient",
-      "weight": 400,
+      "size": 52.5,
+      "vw": 3.6,
+      "font": "Hanken Grotesk",
+      "weight": 600,
       "tracking": -0.03,
       "leading": 1,
       "upper": false,
@@ -164,9 +140,9 @@
       "mono": false,
       "align": "left",
       "position": "center",
-      "widthRatio": 0.31,
-      "top": 2430,
-      "tag": "dd",
+      "widthRatio": 0.27,
+      "top": 1199,
+      "tag": "p",
       "kind": "statement"
      },
      {
@@ -174,10 +150,10 @@
       "words": 1,
       "chars": 1,
       "lines": 1,
-      "size": 71,
-      "vw": 4.9,
-      "font": "Sentient",
-      "weight": 400,
+      "size": 52.5,
+      "vw": 3.6,
+      "font": "Hanken Grotesk",
+      "weight": 600,
       "tracking": -0.03,
       "leading": 1,
       "upper": false,
@@ -185,9 +161,9 @@
       "mono": false,
       "align": "left",
       "position": "right",
-      "widthRatio": 0.31,
-      "top": 2430,
-      "tag": "dd",
+      "widthRatio": 0.27,
+      "top": 1199,
+      "tag": "p",
       "kind": "statement"
      },
      {
@@ -195,19 +171,19 @@
       "words": 2,
       "chars": 9,
       "lines": 1,
-      "size": 44,
-      "vw": 3.1,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 34.9,
+      "vw": 2.4,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "left",
-      "widthRatio": 0.31,
-      "top": 2698,
+      "widthRatio": 0.29,
+      "top": 1465,
       "tag": "h2",
       "kind": "heading"
      },
@@ -216,19 +192,19 @@
       "words": 3,
       "chars": 12,
       "lines": 1,
-      "size": 44,
-      "vw": 3.1,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 34.9,
+      "vw": 2.4,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "left",
-      "widthRatio": 0.31,
-      "top": 2877,
+      "widthRatio": 0.29,
+      "top": 1609,
       "tag": "h2",
       "kind": "heading"
      },
@@ -237,19 +213,19 @@
       "words": 4,
       "chars": 13,
       "lines": 1,
-      "size": 44,
-      "vw": 3.1,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 34.9,
+      "vw": 2.4,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "left",
-      "widthRatio": 0.31,
-      "top": 3144,
+      "widthRatio": 0.29,
+      "top": 1806,
       "tag": "h2",
       "kind": "heading"
      },
@@ -258,49 +234,28 @@
       "words": 5,
       "chars": 37,
       "lines": 2,
-      "size": 71,
-      "vw": 4.9,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.025,
-      "leading": 1.02,
+      "size": 52.5,
+      "vw": 3.6,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
-      "position": "center",
-      "widthRatio": 1,
-      "top": 3632,
-      "tag": "a",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 2332,
+      "tag": "span",
       "kind": "heading"
-     },
-     {
-      "text": "Kolade Ogunleye",
-      "words": 2,
-      "chars": 15,
-      "lines": 1,
-      "size": 158.4,
-      "vw": 11,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.04,
-      "leading": 0.9,
-      "upper": false,
-      "italic": false,
-      "mono": false,
-      "align": "left",
-      "position": "center",
-      "widthRatio": 0.96,
-      "top": 4765,
-      "tag": "p",
-      "kind": "statement"
      }
     ],
     "headingSummary": {
-     "count": 10,
+     "count": 8,
      "maxLines": 2,
      "over2Lines": 0,
-     "statements": 4,
+     "statements": 3,
      "centered": 0,
      "medianWords": 2,
      "mixedFontHeadings": 0
@@ -308,42 +263,42 @@
     "type": {
      "families": [
       {
-       "family": "Sentient",
-       "share": 0.78,
+       "family": "Hanken Grotesk",
+       "share": 0.76,
        "mono": false
       },
       {
        "family": "Arial",
-       "share": 0.22,
+       "share": 0.24,
        "mono": false
       }
      ],
      "familyCount": 2,
      "sizes": [
       15,
-      20,
-      26,
-      44,
-      71,
-      108,
-      158
+      16,
+      18,
+      23,
+      35,
+      53,
+      80
      ],
      "sizeCount": 7,
      "notLoaded": [],
      "body": {
-      "font": "Sentient",
-      "size": 19.6,
-      "leading": 1.55,
+      "font": "Hanken Grotesk",
+      "size": 18,
+      "leading": 1.6,
       "weight": 400,
       "tracking": 0,
-      "contrast": 13.8
+      "contrast": 7.6
      },
-     "measureChars": 78,
+     "measureChars": 94,
      "max": {
-      "size": 158.4,
-      "vw": 11,
-      "font": "Sentient",
-      "text": "Kolade Ogunleye"
+      "size": 80,
+      "vw": 5.6,
+      "font": "Hanken Grotesk",
+      "text": "A database without buying software"
      },
      "monoShare": 0,
      "monoProseShare": 0,
@@ -359,76 +314,68 @@
     "eyebrows": [],
     "numbered": [],
     "color": {
-     "bodyBg": "#18203a",
+     "bodyBg": "#0b1220",
      "bodyBgHsl": {
-      "h": 226,
-      "s": 0.41,
-      "l": 0.16
+      "h": 220,
+      "s": 0.49,
+      "l": 0.08
      },
      "dark": true,
      "sectionBgs": [
       {
-       "color": "#ffffff",
-       "top": 775,
+       "color": "#131c2e",
+       "top": 2199,
        "hsl": {
-        "h": 0,
-        "s": 0,
-        "l": 1
-       }
-      },
-      {
-       "color": "#eeb778",
-       "top": 3632,
-       "hsl": {
-        "h": 32,
-        "s": 0.78,
-        "l": 0.7
+        "h": 220,
+        "s": 0.42,
+        "l": 0.13
        }
       }
      ],
      "textColors": [
       {
-       "color": "#eceef0",
-       "share": 0.65
+       "color": "#9aa6bc",
+       "share": 0.6
       },
       {
        "color": "#202124",
-       "share": 0.15
+       "share": 0.17
       },
       {
-       "color": "#b1b7c8",
-       "share": 0.09
+       "color": "#eef2f7",
+       "share": 0.14
       },
       {
        "color": "#188038",
        "share": 0.06
       },
       {
-       "color": "#18203a",
-       "share": 0.02
+       "color": "#c6f432",
+       "share": 0.01
       }
      ],
      "button": {
-      "bg": "#eeb778",
+      "bg": "#1b2640",
       "hsl": {
-       "h": 32,
-       "s": 0.78,
-       "l": 0.7
+       "h": 222,
+       "s": 0.41,
+       "l": 0.18
       },
-      "fg": "#18203a"
+      "fg": "#eef2f7"
      },
      "lowContrast": []
     },
     "buttons": {
-     "count": 1,
-     "inHero": 1,
-     "radius": 0,
-     "height": 52,
+     "count": 2,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 35,
      "withShadow": 0,
      "withGradient": 0,
      "mono": 0,
      "upper": 0,
      "heroLabels": [
+      "Light",
       "View design files"
      ]
     },
@@ -445,24 +392,29 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 0,
-     "boxRadius": 0,
-     "squareMedia": 2,
-     "roundedMedia": 0,
-     "mediaRadius": 0,
+     "roundedBoxes": 6,
+     "boxRadius": 14,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 14,
      "textShadow": 0,
      "cardRows": []
     },
-    "heroMedia": [],
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.17
+     }
+    ],
     "nav": {
      "links": 5,
-     "fixed": false,
-     "height": 79,
+     "fixed": true,
+     "height": 80,
      "floatingPill": false,
      "blur": false
     },
     "fontsLoaded": [
-     "sentient"
+     "hanken grotesk"
     ]
    },
    "layout": {
@@ -470,29 +422,29 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 4932,
+    "pageH": 2902,
     "margins": {
-     "left": 32,
-     "right": 32
+     "left": 60,
+     "right": 60
     },
     "sections": [
      {
-      "sel": "section.case-hero",
+      "sel": "section.wrap.case-hero",
       "tag": "section",
-      "top": 0,
-      "height": 679,
-      "words": 50,
-      "media": 1,
-      "middle": 11,
+      "top": 80,
+      "height": 472,
+      "words": 48,
+      "media": 0,
+      "middle": 118,
       "heading": {
        "text": "A database without buying software",
-       "size": 108,
+       "size": 80,
        "tag": "h1"
       },
-      "left": 32,
-      "right": 35,
-      "textLeft": 32,
-      "textRight": 35,
+      "left": 60,
+      "right": 312,
+      "textLeft": 60,
+      "textRight": 312,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -500,18 +452,18 @@
       "pinned": false
      },
      {
-      "sel": "div.reveal.in",
-      "tag": "div",
-      "top": 679,
-      "height": 575,
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 552,
+      "height": 607,
       "words": 74,
-      "media": 0,
-      "middle": 156,
+      "media": 1,
+      "middle": 39,
       "heading": null,
-      "left": 48,
-      "right": 485,
-      "textLeft": 48,
-      "textRight": 485,
+      "left": 60,
+      "right": 87,
+      "textLeft": 832,
+      "textRight": 87,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -519,22 +471,18 @@
       "pinned": false
      },
      {
-      "sel": "section.reveal.in",
+      "sel": "section.wrap",
       "tag": "section",
-      "top": 1254,
-      "height": 959,
-      "words": 13,
+      "top": 1159,
+      "height": 162,
+      "words": 9,
       "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "The real thing",
-       "size": 44,
-       "tag": "h2"
-      },
-      "left": 32,
-      "right": 1008,
-      "textLeft": 32,
-      "textRight": 1008,
+      "middle": 324,
+      "heading": null,
+      "left": 100,
+      "right": 412,
+      "textLeft": 100,
+      "textRight": 412,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -542,45 +490,22 @@
       "pinned": false
      },
      {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 2213,
-      "height": 326,
-      "words": 11,
-      "media": 0,
-      "middle": 328,
-      "heading": {
-       "text": "In numbers",
-       "size": 26,
-       "tag": "h2"
-      },
-      "left": 32,
-      "right": 365,
-      "textLeft": 32,
-      "textRight": 365,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "div.case-body",
+      "sel": "div.wrap.case-body",
       "tag": "div",
-      "top": 2539,
-      "height": 935,
+      "top": 1321,
+      "height": 734,
       "words": 158,
       "media": 0,
-      "middle": 343,
+      "middle": 298,
       "heading": {
        "text": "The brief",
-       "size": 44,
+       "size": 35,
        "tag": "h2"
       },
-      "left": 32,
-      "right": 65,
-      "textLeft": 32,
-      "textRight": 65,
+      "left": 60,
+      "right": 61,
+      "textLeft": 60,
+      "textRight": 61,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -588,22 +513,22 @@
       "pinned": false
      },
      {
-      "sel": "a.next-project.accent",
-      "tag": "a",
-      "top": 3632,
-      "height": 674,
-      "words": 5,
+      "sel": "section.wrap.section",
+      "tag": "section",
+      "top": 2055,
+      "height": 574,
+      "words": 11,
       "media": 1,
-      "middle": 83,
+      "middle": 194,
       "heading": {
        "text": "Next:",
-       "size": 71,
+       "size": 52,
        "tag": "span"
       },
-      "left": 32,
-      "right": 0,
-      "textLeft": 32,
-      "textRight": 779,
+      "left": 108,
+      "right": 108,
+      "textLeft": 108,
+      "textRight": 898,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -613,20 +538,16 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4306,
-      "height": 625,
-      "words": 46,
+      "top": 2774,
+      "height": 128,
+      "words": 32,
       "media": 0,
-      "middle": 12,
-      "heading": {
-       "text": "Kolade Ogunleye",
-       "size": 158,
-       "tag": "p"
-      },
-      "left": 32,
-      "right": 32,
-      "textLeft": 32,
-      "textRight": 32,
+      "middle": 368,
+      "heading": null,
+      "left": 60,
+      "right": 60,
+      "textLeft": 60,
+      "textRight": 60,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -634,42 +555,37 @@
       "pinned": false
      }
     ],
-    "gaps": [
-     {
-      "top": 3472,
-      "height": 288
-     }
-    ],
+    "gaps": [],
     "h1s": [
      {
       "text": "A database without buying software",
-      "size": 108,
-      "top": 140,
+      "size": 80,
+      "top": 200,
       "firstScreen": true
      }
     ],
     "edgeText": [],
     "edges": [
      {
-      "x": 32,
-      "n": 7
+      "x": 60,
+      "n": 5
      },
      {
-      "x": 615,
+      "x": 532,
       "n": 1
      }
     ],
-    "leftBlocks": 8,
-    "bodySize": 20,
+    "leftBlocks": 6,
+    "bodySize": 18,
     "stage": false,
     "explains": true,
     "slivers": [],
-    "voidShare": 0.18,
+    "voidShare": 0.13,
     "voidBox": {
-     "x": 0,
-     "y": 540,
-     "w": 960,
-     "h": 240
+     "x": 1140,
+     "y": 120,
+     "w": 300,
+     "h": 540
     }
    },
    "app": null,
@@ -679,17 +595,16 @@
    "width": 768,
    "height": 1024,
    "load": "load",
-   "screens": 5,
+   "screens": 4,
    "filled": [
-    0.46,
+    0.64,
     0.71,
-    0.4,
-    0.82,
-    0.53
+    0.59,
+    0.57
    ],
    "motion": {
-    "elements": 15,
-    "css": 4,
+    "elements": 12,
+    "css": 1,
     "transitions": 11,
     "scripted": 0,
     "videos": 0,
@@ -701,25 +616,24 @@
      "h": 1024
     },
     "page": {
-     "height": 4615,
-     "screens": 4.5,
-     "words": 360,
-     "img": 3,
+     "height": 3567,
+     "screens": 3.5,
+     "words": 341,
+     "img": 2,
      "video": 0,
      "canvas": 0,
      "svg": 0,
-     "sections": 6,
+     "sections": 7,
      "horizontalOverflow": 0,
      "overflowCulprits": [],
      "uiFragments": 1,
      "uiAbuse": false,
-     "realPictures": 3,
+     "realPictures": 2,
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=828&q=7",
-      "image?url=%2Ftaxi-1.webp&w=384&q=75"
+      "image?url=%2Ftaxi-1.webp&w=828&q=75"
      ],
      "blendText": 0,
      "sideScrollers": 0,
@@ -732,19 +646,19 @@
      "words": 5,
      "chars": 34,
      "lines": 2,
-     "size": 65.2,
-     "vw": 8.5,
-     "font": "Sentient",
-     "weight": 300,
-     "tracking": -0.03,
-     "leading": 0.95,
+     "size": 53.1,
+     "vw": 6.9,
+     "font": "Hanken Grotesk",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 1,
      "upper": false,
      "italic": false,
      "mono": false,
      "align": "left",
-     "position": "left",
-     "widthRatio": 0.78,
-     "top": 140,
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 126,
      "tag": "h1",
      "kind": "heading"
     },
@@ -752,8 +666,8 @@
      "text": "A database without buying software",
      "words": 5,
      "lines": 2,
-     "size": 65.2,
-     "font": "Sentient"
+     "size": 53.1,
+     "font": "Hanken Grotesk"
     },
     "headings": [
      {
@@ -761,41 +675,20 @@
       "words": 5,
       "chars": 34,
       "lines": 2,
-      "size": 65.2,
-      "vw": 8.5,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.03,
-      "leading": 0.95,
-      "upper": false,
-      "italic": false,
-      "mono": false,
-      "align": "left",
-      "position": "left",
-      "widthRatio": 0.78,
-      "top": 140,
-      "tag": "h1",
-      "kind": "heading"
-     },
-     {
-      "text": "The real thing",
-      "words": 3,
-      "chars": 14,
-      "lines": 1,
-      "size": 31.4,
-      "vw": 4.1,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 53.1,
+      "vw": 6.9,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
-      "widthRatio": 0.96,
-      "top": 1469,
-      "tag": "h2",
+      "widthRatio": 0.92,
+      "top": 126,
+      "tag": "h1",
       "kind": "heading"
      },
      {
@@ -803,10 +696,10 @@
       "words": 1,
       "chars": 1,
       "lines": 1,
-      "size": 46.8,
-      "vw": 6.1,
-      "font": "Sentient",
-      "weight": 400,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Hanken Grotesk",
+      "weight": 600,
       "tracking": -0.03,
       "leading": 1,
       "upper": false,
@@ -814,9 +707,9 @@
       "mono": false,
       "align": "left",
       "position": "left",
-      "widthRatio": 0.3,
-      "top": 2085,
-      "tag": "dd",
+      "widthRatio": 0.41,
+      "top": 1642,
+      "tag": "p",
       "kind": "statement"
      },
      {
@@ -824,31 +717,10 @@
       "words": 1,
       "chars": 1,
       "lines": 1,
-      "size": 46.8,
-      "vw": 6.1,
-      "font": "Sentient",
-      "weight": 400,
-      "tracking": -0.03,
-      "leading": 1,
-      "upper": false,
-      "italic": false,
-      "mono": false,
-      "align": "left",
-      "position": "center",
-      "widthRatio": 0.3,
-      "top": 2085,
-      "tag": "dd",
-      "kind": "statement"
-     },
-     {
-      "text": "0",
-      "words": 1,
-      "chars": 1,
-      "lines": 1,
-      "size": 46.8,
-      "vw": 6.1,
-      "font": "Sentient",
-      "weight": 400,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Hanken Grotesk",
+      "weight": 600,
       "tracking": -0.03,
       "leading": 1,
       "upper": false,
@@ -856,9 +728,30 @@
       "mono": false,
       "align": "left",
       "position": "right",
-      "widthRatio": 0.3,
-      "top": 2085,
-      "tag": "dd",
+      "widthRatio": 0.41,
+      "top": 1642,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "0",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 1734,
+      "tag": "p",
       "kind": "statement"
      },
      {
@@ -866,19 +759,19 @@
       "words": 2,
       "chars": 9,
       "lines": 1,
-      "size": 31.4,
-      "vw": 4.1,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 26.8,
+      "vw": 3.5,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
-      "widthRatio": 0.96,
-      "top": 2264,
+      "widthRatio": 0.92,
+      "top": 1921,
       "tag": "h2",
       "kind": "heading"
      },
@@ -887,19 +780,19 @@
       "words": 3,
       "chars": 12,
       "lines": 1,
-      "size": 31.4,
-      "vw": 4.1,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 26.8,
+      "vw": 3.5,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
-      "widthRatio": 0.96,
-      "top": 2483,
+      "widthRatio": 0.92,
+      "top": 2073,
       "tag": "h2",
       "kind": "heading"
      },
@@ -908,19 +801,19 @@
       "words": 4,
       "chars": 13,
       "lines": 1,
-      "size": 31.4,
-      "vw": 4.1,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 26.8,
+      "vw": 3.5,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
-      "widthRatio": 0.96,
-      "top": 2786,
+      "widthRatio": 0.92,
+      "top": 2305,
       "tag": "h2",
       "kind": "heading"
      },
@@ -928,50 +821,29 @@
       "text": "Next: Taxi company analysis dashboard",
       "words": 5,
       "chars": 37,
-      "lines": 2,
-      "size": 46.8,
-      "vw": 6.1,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.025,
-      "leading": 1.02,
-      "upper": false,
-      "italic": false,
-      "mono": false,
-      "align": "left",
-      "position": "center",
-      "widthRatio": 1,
-      "top": 3236,
-      "tag": "a",
-      "kind": "heading"
-     },
-     {
-      "text": "Kolade Ogunleye",
-      "words": 2,
-      "chars": 15,
       "lines": 1,
-      "size": 84.5,
-      "vw": 11,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.04,
-      "leading": 0.9,
+      "size": 37.7,
+      "vw": 4.9,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
-      "widthRatio": 0.96,
-      "top": 4515,
-      "tag": "p",
-      "kind": "statement"
+      "widthRatio": 0.84,
+      "top": 2785,
+      "tag": "span",
+      "kind": "heading"
      }
     ],
     "headingSummary": {
-     "count": 10,
+     "count": 8,
      "maxLines": 2,
      "over2Lines": 0,
-     "statements": 4,
+     "statements": 3,
      "centered": 0,
      "medianWords": 2,
      "mixedFontHeadings": 0
@@ -979,42 +851,42 @@
     "type": {
      "families": [
       {
-       "family": "Sentient",
-       "share": 0.78,
+       "family": "Hanken Grotesk",
+       "share": 0.76,
        "mono": false
       },
       {
        "family": "Arial",
-       "share": 0.22,
+       "share": 0.24,
        "mono": false
       }
      ],
      "familyCount": 2,
      "sizes": [
       15,
+      16,
       18,
-      22,
-      31,
-      47,
-      65,
-      85
+      20,
+      27,
+      38,
+      53
      ],
      "sizeCount": 7,
      "notLoaded": [],
      "body": {
-      "font": "Sentient",
-      "size": 17.9,
-      "leading": 1.55,
+      "font": "Hanken Grotesk",
+      "size": 18,
+      "leading": 1.6,
       "weight": 400,
       "tracking": 0,
-      "contrast": 13.8
+      "contrast": 7.6
      },
-     "measureChars": 78,
+     "measureChars": 79,
      "max": {
-      "size": 84.5,
-      "vw": 11,
-      "font": "Sentient",
-      "text": "Kolade Ogunleye"
+      "size": 53.1,
+      "vw": 6.9,
+      "font": "Hanken Grotesk",
+      "text": "A database without buying software"
      },
      "monoShare": 0,
      "monoProseShare": 0,
@@ -1030,17 +902,17 @@
     "eyebrows": [],
     "numbered": [],
     "color": {
-     "bodyBg": "#18203a",
+     "bodyBg": "#0b1220",
      "bodyBgHsl": {
-      "h": 226,
-      "s": 0.41,
-      "l": 0.16
+      "h": 220,
+      "s": 0.49,
+      "l": 0.08
      },
      "dark": true,
      "sectionBgs": [
       {
        "color": "#ffffff",
-       "top": 847,
+       "top": 1059,
        "hsl": {
         "h": 0,
         "s": 0,
@@ -1048,58 +920,59 @@
        }
       },
       {
-       "color": "#eeb778",
-       "top": 3236,
+       "color": "#131c2e",
+       "top": 2754,
        "hsl": {
-        "h": 32,
-        "s": 0.78,
-        "l": 0.7
+        "h": 220,
+        "s": 0.42,
+        "l": 0.13
        }
       }
      ],
      "textColors": [
       {
-       "color": "#eceef0",
-       "share": 0.65
+       "color": "#9aa6bc",
+       "share": 0.6
       },
       {
        "color": "#202124",
-       "share": 0.15
+       "share": 0.17
       },
       {
-       "color": "#b1b7c8",
-       "share": 0.09
+       "color": "#eef2f7",
+       "share": 0.14
       },
       {
        "color": "#188038",
        "share": 0.06
       },
       {
-       "color": "#18203a",
-       "share": 0.02
+       "color": "#c6f432",
+       "share": 0.01
       }
      ],
      "button": {
-      "bg": "#eeb778",
+      "bg": "#1b2640",
       "hsl": {
-       "h": 32,
-       "s": 0.78,
-       "l": 0.7
+       "h": 222,
+       "s": 0.41,
+       "l": 0.18
       },
-      "fg": "#18203a"
+      "fg": "#eef2f7"
      },
      "lowContrast": []
     },
     "buttons": {
-     "count": 1,
-     "inHero": 1,
-     "radius": 0,
-     "height": 52,
+     "count": 2,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 35,
      "withShadow": 0,
      "withGradient": 0,
      "mono": 0,
      "upper": 0,
      "heroLabels": [
+      "Light",
       "View design files"
      ]
     },
@@ -1116,24 +989,29 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 0,
-     "boxRadius": 0,
-     "squareMedia": 2,
-     "roundedMedia": 0,
-     "mediaRadius": 0,
+     "roundedBoxes": 6,
+     "boxRadius": 14,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 14,
      "textShadow": 0,
      "cardRows": []
     },
-    "heroMedia": [],
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.25
+     }
+    ],
     "nav": {
      "links": 5,
-     "fixed": false,
-     "height": 79,
+     "fixed": true,
+     "height": 80,
      "floatingPill": false,
      "blur": false
     },
     "fontsLoaded": [
-     "sentient"
+     "hanken grotesk"
     ]
    },
    "layout": {
@@ -1141,29 +1019,29 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 4615,
+    "pageH": 3567,
     "margins": {
-     "left": 17,
-     "right": 17
+     "left": 31,
+     "right": 31
     },
     "sections": [
      {
-      "sel": "section.case-hero",
+      "sel": "section.wrap.case-hero",
       "tag": "section",
-      "top": 0,
-      "height": 751,
-      "words": 50,
-      "media": 1,
+      "top": 80,
+      "height": 661,
+      "words": 48,
+      "media": 0,
       "middle": 0,
       "heading": {
        "text": "A database without buying software",
-       "size": 65,
+       "size": 53,
        "tag": "h1"
       },
-      "left": 17,
-      "right": 142,
-      "textLeft": 17,
-      "textRight": 142,
+      "left": 31,
+      "right": 51,
+      "textLeft": 31,
+      "textRight": 51,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -1171,64 +1049,18 @@
       "pinned": false
      },
      {
-      "sel": "div.reveal.in",
-      "tag": "div",
-      "top": 751,
-      "height": 621,
-      "words": 74,
-      "media": 0,
-      "middle": 0,
-      "heading": null,
-      "left": 33,
-      "right": 70,
-      "textLeft": 33,
-      "textRight": 70,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1373,
-      "height": 562,
-      "words": 13,
+      "top": 741,
+      "height": 877,
+      "words": 74,
       "media": 1,
       "middle": 0,
-      "heading": {
-       "text": "The real thing",
-       "size": 31,
-       "tag": "h2"
-      },
-      "left": 17,
-      "right": 351,
-      "textLeft": 17,
-      "textRight": 351,
-      "fullBleed": true,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 1935,
-      "height": 233,
-      "words": 11,
-      "media": 0,
-      "middle": 125,
-      "heading": {
-       "text": "In numbers",
-       "size": 22,
-       "tag": "h2"
-      },
-      "left": 17,
-      "right": 146,
-      "textLeft": 17,
-      "textRight": 146,
+      "heading": null,
+      "left": 31,
+      "right": 31,
+      "textLeft": 46,
+      "textRight": 72,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -1236,22 +1068,41 @@
       "pinned": false
      },
      {
-      "sel": "div.case-body",
+      "sel": "section.wrap",
+      "tag": "section",
+      "top": 1618,
+      "height": 207,
+      "words": 9,
+      "media": 0,
+      "middle": 186,
+      "heading": null,
+      "left": 55,
+      "right": 268,
+      "textLeft": 55,
+      "textRight": 268,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.wrap.case-body",
       "tag": "div",
-      "top": 2168,
-      "height": 972,
+      "top": 1825,
+      "height": 832,
       "words": 158,
       "media": 0,
       "middle": 0,
       "heading": {
        "text": "The brief",
-       "size": 31,
+       "size": 27,
        "tag": "h2"
       },
-      "left": 17,
-      "right": 57,
-      "textLeft": 17,
-      "textRight": 57,
+      "left": 31,
+      "right": 33,
+      "textLeft": 31,
+      "textRight": 33,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -1259,23 +1110,23 @@
       "pinned": false
      },
      {
-      "sel": "a.next-project.accent",
-      "tag": "a",
-      "top": 3236,
-      "height": 717,
-      "words": 5,
+      "sel": "section.wrap.section",
+      "tag": "section",
+      "top": 2658,
+      "height": 637,
+      "words": 11,
       "media": 1,
       "middle": 0,
       "heading": {
        "text": "Next:",
-       "size": 47,
+       "size": 38,
        "tag": "span"
       },
-      "left": 17,
-      "right": 159,
-      "textLeft": 17,
-      "textRight": 159,
-      "fullBleed": true,
+      "left": 61,
+      "right": 61,
+      "textLeft": 61,
+      "textRight": 78,
+      "fullBleed": false,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -1284,20 +1135,16 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 3953,
-      "height": 663,
-      "words": 46,
+      "top": 3391,
+      "height": 176,
+      "words": 32,
       "media": 0,
       "middle": 0,
-      "heading": {
-       "text": "Case studies",
-       "size": 15,
-       "tag": "h2"
-      },
-      "left": 17,
-      "right": 17,
-      "textLeft": 17,
-      "textRight": 17,
+      "heading": null,
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -1309,19 +1156,19 @@
     "h1s": [
      {
       "text": "A database without buying software",
-      "size": 65,
-      "top": 140,
+      "size": 53,
+      "top": 126,
       "firstScreen": true
      }
     ],
     "edgeText": [],
     "edges": [
      {
-      "x": 17,
-      "n": 8
+      "x": 31,
+      "n": 6
      }
     ],
-    "leftBlocks": 8,
+    "leftBlocks": 6,
     "bodySize": 18,
     "stage": false,
     "explains": true,
@@ -1336,18 +1183,17 @@
    "width": 390,
    "height": 844,
    "load": "load",
-   "screens": 6,
+   "screens": 5,
    "filled": [
-    0.51,
-    0.83,
-    0.36,
-    0.46,
-    0.63,
-    0.24
+    0.71,
+    0.77,
+    0.47,
+    0.66,
+    0.56
    ],
    "motion": {
-    "elements": 15,
-    "css": 4,
+    "elements": 12,
+    "css": 1,
     "transitions": 11,
     "scripted": 0,
     "videos": 0,
@@ -1359,23 +1205,22 @@
      "h": 844
     },
     "page": {
-     "height": 4866,
-     "screens": 5.8,
-     "words": 358,
-     "img": 3,
+     "height": 3839,
+     "screens": 4.5,
+     "words": 339,
+     "img": 2,
      "video": 0,
      "canvas": 0,
      "svg": 0,
-     "sections": 6,
+     "sections": 7,
      "horizontalOverflow": 0,
      "overflowCulprits": [],
      "uiFragments": 1,
      "uiAbuse": false,
-     "realPictures": 3,
+     "realPictures": 2,
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=256&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7",
       "image?url=%2Ftaxi-1.webp&w=640&q=75"
      ],
@@ -1390,19 +1235,19 @@
      "words": 5,
      "chars": 34,
      "lines": 2,
-     "size": 37.4,
-     "vw": 9.6,
-     "font": "Sentient",
-     "weight": 300,
-     "tracking": -0.03,
-     "leading": 0.95,
+     "size": 40,
+     "vw": 10.3,
+     "font": "Hanken Grotesk",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 1,
      "upper": false,
      "italic": false,
      "mono": false,
      "align": "left",
      "position": "center",
-     "widthRatio": 0.89,
-     "top": 112,
+     "widthRatio": 0.92,
+     "top": 120,
      "tag": "h1",
      "kind": "heading"
     },
@@ -1410,8 +1255,8 @@
      "text": "A database without buying software",
      "words": 5,
      "lines": 2,
-     "size": 37.4,
-     "font": "Sentient"
+     "size": 40,
+     "font": "Hanken Grotesk"
     },
     "headings": [
      {
@@ -1419,41 +1264,20 @@
       "words": 5,
       "chars": 34,
       "lines": 2,
-      "size": 37.4,
-      "vw": 9.6,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.03,
-      "leading": 0.95,
-      "upper": false,
-      "italic": false,
-      "mono": false,
-      "align": "left",
-      "position": "center",
-      "widthRatio": 0.89,
-      "top": 112,
-      "tag": "h1",
-      "kind": "heading"
-     },
-     {
-      "text": "The real thing",
-      "words": 3,
-      "chars": 14,
-      "lines": 1,
-      "size": 28,
-      "vw": 7.2,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 1595,
-      "tag": "h2",
+      "top": 120,
+      "tag": "h1",
       "kind": "heading"
      },
      {
@@ -1461,20 +1285,20 @@
       "words": 1,
       "chars": 1,
       "lines": 1,
-      "size": 36,
-      "vw": 9.2,
-      "font": "Sentient",
-      "weight": 400,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Hanken Grotesk",
+      "weight": 600,
       "tracking": -0.03,
       "leading": 1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
-      "position": "center",
-      "widthRatio": 0.92,
-      "top": 2026,
-      "tag": "dd",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 1660,
+      "tag": "p",
       "kind": "statement"
      },
      {
@@ -1482,20 +1306,20 @@
       "words": 1,
       "chars": 1,
       "lines": 1,
-      "size": 36,
-      "vw": 9.2,
-      "font": "Sentient",
-      "weight": 400,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Hanken Grotesk",
+      "weight": 600,
       "tracking": -0.03,
       "leading": 1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
-      "position": "center",
-      "widthRatio": 0.92,
-      "top": 2128,
-      "tag": "dd",
+      "position": "right",
+      "widthRatio": 0.37,
+      "top": 1660,
+      "tag": "p",
       "kind": "statement"
      },
      {
@@ -1503,20 +1327,20 @@
       "words": 1,
       "chars": 1,
       "lines": 1,
-      "size": 36,
-      "vw": 9.2,
-      "font": "Sentient",
-      "weight": 400,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Hanken Grotesk",
+      "weight": 600,
       "tracking": -0.03,
       "leading": 1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
-      "position": "center",
-      "widthRatio": 0.92,
-      "top": 2230,
-      "tag": "dd",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 1770,
+      "tag": "p",
       "kind": "statement"
      },
      {
@@ -1524,19 +1348,19 @@
       "words": 2,
       "chars": 9,
       "lines": 1,
-      "size": 28,
-      "vw": 7.2,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2381,
+      "top": 1952,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1545,19 +1369,19 @@
       "words": 3,
       "chars": 12,
       "lines": 1,
-      "size": 28,
-      "vw": 7.2,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2645,
+      "top": 2186,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1566,19 +1390,19 @@
       "words": 4,
       "chars": 13,
       "lines": 1,
-      "size": 28,
-      "vw": 7.2,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.015,
-      "leading": 1.02,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.025,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
       "widthRatio": 0.92,
-      "top": 2990,
+      "top": 2502,
       "tag": "h2",
       "kind": "heading"
      },
@@ -1587,49 +1411,28 @@
       "words": 5,
       "chars": 37,
       "lines": 2,
-      "size": 36,
-      "vw": 9.2,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.025,
-      "leading": 1.02,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Hanken Grotesk",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.1,
       "upper": false,
       "italic": false,
       "mono": false,
       "align": "left",
       "position": "center",
-      "widthRatio": 1,
-      "top": 3566,
-      "tag": "a",
+      "widthRatio": 0.79,
+      "top": 3145,
+      "tag": "span",
       "kind": "heading"
-     },
-     {
-      "text": "Kolade Ogunleye",
-      "words": 2,
-      "chars": 15,
-      "lines": 1,
-      "size": 46.8,
-      "vw": 12,
-      "font": "Sentient",
-      "weight": 300,
-      "tracking": -0.04,
-      "leading": 0.9,
-      "upper": false,
-      "italic": false,
-      "mono": false,
-      "align": "left",
-      "position": "center",
-      "widthRatio": 0.92,
-      "top": 4799,
-      "tag": "p",
-      "kind": "statement"
      }
     ],
     "headingSummary": {
-     "count": 10,
+     "count": 8,
      "maxLines": 2,
      "over2Lines": 0,
-     "statements": 4,
+     "statements": 3,
      "centered": 0,
      "medianWords": 2,
      "mixedFontHeadings": 0
@@ -1637,42 +1440,42 @@
     "type": {
      "families": [
       {
-       "family": "Sentient",
-       "share": 0.78,
+       "family": "Hanken Grotesk",
+       "share": 0.76,
        "mono": false
       },
       {
        "family": "Arial",
-       "share": 0.22,
+       "share": 0.24,
        "mono": false
       }
      ],
      "familyCount": 2,
      "sizes": [
       15,
-      17,
-      20,
-      28,
-      36,
-      37,
-      47
+      16,
+      18,
+      19,
+      24,
+      32,
+      40
      ],
      "sizeCount": 7,
      "notLoaded": [],
      "body": {
-      "font": "Sentient",
-      "size": 17,
-      "leading": 1.55,
+      "font": "Hanken Grotesk",
+      "size": 18,
+      "leading": 1.6,
       "weight": 400,
       "tracking": 0,
-      "contrast": 13.8
+      "contrast": 7.6
      },
-     "measureChars": 42,
+     "measureChars": 40,
      "max": {
-      "size": 46.8,
-      "vw": 12,
-      "font": "Sentient",
-      "text": "Kolade Ogunleye"
+      "size": 40,
+      "vw": 10.3,
+      "font": "Hanken Grotesk",
+      "text": "A database without buying software"
      },
      "monoShare": 0,
      "monoProseShare": 0,
@@ -1688,76 +1491,77 @@
     "eyebrows": [],
     "numbered": [],
     "color": {
-     "bodyBg": "#18203a",
+     "bodyBg": "#0b1220",
      "bodyBgHsl": {
-      "h": 226,
-      "s": 0.41,
-      "l": 0.16
+      "h": 220,
+      "s": 0.49,
+      "l": 0.08
      },
      "dark": true,
      "sectionBgs": [
       {
+       "color": "#131c2e",
+       "top": 399,
+       "hsl": {
+        "h": 220,
+        "s": 0.42,
+        "l": 0.13
+       }
+      },
+      {
        "color": "#ffffff",
-       "top": 781,
+       "top": 933,
        "hsl": {
         "h": 0,
         "s": 0,
         "l": 1
        }
-      },
-      {
-       "color": "#eeb778",
-       "top": 3566,
-       "hsl": {
-        "h": 32,
-        "s": 0.78,
-        "l": 0.7
-       }
       }
      ],
      "textColors": [
       {
-       "color": "#eceef0",
-       "share": 0.64
+       "color": "#9aa6bc",
+       "share": 0.59
       },
       {
        "color": "#202124",
-       "share": 0.16
+       "share": 0.17
       },
       {
-       "color": "#b1b7c8",
-       "share": 0.09
+       "color": "#eef2f7",
+       "share": 0.14
       },
       {
        "color": "#188038",
        "share": 0.06
       },
       {
-       "color": "#18203a",
-       "share": 0.02
+       "color": "#c6f432",
+       "share": 0.01
       }
      ],
      "button": {
-      "bg": "#eeb778",
+      "bg": "#1b2640",
       "hsl": {
-       "h": 32,
-       "s": 0.78,
-       "l": 0.7
+       "h": 222,
+       "s": 0.41,
+       "l": 0.18
       },
-      "fg": "#18203a"
+      "fg": "#eef2f7"
      },
      "lowContrast": []
     },
     "buttons": {
-     "count": 1,
-     "inHero": 1,
-     "radius": 0,
-     "height": 52,
+     "count": 2,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 35,
      "withShadow": 0,
      "withGradient": 0,
      "mono": 0,
      "upper": 0,
      "heroLabels": [
+      "Light",
       "View design files"
      ]
     },
@@ -1774,24 +1578,24 @@
      "outlinedBoxes": 0,
      "dashed": 0,
      "blurred": 0,
-     "roundedBoxes": 0,
-     "boxRadius": 0,
-     "squareMedia": 2,
-     "roundedMedia": 0,
-     "mediaRadius": 0,
+     "roundedBoxes": 6,
+     "boxRadius": 14,
+     "squareMedia": 0,
+     "roundedMedia": 2,
+     "mediaRadius": 14,
      "textShadow": 0,
      "cardRows": []
     },
     "heroMedia": [],
     "nav": {
      "links": 3,
-     "fixed": false,
-     "height": 79,
+     "fixed": true,
+     "height": 80,
      "floatingPill": false,
      "blur": false
     },
     "fontsLoaded": [
-     "sentient"
+     "hanken grotesk"
     ]
    },
    "layout": {
@@ -1799,29 +1603,29 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 4866,
+    "pageH": 3839,
     "margins": {
      "left": 16,
      "right": 16
     },
     "sections": [
      {
-      "sel": "section.case-hero",
+      "sel": "section.wrap.case-hero",
       "tag": "section",
-      "top": 0,
-      "height": 685,
-      "words": 50,
-      "media": 1,
+      "top": 80,
+      "height": 680,
+      "words": 48,
+      "media": 0,
       "middle": 0,
       "heading": {
        "text": "A database without buying software",
-       "size": 37,
+       "size": 40,
        "tag": "h1"
       },
       "left": 16,
-      "right": 18,
+      "right": 17,
       "textLeft": 16,
-      "textRight": 18,
+      "textRight": 17,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -1829,64 +1633,18 @@
       "pinned": false
      },
      {
-      "sel": "div.reveal.in",
-      "tag": "div",
-      "top": 685,
-      "height": 831,
-      "words": 74,
-      "media": 0,
-      "middle": 0,
-      "heading": null,
-      "left": 32,
-      "right": 43,
-      "textLeft": 32,
-      "textRight": 43,
-      "fullBleed": false,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
       "sel": "section.reveal.in",
       "tag": "section",
-      "top": 1515,
-      "height": 378,
-      "words": 13,
+      "top": 760,
+      "height": 876,
+      "words": 74,
       "media": 1,
       "middle": 0,
-      "heading": {
-       "text": "The real thing",
-       "size": 28,
-       "tag": "h2"
-      },
+      "heading": null,
       "left": 16,
-      "right": 23,
-      "textLeft": 16,
-      "textRight": 23,
-      "fullBleed": true,
-      "footer": false,
-      "hero": false,
-      "continues": true,
-      "pinned": false
-     },
-     {
-      "sel": "section.reveal.in",
-      "tag": "section",
-      "top": 1893,
-      "height": 407,
-      "words": 11,
-      "media": 0,
-      "middle": 0,
-      "heading": {
-       "text": "In numbers",
-       "size": 20,
-       "tag": "h2"
-      },
-      "left": 16,
-      "right": 180,
-      "textLeft": 16,
-      "textRight": 180,
+      "right": 16,
+      "textLeft": 31,
+      "textRight": 33,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -1894,22 +1652,41 @@
       "pinned": false
      },
      {
-      "sel": "div.case-body",
+      "sel": "section.wrap",
+      "tag": "section",
+      "top": 1636,
+      "height": 220,
+      "words": 9,
+      "media": 0,
+      "middle": 48,
+      "heading": null,
+      "left": 40,
+      "right": 85,
+      "textLeft": 40,
+      "textRight": 85,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.wrap.case-body",
       "tag": "div",
-      "top": 2301,
-      "height": 1185,
+      "top": 1856,
+      "height": 1169,
       "words": 158,
       "media": 0,
       "middle": 0,
       "heading": {
        "text": "The brief",
-       "size": 28,
+       "size": 24,
        "tag": "h2"
       },
       "left": 16,
-      "right": 19,
+      "right": 17,
       "textLeft": 16,
-      "textRight": 19,
+      "textRight": 17,
       "fullBleed": false,
       "footer": false,
       "hero": false,
@@ -1917,23 +1694,23 @@
       "pinned": false
      },
      {
-      "sel": "a.next-project.accent",
-      "tag": "a",
-      "top": 3566,
-      "height": 449,
-      "words": 5,
+      "sel": "section.wrap.section",
+      "tag": "section",
+      "top": 3025,
+      "height": 463,
+      "words": 11,
       "media": 1,
       "middle": 0,
       "heading": {
        "text": "Next:",
-       "size": 36,
+       "size": 32,
        "tag": "span"
       },
-      "left": 16,
-      "right": 55,
-      "textLeft": 16,
-      "textRight": 55,
-      "fullBleed": true,
+      "left": 40,
+      "right": 40,
+      "textLeft": 40,
+      "textRight": 85,
+      "fullBleed": false,
       "footer": false,
       "hero": false,
       "continues": true,
@@ -1942,20 +1719,16 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 4015,
-      "height": 851,
-      "words": 46,
+      "top": 3583,
+      "height": 256,
+      "words": 32,
       "media": 0,
       "middle": 0,
-      "heading": {
-       "text": "Case studies",
-       "size": 15,
-       "tag": "h2"
-      },
+      "heading": null,
       "left": 16,
-      "right": 33,
+      "right": 30,
       "textLeft": 16,
-      "textRight": 33,
+      "textRight": 30,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -1967,8 +1740,8 @@
     "h1s": [
      {
       "text": "A database without buying software",
-      "size": 37,
-      "top": 112,
+      "size": 40,
+      "top": 120,
       "firstScreen": true
      }
     ],
@@ -1976,11 +1749,11 @@
     "edges": [
      {
       "x": 16,
-      "n": 8
+      "n": 6
      }
     ],
-    "leftBlocks": 8,
-    "bodySize": 17,
+    "leftBlocks": 6,
+    "bodySize": 18,
     "stage": false,
     "explains": true,
     "slivers": [],
@@ -1993,6 +1766,13 @@
  ],
  "findings": [
   {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 3 picture(s) on the page (2 photographs, footage or raster images, 1 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
    "level": "WARN",
    "id": "no-footage",
    "width": 1440,
@@ -2001,16 +1781,23 @@
   },
   {
    "level": "WARN",
-   "id": "lopsided",
+   "id": "measure",
    "width": 1440,
-   "message": "A section keeps its content on one side and leaves 1008px of the width empty: \"The real thing\".",
-   "fix": "Fill the other side with what the section has (its picture, a second column, the figure), or defend the void in one sentence."
+   "message": "Longest paragraph runs about 94 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch)."
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt STIX Two Text and STIX Two Text, but the page renders Hanken Grotesk, Arial.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
   },
   {
    "level": "WARN",
    "id": "still-page",
    "width": 1440,
-   "message": "Little motion: 15 element(s) moved while the page loaded and scrolled.",
+   "message": "Little motion: 12 element(s) moved while the page loaded and scrolled.",
    "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
   }
  ],
@@ -2020,8 +1807,7 @@
    "width": 1440,
    "fold": "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\desktop-fold.jpg",
    "pages": [
-    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\desktop-page-01.jpg",
-    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\desktop-page-02.jpg"
+    "C:\\Users\\user\\Downloads\\kolade-portfolio\\kolade-portfolio\\.taste-skill\\case-pectoria-database\\desktop-page-01.jpg"
    ],
    "film": []
   },

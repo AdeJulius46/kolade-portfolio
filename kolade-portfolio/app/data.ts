@@ -101,7 +101,7 @@ export const projects: Project[] = [
       { value: "Live", label: "Streamlit app" },
     ],
     visual: "loan",
-    cover: { src: "/work/loan-app.png", alt: "The deployed loan default Streamlit app: applicant fields in the sidebar and a Predict Result button", caption: "The deployed Streamlit app: applicant details in the sidebar, one button for the prediction.", width: 1440, height: 1000 },
+    cover: { src: "/work/loan-app.png", alt: "The deployed loan default Streamlit app: applicant fields in the sidebar and a Predict Result button", caption: "The deployed Streamlit app: applicant details in the sidebar, one button for the prediction.", width: 1200, height: 700 },
     sections: [
       {
         heading: "The brief",
@@ -145,7 +145,7 @@ export const projects: Project[] = [
       { value: "0", label: "licence cost" },
     ],
     visual: "sheet",
-    cover: { src: "/work/pectoria-drive.png", alt: "The Pectoria Database Design folder in Google Drive, listing eight sheets and forms", caption: "The shared design folder: eight linked sheets and forms.", width: 1440, height: 1000 },
+    cover: { src: "/work/pectoria-drive.png", alt: "The Pectoria Database Design folder in Google Drive, listing eight sheets and forms", caption: "The shared design folder: eight linked sheets and forms.", width: 1440, height: 600 },
     sections: [
       {
         heading: "The brief",
