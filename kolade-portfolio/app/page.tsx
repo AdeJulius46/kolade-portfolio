@@ -22,12 +22,11 @@ const skills = [
   { area: "Foundations", items: "Statistics, data cleaning, financial and operations reporting, rosters and booking systems, Jupyter" },
 ];
 
-const experience: { when: string; title: string; org: string; text: string; list?: string[] }[] = [
+const experience: { when: string; title: string; org: string; text?: string; list?: string[] }[] = [
   {
     when: "Jan – Jul 2026",
     title: "Data Science Intern",
     org: "DayFigurez Consult Limited, Abuja",
-    text: "Applied Python, SQL, statistics and machine learning to practical projects, working to deadlines in a team.",
     list: [
       "Developed and deployed the loan default prediction model in Python and Streamlit.",
       "Built a pipeline maintenance prediction system with Streamlit and Render, reaching 95% accuracy on test data.",
@@ -168,7 +167,7 @@ export default function Home() {
                   <div>
                     <h3>{e.title}</h3>
                     <p className="entry-org">{e.org}</p>
-                    <p>{e.text}</p>
+                    {e.text && <p>{e.text}</p>}
                     {e.list && <ul className="entry-list">{e.list.map((li) => <li key={li}>{li}</li>)}</ul>}
                   </div>
                 </div>
