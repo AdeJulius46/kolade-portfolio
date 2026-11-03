@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/pectoria-database",
- "at": "2026-10-30T19:45:03.162Z",
+ "at": "2026-10-30T20:19:14.974Z",
  "allow": [],
  "viewports": [
   {
@@ -12,7 +12,7 @@
     0.49,
     0.39,
     0.4,
-    0.48
+    0.45
    ],
    "motion": {
     "elements": 15,
@@ -28,9 +28,9 @@
      "h": 900
     },
     "page": {
-     "height": 3198,
-     "screens": 3.6,
-     "words": 347,
+     "height": 3158,
+     "screens": 3.5,
+     "words": 332,
      "img": 3,
      "video": 0,
      "canvas": 0,
@@ -44,7 +44,7 @@
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=256&q=75",
+      "kolade.webp",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=1080&q=",
       "image?url=%2Ftaxi-1.webp&w=640&q=75"
      ],
@@ -265,12 +265,12 @@
      "families": [
       {
        "family": "Hanken Grotesk",
-       "share": 0.76,
+       "share": 0.75,
        "mono": false
       },
       {
        "family": "Arial",
-       "share": 0.24,
+       "share": 0.25,
        "mono": false
       }
      ],
@@ -308,7 +308,7 @@
      "microLabels": 0,
      "microLabelShare": 0,
      "microSamples": [],
-     "upperShare": 0.01,
+     "upperShare": 0,
      "centerShare": 0,
      "smallText": 0
     },
@@ -353,7 +353,7 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.14
+       "share": 0.12
       },
       {
        "color": "#188038",
@@ -391,7 +391,7 @@
     },
     "surfaces": {
      "shadowStatic": 0,
-     "shadowOverlay": 0,
+     "shadowOverlay": 1,
      "shadowSamples": [],
      "gradients": 0,
      "scrims": 0,
@@ -432,29 +432,29 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 3198,
+    "pageH": 3158,
     "margins": {
      "left": 60,
      "right": 60
     },
     "sections": [
      {
-      "sel": "div.page-in",
-      "tag": "div",
-      "top": 0,
-      "height": 2926,
-      "words": 312,
-      "media": 3,
-      "middle": 0,
+      "sel": "section.wrap.case-hero",
+      "tag": "section",
+      "top": 80,
+      "height": 624,
+      "words": 54,
+      "media": 1,
+      "middle": 118,
       "heading": {
        "text": "A database without buying software",
        "size": 80,
        "tag": "h1"
       },
       "left": 60,
-      "right": 60,
+      "right": 164,
       "textLeft": 60,
-      "textRight": 76,
+      "textRight": 164,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -462,18 +462,83 @@
       "pinned": false
      },
      {
-      "sel": "footer.footer",
-      "tag": "footer",
-      "top": 3070,
-      "height": 128,
-      "words": 32,
-      "media": 0,
-      "middle": 368,
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 704,
+      "height": 607,
+      "words": 74,
+      "media": 1,
+      "middle": 39,
       "heading": null,
       "left": 60,
-      "right": 60,
+      "right": 87,
+      "textLeft": 832,
+      "textRight": 87,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap",
+      "tag": "section",
+      "top": 1311,
+      "height": 162,
+      "words": 9,
+      "media": 0,
+      "middle": 324,
+      "heading": null,
+      "left": 100,
+      "right": 412,
+      "textLeft": 100,
+      "textRight": 412,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.wrap.case-body",
+      "tag": "div",
+      "top": 1473,
+      "height": 878,
+      "words": 158,
+      "media": 0,
+      "middle": 298,
+      "heading": {
+       "text": "The brief",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 242,
       "textLeft": 60,
-      "textRight": 60,
+      "textRight": 242,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap.section",
+      "tag": "section",
+      "top": 2351,
+      "height": 574,
+      "words": 11,
+      "media": 1,
+      "middle": 194,
+      "heading": {
+       "text": "Next:",
+       "size": 52,
+       "tag": "span"
+      },
+      "left": 108,
+      "right": 108,
+      "textLeft": 108,
+      "textRight": 898,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -526,7 +591,7 @@
     0.64,
     0.71,
     0.46,
-    0.57
+    0.62
    ],
    "motion": {
     "elements": 15,
@@ -542,9 +607,9 @@
      "h": 1024
     },
     "page": {
-     "height": 3776,
-     "screens": 3.7,
-     "words": 347,
+     "height": 3712,
+     "screens": 3.6,
+     "words": 332,
      "img": 3,
      "video": 0,
      "canvas": 0,
@@ -558,7 +623,7 @@
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=256&q=75",
+      "kolade.webp",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=828&q=7",
       "image?url=%2Ftaxi-1.webp&w=828&q=75"
      ],
@@ -779,12 +844,12 @@
      "families": [
       {
        "family": "Hanken Grotesk",
-       "share": 0.76,
+       "share": 0.75,
        "mono": false
       },
       {
        "family": "Arial",
-       "share": 0.24,
+       "share": 0.25,
        "mono": false
       }
      ],
@@ -822,7 +887,7 @@
      "microLabels": 0,
      "microLabelShare": 0,
      "microSamples": [],
-     "upperShare": 0.01,
+     "upperShare": 0,
      "centerShare": 0,
      "smallText": 0
     },
@@ -876,7 +941,7 @@
       },
       {
        "color": "#eef2f7",
-       "share": 0.14
+       "share": 0.12
       },
       {
        "color": "#188038",
@@ -914,7 +979,7 @@
     },
     "surfaces": {
      "shadowStatic": 0,
-     "shadowOverlay": 0,
+     "shadowOverlay": 1,
      "shadowSamples": [],
      "gradients": 0,
      "scrims": 0,
@@ -955,19 +1020,19 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 3776,
+    "pageH": 3712,
     "margins": {
      "left": 31,
      "right": 31
     },
     "sections": [
      {
-      "sel": "div.page-in",
-      "tag": "div",
-      "top": 0,
-      "height": 3504,
-      "words": 312,
-      "media": 3,
+      "sel": "section.wrap.case-hero",
+      "tag": "section",
+      "top": 80,
+      "height": 813,
+      "words": 54,
+      "media": 1,
       "middle": 0,
       "heading": {
        "text": "A database without buying software",
@@ -975,9 +1040,9 @@
        "tag": "h1"
       },
       "left": 31,
-      "right": 31,
+      "right": 51,
       "textLeft": 31,
-      "textRight": 47,
+      "textRight": 51,
       "fullBleed": false,
       "footer": false,
       "hero": true,
@@ -985,18 +1050,83 @@
       "pinned": false
      },
      {
-      "sel": "footer.footer",
-      "tag": "footer",
-      "top": 3600,
-      "height": 176,
-      "words": 32,
-      "media": 0,
+      "sel": "section.reveal.in",
+      "tag": "section",
+      "top": 893,
+      "height": 877,
+      "words": 74,
+      "media": 1,
       "middle": 0,
       "heading": null,
       "left": 31,
       "right": 31,
+      "textLeft": 46,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap",
+      "tag": "section",
+      "top": 1770,
+      "height": 207,
+      "words": 9,
+      "media": 0,
+      "middle": 186,
+      "heading": null,
+      "left": 55,
+      "right": 268,
+      "textLeft": 55,
+      "textRight": 268,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.wrap.case-body",
+      "tag": "div",
+      "top": 1977,
+      "height": 890,
+      "words": 158,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The brief",
+       "size": 27,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 71,
       "textLeft": 31,
-      "textRight": 31,
+      "textRight": 71,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.wrap.section",
+      "tag": "section",
+      "top": 2867,
+      "height": 637,
+      "words": 11,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Next:",
+       "size": 38,
+       "tag": "span"
+      },
+      "left": 61,
+      "right": 61,
+      "textLeft": 61,
+      "textRight": 78,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -1057,9 +1187,9 @@
      "h": 844
     },
     "page": {
-     "height": 3991,
-     "screens": 4.7,
-     "words": 345,
+     "height": 3903,
+     "screens": 4.6,
+     "words": 330,
      "img": 3,
      "video": 0,
      "canvas": 0,
@@ -1073,7 +1203,7 @@
      "videoCount": 0,
      "uiPictures": 1,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=256&q=75",
+      "kolade.webp",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7",
       "image?url=%2Ftaxi-1.webp&w=640&q=75"
      ],
@@ -1294,12 +1424,12 @@
      "families": [
       {
        "family": "Hanken Grotesk",
-       "share": 0.76,
+       "share": 0.75,
        "mono": false
       },
       {
        "family": "Arial",
-       "share": 0.24,
+       "share": 0.25,
        "mono": false
       }
      ],
@@ -1337,7 +1467,7 @@
      "microLabels": 0,
      "microLabelShare": 0,
      "microSamples": [],
-     "upperShare": 0.01,
+     "upperShare": 0,
      "centerShare": 0,
      "smallText": 0
     },
@@ -1383,15 +1513,15 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.6
+       "share": 0.61
       },
       {
        "color": "#202124",
-       "share": 0.17
+       "share": 0.18
       },
       {
        "color": "#eef2f7",
-       "share": 0.14
+       "share": 0.12
       },
       {
        "color": "#188038",
@@ -1429,7 +1559,7 @@
     },
     "surfaces": {
      "shadowStatic": 0,
-     "shadowOverlay": 0,
+     "shadowOverlay": 1,
      "shadowSamples": [],
      "gradients": 0,
      "scrims": 0,
@@ -1465,7 +1595,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 3991,
+    "pageH": 3903,
     "margins": {
      "left": 16,
      "right": 16
@@ -1498,15 +1628,15 @@
       "sel": "footer.footer",
       "tag": "footer",
       "top": 3735,
-      "height": 256,
-      "words": 32,
+      "height": 168,
+      "words": 16,
       "media": 0,
       "middle": 0,
       "heading": null,
       "left": 16,
-      "right": 30,
+      "right": 37,
       "textLeft": 16,
-      "textRight": 30,
+      "textRight": 37,
       "fullBleed": false,
       "footer": true,
       "hero": false,
@@ -1556,6 +1686,16 @@
    "width": 1440,
    "message": "The sheet dealt STIX Two Text and STIX Two Text, but the page renders Hanken Grotesk, Arial.",
    "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "WARN",
+   "id": "untitled-section",
+   "width": 1440,
+   "message": "A section carries text but no heading: section.reveal.in at 704px.",
+   "fix": "Name it with a short heading unless it is the continuation of the section above.",
+   "alsoAt": [
+    768
+   ]
   },
   {
    "level": "WARN",

@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/projects/loan-default-prediction",
- "at": "2026-10-30T19:58:13.749Z",
+ "at": "2026-10-30T20:18:52.578Z",
  "allow": [],
  "viewports": [
   {
@@ -44,7 +44,7 @@
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=256&q=75",
+      "kolade.webp",
       "image?url=%2Fwork%2Floan-app.png&w=1080&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7"
      ],
@@ -468,7 +468,7 @@
     },
     "surfaces": {
      "shadowStatic": 0,
-     "shadowOverlay": 0,
+     "shadowOverlay": 1,
      "shadowSamples": [],
      "gradients": 0,
      "scrims": 0,
@@ -708,7 +708,7 @@
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=256&q=75",
+      "kolade.webp",
       "image?url=%2Fwork%2Floan-app.png&w=828&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=828&q=7"
      ],
@@ -1131,7 +1131,7 @@
     },
     "surfaces": {
      "shadowStatic": 0,
-     "shadowOverlay": 0,
+     "shadowOverlay": 1,
      "shadowSamples": [],
      "gradients": 0,
      "scrims": 0,
@@ -1360,7 +1360,7 @@
      "videoCount": 0,
      "uiPictures": 2,
      "pictureSamples": [
-      "image?url=%2Fkolade.webp&w=256&q=75",
+      "kolade.webp",
       "image?url=%2Fwork%2Floan-app.png&w=640&q=75",
       "image?url=%2Fwork%2Fpectoria-drive.png&w=640&q=7"
      ],
@@ -1783,7 +1783,7 @@
     },
     "surfaces": {
      "shadowStatic": 0,
-     "shadowOverlay": 0,
+     "shadowOverlay": 1,
      "shadowSamples": [],
      "gradients": 0,
      "scrims": 0,
