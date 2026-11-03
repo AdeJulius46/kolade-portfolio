@@ -1,6 +1,6 @@
 {
  "url": "http://localhost:3123/",
- "at": "2026-11-03T22:43:39.591Z",
+ "at": "2026-11-03T22:47:14.484Z",
  "allow": [],
  "viewports": [
   {
@@ -14,7 +14,7 @@
     0.57,
     0.38,
     0.26,
-    0.45,
+    0.56,
     0.49
    ],
    "motion": {
@@ -31,9 +31,9 @@
      "h": 900
     },
     "page": {
-     "height": 5969,
-     "screens": 6.6,
-     "words": 680,
+     "height": 5869,
+     "screens": 6.5,
+     "words": 660,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -419,7 +419,7 @@
       "align": "left",
       "position": "left",
       "widthRatio": 0.42,
-      "top": 5336,
+      "top": 5236,
       "tag": "h2",
       "kind": "heading"
      }
@@ -504,7 +504,7 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.68
+       "share": 0.67
       },
       {
        "color": "#eef2f7",
@@ -512,7 +512,7 @@
       },
       {
        "color": "#0b1220",
-       "share": 0.08
+       "share": 0.09
       },
       {
        "color": "#c6f432",
@@ -587,7 +587,7 @@
      "w": 1440,
      "h": 900
     },
-    "pageH": 5969,
+    "pageH": 5869,
     "margins": {
      "left": 60,
      "right": 63
@@ -754,10 +754,10 @@
       "sel": "section#experience.wrap.section",
       "tag": "section",
       "top": 4311,
-      "height": 809,
-      "words": 140,
+      "height": 709,
+      "words": 119,
       "media": 0,
-      "middle": 34,
+      "middle": 37,
       "heading": {
        "text": "Experience & education",
        "size": 52,
@@ -776,7 +776,7 @@
      {
       "sel": "section#contact.wrap.section",
       "tag": "section",
-      "top": 5120,
+      "top": 5020,
       "height": 617,
       "words": 45,
       "media": 0,
@@ -813,12 +813,12 @@
       "n": 16
      },
      {
-      "x": 744,
+      "x": 200,
       "n": 6
      },
      {
-      "x": 200,
-      "n": 5
+      "x": 744,
+      "n": 6
      },
      {
       "x": 854,
@@ -829,7 +829,7 @@
       "n": 2
      }
     ],
-    "leftBlocks": 33,
+    "leftBlocks": 34,
     "bodySize": 18,
     "stage": false,
     "explains": true,
@@ -857,8 +857,8 @@
     0.62,
     0.59,
     0.35,
-    0.68,
-    0.49
+    0.62,
+    0.48
    ],
    "motion": {
     "elements": 61,
@@ -874,9 +874,9 @@
      "h": 1024
     },
     "page": {
-     "height": 7983,
-     "screens": 7.8,
-     "words": 680,
+     "height": 7883,
+     "screens": 7.7,
+     "words": 660,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -1262,7 +1262,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.82,
-      "top": 7250,
+      "top": 7150,
       "tag": "h2",
       "kind": "heading"
      }
@@ -1364,7 +1364,7 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.68
+       "share": 0.67
       },
       {
        "color": "#eef2f7",
@@ -1372,7 +1372,7 @@
       },
       {
        "color": "#0b1220",
-       "share": 0.08
+       "share": 0.09
       },
       {
        "color": "#c6f432",
@@ -1447,7 +1447,7 @@
      "w": 768,
      "h": 1024
     },
-    "pageH": 7983,
+    "pageH": 7883,
     "margins": {
      "left": 31,
      "right": 31
@@ -1618,8 +1618,8 @@
       "sel": "section#experience.wrap.section",
       "tag": "section",
       "top": 5893,
-      "height": 1222,
-      "words": 140,
+      "height": 1122,
+      "words": 119,
       "media": 0,
       "middle": 0,
       "heading": {
@@ -1640,7 +1640,7 @@
      {
       "sel": "section#contact.wrap.section",
       "tag": "section",
-      "top": 7116,
+      "top": 7015,
       "height": 659,
       "words": 45,
       "media": 0,
@@ -1678,7 +1678,7 @@
      },
      {
       "x": 171,
-      "n": 5
+      "n": 6
      },
      {
       "x": 416,
@@ -1689,7 +1689,7 @@
       "n": 2
      }
     ],
-    "leftBlocks": 33,
+    "leftBlocks": 34,
     "bodySize": 18,
     "stage": false,
     "explains": true,
@@ -1714,8 +1714,8 @@
     0.44,
     0.53,
     0.5,
-    0.54,
-    0.68,
+    0.53,
+    0.7,
     0.71
    ],
    "motion": {
@@ -1732,9 +1732,9 @@
      "h": 844
     },
     "page": {
-     "height": 9066,
-     "screens": 10.7,
-     "words": 678,
+     "height": 8936,
+     "screens": 10.6,
+     "words": 658,
      "img": 4,
      "video": 0,
      "canvas": 0,
@@ -2120,7 +2120,7 @@
       "align": "left",
       "position": "center",
       "widthRatio": 0.75,
-      "top": 7959,
+      "top": 7830,
       "tag": "h2",
       "kind": "heading"
      }
@@ -2223,11 +2223,11 @@
      "textColors": [
       {
        "color": "#9aa6bc",
-       "share": 0.67
+       "share": 0.66
       },
       {
        "color": "#eef2f7",
-       "share": 0.18
+       "share": 0.19
       },
       {
        "color": "#0b1220",
@@ -2306,7 +2306,7 @@
      "w": 390,
      "h": 844
     },
-    "pageH": 9066,
+    "pageH": 8936,
     "margins": {
      "left": 16,
      "right": 18
@@ -2316,8 +2316,8 @@
       "sel": "div.page-in",
       "tag": "div",
       "top": 0,
-      "height": 8802,
-      "words": 688,
+      "height": 8672,
+      "words": 667,
       "media": 4,
       "middle": 0,
       "heading": {
@@ -2338,7 +2338,7 @@
      {
       "sel": "footer.footer",
       "tag": "footer",
-      "top": 8898,
+      "top": 8768,
       "height": 168,
       "words": 16,
       "media": 0,
@@ -2368,14 +2368,14 @@
     "edges": [
      {
       "x": 16,
-      "n": 31
+      "n": 32
      },
      {
       "x": 48,
       "n": 2
      }
     ],
-    "leftBlocks": 33,
+    "leftBlocks": 34,
     "bodySize": 18,
     "stage": false,
     "explains": true,

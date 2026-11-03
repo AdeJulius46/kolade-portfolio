@@ -27,11 +27,7 @@ const experience: { when: string; title: string; org: string; text?: string; lis
     when: "Jan – Jul 2026",
     title: "Data Science Intern",
     org: "DayFigurez Consult Limited, Abuja",
-    list: [
-      "Developed and deployed the loan default prediction model in Python and Streamlit.",
-      "Built a pipeline maintenance prediction system with Streamlit and Render, reaching 95% accuracy on test data.",
-      "Wrote SQL queries for data transformation and analysis.",
-    ],
+    text: "Applied Python, SQL, statistics and machine learning to practical projects, working to deadlines in a team.",
   },
   { when: "Certificate", title: "Professional Certificate in Data Science", org: "SQI College of ICT", text: "Python, SQL, statistics, machine learning and data visualisation." },
   { when: "Degree", title: "B.Eng. Mechanical Engineering, First Class", org: "Adeleke University", text: "Statistics, physics and modelling foundations, later applied to projects like pipeline maintenance prediction." },
